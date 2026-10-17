@@ -1,6 +1,6 @@
 #!/bin/bash
 # One-step setup for the patched Parallels Desktop build:
-#   1. pristine DMG (attached to the private GitHub release) -> source/
+#   1. pristine DMG (GitHub release asset) -> source/   [gh, or curl fallback]
 #   2. local "PDLocal Code Sign" signing identity (created on first use)
 #   3. deliverable/install.command (rebuilds + installs the patched app)
 # Safe to re-run: every step is idempotent and verified.
@@ -11,7 +11,9 @@ cd "$DIR" || exit 1
 
 REPO="pentoshi007/parallels-patched"
 TAG="v27.0.3-58680"
-DMG="$DIR/source/ParallelsDesktop-27.0.3-58680.dmg"
+DMG_NAME="ParallelsDesktop-27.0.3-58680.dmg"
+DMG="$DIR/source/$DMG_NAME"
+URL="https://github.com/$REPO/releases/download/$TAG/$DMG_NAME"
 SHA="301175ad94bc8575adb3f4ced24e9707a328c0e4220330cc4e92bd1da6da6bea"
 
 say() { printf '%s\n' "$*"; }
@@ -23,11 +25,17 @@ mkdir -p "$DIR/source"
 if [ -f "$DMG" ] && [ "$(shasum -a 256 "$DMG" | awk '{print $1}')" = "$SHA" ]; then
   say "[1/3] pristine DMG present, checksum OK"
 else
-  say "[1/3] fetching pristine DMG from private release $TAG ..."
-  command -v gh >/dev/null 2>&1 || die "gh CLI required (brew install gh) - the release download needs your GitHub login if the repo is private."
-  gh auth status >/dev/null 2>&1 || die "Not logged in to GitHub - run: gh auth login"
+  say "[1/3] fetching pristine DMG (release asset, ~155 MB) ..."
   rm -f "$DMG"
-  gh release download "$TAG" -R "$REPO" -p '*.dmg' -D "$DIR/source" --clobber || die "release download failed"
+  if command -v gh >/dev/null 2>&1 && gh auth status >/dev/null 2>&1; then
+    gh release download "$TAG" -R "$REPO" -p '*.dmg' -D "$DIR/source" --clobber || die "release download failed"
+  else
+    say "      (gh CLI not available or not logged in - using curl)"
+    curl -fL --retry 3 --progress-bar -o "$DMG" "$URL" || {
+      rm -f "$DMG"
+      die "download failed. Alternative: download $DMG_NAME from the release page in your browser and place it at source/."
+    }
+  fi
   [ "$(shasum -a 256 "$DMG" | awk '{print $1}')" = "$SHA" ] || die "DMG checksum mismatch - refusing to continue."
   say "      downloaded + verified"
 fi
