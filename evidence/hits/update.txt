@@ -1,0 +1,4 @@
+s3-libPrlXmlModel.txt: 7f8a91 https://update.parallels.com/desktop/v27/parallels/parallels_updates.xml
+s3-libPrlXmlModel.txt:11ebab5 https://update.parallels.com/desktop/v27/parallels/parallels_updates.xml
+s5-libPrlGui.txt: 23cfe0 https://update.parallels.com/desktop/v27/parallels/parallels_updates.xml
+s5-libPrlGui.txt: 69e761 https://update.parallels.com/desktop/v27/parallels/parallels_updates.xml

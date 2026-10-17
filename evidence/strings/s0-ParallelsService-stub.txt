@@ -1,0 +1,612 @@
+     28 __PAGEZERO
+     70 __TEXT
+     b0 __text
+     c0 __TEXT
+    100 __stubs
+    110 __TEXT
+    150 __stub_helper
+    160 __TEXT
+    1a0 __objc_stubs
+    1b0 __TEXT
+    1f0 __const
+    200 __TEXT
+    240 __cstring
+    250 __TEXT
+    290 __gcc_except_tab__TEXT
+    2e0 __info_plist
+    2f0 __TEXT
+    330 __objc_methname
+    340 __TEXT
+    380 __unwind_info
+    390 __TEXT
+    3d8 __DATA_CONST
+    418 __got
+    428 __DATA_CONST
+    468 __cfstring
+    478 __DATA_CONST
+    4b8 __objc_imageinfo__DATA_CONST
+    510 __DATA
+    550 __la_symbol_ptr
+    560 __DATA
+    5a0 __objc_selrefs
+    5b0 __DATA
+    5f0 __objc_classrefs__DATA
+    640 __data
+    650 __DATA
+    690 __common
+    6a0 __DATA
+    6e0 __bss
+    6f0 __DATA
+    738 __LINKEDIT
+    81c /usr/lib/dyld
+    8a8 /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation
+    908 /usr/lib/libc++.1.dylib
+    938 /usr/lib/libSystem.B.dylib
+    970 /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+    9d8 /usr/lib/libobjc.A.dylib
+   3c69 service-wrap
+   3c76 sigaction() for sig %d failed with error %d
+   3ca2 /bin/bash
+   3cb5 bootstrap_get_root
+   3cc8 bootstrap_look_up_per_user
+   3ce3 Bootstrap API not available!
+   3d00 Bootstrap task port not available, err = %d!
+   3d2d Bootstrap root port not available, err = %d!
+   3d5a Bootstrap user port not available, err = %d!
+   3d87 Failed to set bootstrap port, err = %d!
+   3daf Bootstrap task port deallocate failed, err = %d!
+   3de0 Unable to allocate argv
+   3df8 dup2 failed. errno=%d, %s
+   3e12 Unable to execute script. errno=%d, %s
+   3e39 write() failed with errno=%d, %s
+   3e5a waitpid failed with errno=%d, %s
+   3e82 error: failed to execute subprocess: %d
+   3eab Unable to create pipes. errno=%d, %s
+   3ed0 Unable to start process. errno=%d, %s
+   3ef6 Can't create logging thread
+   3f12 Can't get bundle location file stat: %d (%s)
+   3f40 incorrect owner (%d) or mode (%od)
+   3f64 Read failed: %d (%s)
+   3f7a /Library/Preferences/Parallels/parallels-desktop.loc
+   3faf Can't open bundle location file (%s): %d (%s)
+   3fde Can't get current location ('%s') stat
+   4006 Can't get saved location ('%s') stat
+   402c Locations mismatch: '%s' vs '%s'
+   404e Wrong path
+   405a Can't get dirname for current location: %d (%s)
+   408b %s/Contents/MacOS
+   409d Tool long path for stored location
+   40c1 /usr/lib/system/libsystem_pthread.dylib
+   40e9 pthread_threadid_np
+   40fd O(%d) 
+   4104 /%s:%lld:%x/ 
+   4112 [%s] 
+   411c {%s @ %s:%i} 
+   412a %s/%s
+   4130 %m-%d %H:%M:%S
+   413f .%03d 
+   4146 parallels.log
+   4180 <?xml version="1.0" encoding="UTF-8"?>
+   41a7 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+   4217 <plist version="1.0">
+   422d <dict>
+   4234 	<key>CFBundleInfoDictionaryVersion</key>
+   425e 	<string>6.0</string>
+   4274 	<key>CFBundleDevelopmentRegion</key>
+   429a 	<string>English</string>
+   42b4 	<key>LSMinimumSystemVersion</key>
+   42d7 	<string>14.0</string>
+   42ee 	<key>CFBundleGetInfoString</key>
+   4310 	<string>27.0.3, Copyright 2026 Parallels International GmbH</string>
+   4356 	<key>CFBundleShortVersionString</key>
+   437d 	<string>27.0.3</string>
+   4396 	<key>VCSRevision</key>
+   43ae 	<string>0</string>
+   43c2 	<key>CFBundleVersion</key>
+   43de 	<string>58680</string>
+   43f6 	<key>CFMajorVersion</key>
+   4411 	<integer>27</integer>
+   4428 	<key>CFMinorVersion</key>
+   4443 	<integer>0</integer>
+   4459 	<key>PrlBuild</key>
+   446e 	<integer>58680</integer>
+   4488 	<key>CFBundleIdentifier</key>
+   44a7 	<string>com.parallels.desktop.console.common</string>
+   44de </dict>
+   44e6 </plist>
+   44ef stringByAppendingPathComponent:
+   450f UTF8String
+   451a createDirectoryAtPath:withIntermediateDirectories:attributes:error:
+   455e drain
+   4564 objectAtIndex:
+   d000 #!/bin/sh
+   d00a # vim:ts=4:sw=4:noexpandtab
+   d028 # Parallels Desktop dispatcher and network.
+   d056 # Copyright (c) 2004-2025 Parallels International GmbH. All rights reserved.
+   d0a3 # http://www.parallels.com
+   d0c0 export PATH=/bin:/sbin:/usr/bin:/usr/sbin
+   d0eb COMMAND="${1}"
+   d0fa BundleDir="${@:(-1)}" # last argument
+   d121 BundleContentsDir="${BundleDir}/Contents"
+   d14b BundleDirOwners=$(stat -f '%Su:%Sg' "${BundleDir}")
+   d180 ParallelsWatchdog="${BundleContentsDir}/MacOS/watchdog"
+   d1b8 ParallelsDispatcherService="${BundleContentsDir}/MacOS/Parallels Service.app/Contents/MacOS/prl_disp_service"
+   d226 ServicePath="${BundleContentsDir}"
+   d249 ParallelsNetStart="${ServicePath}/MacOS/prl_net_start"
+   d280 ParallelsNatService="${ServicePath}/MacOS/prl_naptd"
+   d2b6 DispatcherAppName='prl_disp_service'
+   d2db NatAppName='prl_naptd'
+   d2f2 NatWatchdogTimeout=60 # seconds
+   d312 NatWatchdogLimit=20 # times
+   d32f LaunchdMode="launchd-mode"
+   d34b LAUNCHD_PLIST=/Library/LaunchDaemons/com.parallels.desktop.launchdaemon.plist
+   d399 LAUNCHD_ID=com.parallels.desktop.launchdaemon
+   d3c8 PrlServiceLockFile="/var/run/prl_desktop_services.lock"
+   d400 PrlServiceFgLockFile="/var/run/prl_desktop_services_foreground.lock"
+   d445 DispatcherPidFile="/var/run/prl_disp_service.pid"
+   d477 NatPidFile="/var/run/prl_naptd.pid"
+   d49c DispPid=
+   d4a6 StartNaptd=
+   d4b3 log() {
+   d4bb 	echo "$@"
+   d4c9 atexit() {
+   d4d4 	rm -f "$PrlServiceLockFile" "$PrlServiceFgLockFile"
+   d50c check_instance() {
+   d51f 	# Will try to aquire lock for 60 second. Will not do anything if Parallels
+   d56b 	# Services are already running in foreground mode (like launch daemon).
+   d5b4 	for i in {1..60}; do
+   d5ca 		if shlock -f "$PrlServiceLockFile" -p $$; then
+   d5fb 			rm -f "$PrlServiceFgLockFile"
+   d61c 			trap atexit EXIT
+   d630 			return
+   d640 		if [ -e "$PrlServiceFgLockFile" ]; then
+   d66a 			log 'Another instance of Parallels Services is running in' \
+   d6aa 					'foreground mode. Refusing to do anything'.
+   d6db 			exit 0
+   d6ea 		log 'Another instance of Parallels Services is already running.' \
+   d72f 			'Will retry in a second'
+   d74b 		sleep 1
+   d755 	done
+   d75b 	log 'Failed to get lock-file to start Parallels Services. Aborting.'
+   d7a1 	exit 1
+   d7ac check_util() {
+   d7bb 	if [ ! -x "${1}" ]; then
+   d7d5 		log "'${1}' is missed or not an executable"
+   d803 		return 1
+   d812 	return 0
+   d81f wait_for_stop() {
+   d831 	local timeout=$1
+   d843 	local sleep_time=1
+   d857 	local curr_wait=0
+   d86a 	log "Wait until dispatcher stops with timeout in $timeout secs."
+   d8ac 	while true; do
+   d8bc 			local pid=$(get_pid "${DispatcherAppName}" "${DispatcherPidFile}")
+   d902 			if [ -z "${pid}" ]; then
+   d91e 				log "Dispatcher was stopped in $curr_wait secs"
+   d952 				return 0
+   d95f 			fi
+   d966 			sleep $sleep_time
+   d97c 			let "curr_wait += $sleep_time"
+   d99e 			if [ "$curr_wait" -gt "$timeout" ]; then
+   d9ca 				log "Timeout expired. Unable to wait dispatcher stop."
+   da05 				break
+   da0f 			fi
+   da15 	done
+   da1b 	return 1
+   da28 warm_up() {
+   da34 	local ParallelsVm="${BundleContentsDir}/MacOS/Parallels VM.app/Contents/MacOS/prl_vm_app"
+   da8f 	if [ -f "${ParallelsVm}" ]; then
+   dab1 		"${ParallelsVm}" --mode cache >/dev/null 2>&1 &
+   daea need_start_naptd() {
+   daff 	"${ParallelsNetStart}" need_naptd
+   db22 	StartNaptd=$?
+   db31 	return $StartNaptd
+   db48 prepare_start_net() {
+   db5e 	log "Starting Parallels networking..."
+   db86 	"${ParallelsNetStart}"
+   db9e 	if [ "x${?}" != "x0" ]; then
+   dbbc 		log "Failed to start Parallels networking"
+   dbe9 		exit 1
+   dbf9 start_net() {
+   dc07 	if ! need_start_naptd; then
+   dc24 		return
+   dc31 	"${ParallelsWatchdog}" start "${NatWatchdogTimeout}" "${NatWatchdogLimit}" "${ParallelsNatService}" start >/dev/null 2>&1 &
+   dcae 	log 'Parallels networking sucessfully started'
+   dce1 stop_net() {
+   dcee 	if ! need_start_naptd; then
+   dd0b 		return
+   dd18 	log "Stopping Parallels networking"
+   dd3d 	local pid=$(get_pid "${NatAppName}" "${NatPidFile}")
+   dd73 	if [ -z "$pid" ]; then
+   dd8b 		log error "Cannot find pid for ${ParallelsNatService}"
+   ddc4 		return
+   ddd1 	"${ParallelsWatchdog}" kill "${ParallelsNatService}" "${pid}" >/dev/null 2>&1
+   de20 	log "Parallels Networking was stopped with retcode $?"
+   de5b # Return requested PID
+   de72 # Delete PID file if process isn't running
+   de9d get_pid() {
+   dea9 	local ProcessName="${1}"
+   dec3 	local PidFile="${2}"
+   ded9 	local pid=""
+   dee7 	if [ -f "${PidFile}" ]; then
+   df05 		pid=$(head -n 1 "${PidFile}")
+   df25 		# check that it is our process && check for zombi
+   df59 		ps -cp "${pid}" | grep -q "${ProcessName}" && kill -0 "${pid}" >/dev/null 2>&1
+   dfaa 		if [ $? -ne 0 ]; then
+   dfc2 			# Obsolete pid-file, drop it.
+   dfe3 			rm -f "${PidFile}" >/dev/null 2>&1
+   e009 			pid=""
+   e01d 	echo ${pid}
+   e02b 	if [ -n "${pid}" ]; then
+   e045 		return 0
+   e050 	else
+   e056 		return 1
+   e068 start_disp() {
+   e077 	log "Starting Parallels Dispatcher Service"
+   e0a5 	# Check for running dispatcher
+   e0c5 	local pid=$(get_pid "${DispatcherAppName}" "${DispatcherPidFile}")
+   e109 	if [ -n "${pid}" ]; then
+   e123 		log "Parallels Dispatcher Service is already running (pid:${pid})"
+   e168 		return
+   e176 	local launchd_param=
+   e18c 	if [ x"$1" == x"${LaunchdMode}" ]; then
+   e1b5 		launchd_param="--launchd-mode"
+   e1db 	"${ParallelsDispatcherService}" --pidfile "${DispatcherPidFile}" "${launchd_param}" >/dev/null 2>&1 &
+   e242 	local rc=$?
+   e24f 	DispPid=$!
+   e25b 	if [ $rc -ne 0 -o -z "$DispPid" ]; then
+   e284 		log "Failed to start Parallels Dispatcher Service"
+   e2b9 		exit 1
+   e2c7 	log "Parallels Dispatcher Service sucessfully started, pid=${DispPid}"
+   e312 stop_disp() {
+   e320 	log "Stopping Parallels Dispatcher Service"
+   e34e 	local pid=$(get_pid "${DispatcherAppName}" "${DispatcherPidFile}")
+   e392 	if [ -z "${pid}" ]; then
+   e3ac 		log "Parallels Dispatcher Service is not running"
+   e3e0 		return 1
+   e3f0 	log "Parallels Dispatcher pid=${pid}"
+   e417 	kill -TERM "${pid}" 2>/dev/null
+   e438 	# Default timeout for Dispatcher to stop VM-s is 120 seconds. Lets add 10
+   e483 	# seconds for other deinit work.
+   e4a5 	wait_for_stop 130 && return
+   e4c3 	log warning 'Parallels Dispacher Services stop timeout expired.' \
+   e507 			"Sending SIGKILL to PID '${pid}'"
+   e52c 	kill -KILL "$pid"
+   e542 start_loaded_launchd() {
+   e55b 	if launchctl start "$LAUNCHD_ID" > /dev/null 2>&1; then
+   e594 		log 'Parallels Services launch daemon is starting'
+   e5c9 		return 0
+   e5d9 	log error 'Failed to start Parallels Services launch daemon with error $?'
+   e625 	return 1
+   e632 start_service() {
+   e645 	local is_launchd=0
+   e659 	if [ x"$1" == x"${LaunchdMode}" ]; then
+   e682 		is_launchd=1
+   e696 	# check to start services in proper mode
+   e6c0 	if [ $is_launchd -eq 0 ] && is_plist_loaded_by_launchd ; then
+   e6ff 		start_loaded_launchd
+   e716 		return $?
+   e727 	local rc=0
+   e734 	umask 0022
+   e741 	prepare_start_net
+   e755 	start_disp "$1"
+   e767 	[ ${rc} -eq 0 ] && start_net
+   e786 	# Prepare binaries for start
+   e7a4 	warm_up
+   e7ae 	# Do wait when it was started by launchd
+   e7d8 	if [ $is_launchd -eq 1 ]; then
+   e7f8 		touch "$PrlServiceFgLockFile"
+   e819 		# This trap is called on SIGTERM. But `exit 0` raises another "global"
+   e862 		# trap `atexit`.
+   e875 		trap 'teardown_service;exit 0' TERM
+   e89c 		if [ -n "$DispPid" ]; then
+   e8b9 			wait "$DispPid"
+   e8cc 			log 'Parallels Dispatcher Service was stopped'
+   e908 	return $rc
+   e917 teardown_service() {
+   e92c 	stop_disp
+   e937 	stop_net
+   e941 	log 'Parallels Services have stopped'
+   e96b is_plist_installed() {
+   e982 	[ -f "$LAUNCHD_PLIST" ]
+   e99e is_plist_loaded_by_launchd() {
+   e9bd 	launchctl list "$LAUNCHD_ID" >/dev/null 2>&1
+   e9ee launchd_load() {
+   e9ff 	local plist="$1"
+   ea11 	launchctl setenv PRL_PD_JUST_INSTALLED 1
+   ea3b 	launchctl bootstrap system "$plist"
+   ea60 	local rc=$?
+   ea6d 	[ $rc -eq 0 ] &&
+   ea7f 		log 'Parallels Services launch daemon loaded' ||
+   eab2 		log error 'Failed to load Parallels Services launch daemon'
+   eaf0 	launchctl unsetenv PRL_PD_JUST_INSTALLED
+   eb1b 	return $rc
+   eb2a stop_service() {
+   eb3b 	# If Parallels Services are running as a launch daemon they hold a
+   eb7f 	# lock-file. In order to stop daemon we need to sidestep lock-file check.
+   ebca 	if is_plist_loaded_by_launchd; then
+   ebef 		if is_plist_installed; then
+   ec0d 			log 'Parallels Services are running as launch daemon: skip stop'
+   ec51 		else
+   ec58 			launchctl stop "$LAUNCHD_ID"
+   ec78 			launchctl remove "$LAUNCHD_ID"
+   ec9a 			log 'Parallels Services launch daemon unloaded'
+   ecd2 		return
+   ece0 	check_instance
+   ecf0 	teardown_service
+   ed03 	if is_plist_installed; then
+   ed20 		launchd_load "$LAUNCHD_PLIST"
+   ed47 start_launchd() {
+   ed59 	if is_plist_loaded_by_launchd; then
+   ed7e 		start_loaded_launchd
+   ed95 		return $?
+   eda6 	local plist=$LAUNCHD_PLIST
+   edc2 	if ! is_plist_installed; then
+   ede1 		local disp_bundle="${BundleDir}/Contents/MacOS/Parallels Service.app"
+   ee29 		plist=${disp_bundle}/Contents/Resources/${LAUNCHD_PLIST##*/}
+   ee6d 	launchd_load "$plist"
+   ee87 log "Is executed with params '$@'"
+   eeab if [ $# -ne 2 ]; then
+   eec1 	log "Incorrect parameters count $#"
+   eee6 	exit 1
+   eef7 case $COMMAND in
+   ef08 	service_start_launchd)
+   ef20 		check_instance
+   ef31 		start_launchd
+   ef41 		RC=$?
+   ef4d 	service_start)
+   ef5d 		check_instance
+   ef6e 		start_service
+   ef7e 		RC=$?
+   ef8a 	start)
+   ef92 		check_instance
+   efa3 		start_service "${LaunchdMode}"
+   efc4 		RC=$?
+   efd0 	service_stop)
+   efdf 		stop_service
+   efee 		RC=$?
+   effa 	service_restart)
+   f00c 		stop_service; start_service
+   f02a 		RC=$?
+   f03c exit $RC
+  10011 @_OBJC_CLASS_$_NSAutoreleasePool
+  10037 @_OBJC_CLASS_$_NSFileManager
+  10056 @___gxx_personality_v0
+  10071 @___chkstk_darwin
+  10084 @___stack_chk_guard
+  10099 @_mach_task_self_
+  100ac @dyld_stub_binder
+  100c0 @___CFConstantStringClassReference
+  100e7 @_objc_msgSend
+  1010b @_NSSearchPathForDirectoriesInDomains
+  10136 @__NSGetExecutablePath
+  10152 @__Unwind_Resume
+  10168 @__ZSt9terminatev
+  1017f @___cxa_begin_catch
+  10198 @___error
+  101a7 @___stack_chk_fail
+  101bf @_calloc
+  101cd @_close
+  101da @_dirname
+  101e9 @_dlopen
+  101f7 @_dlsym
+  10204 @_dup2
+  10210 @_execv
+  1021d @_exit
+  10229 @_fchmod
+  10238 @_fcntl
+  10246 @_fork
+  10253 @_free
+  10260 @_fstat
+  1026e @_getdtablesize
+  10284 @_geteuid
+  10294 @_getpid
+  102a3 @_gettimeofday
+  102b8 @_getuid
+  102c7 @_kill
+  102d4 @_localtime_r
+  102e8 @_mach_port_deallocate
+  10305 @_malloc
+  10314 @_objc_alloc_init
+  1032c @_objc_autorelease
+  10345 @_open
+  10352 @_pipe
+  1035f @_pthread_create
+  10376 @_pthread_join
+  1038b @_pthread_mach_thread_np
+  103aa @_pthread_self
+  103bf @_pthread_setname_np
+  103da @_read
+  103e7 @_setuid
+  103f6 @_sigaction
+  10408 @_snprintf
+  10419 @_sprintf
+  10429 @_stat
+  10436 @_strdup
+  10445 @_strerror
+  10456 @_strftime
+  10467 @_strlen
+  10476 @_strncpy
+  10486 @_task_get_special_port
+  104a4 @_task_set_special_port
+  104c2 @_time
+  104cf @_vsnprintf
+  104e1 @_waitpid
+  104f1 @_write
+  10502 __mh_execute_header
+  10b44 __mh_execute_header
+  10b58 _NSSearchPathForDirectoriesInDomains
+  10b7d _OBJC_CLASS_$_NSAutoreleasePool
+  10b9d _OBJC_CLASS_$_NSFileManager
+  10bb9 __NSGetExecutablePath
+  10bcf __Unwind_Resume
+  10bdf __ZSt9terminatev
+  10bf0 ___CFConstantStringClassReference
+  10c12 ___chkstk_darwin
+  10c23 ___cxa_begin_catch
+  10c36 ___error
+  10c3f ___gxx_personality_v0
+  10c55 ___stack_chk_fail
+  10c67 ___stack_chk_guard
+  10c7a _calloc
+  10c82 _close
+  10c89 _dirname
+  10c92 _dlopen
+  10c9a _dlsym
+  10ca1 _dup2
+  10ca7 _execv
+  10cae _exit
+  10cb4 _fchmod
+  10cbc _fcntl
+  10cc3 _fork
+  10cc9 _free
+  10ccf _fstat
+  10cd6 _getdtablesize
+  10ce5 _geteuid
+  10cee _getpid
+  10cf6 _gettimeofday
+  10d04 _getuid
+  10d0c _kill
+  10d12 _localtime_r
+  10d1f _mach_port_deallocate
+  10d35 _mach_task_self_
+  10d46 _malloc
+  10d4e _objc_alloc_init
+  10d5f _objc_autorelease
+  10d71 _objc_msgSend
+  10d7f _open
+  10d85 _pipe
+  10d8b _pthread_create
+  10d9b _pthread_join
+  10da9 _pthread_mach_thread_np
+  10dc1 _pthread_self
+  10dcf _pthread_setname_np
+  10de3 _read
+  10de9 _setuid
+  10df1 _sigaction
+  10dfc _snprintf
+  10e06 _sprintf
+  10e0f _stat
+  10e15 _strdup
+  10e1d _strerror
+  10e27 _strftime
+  10e31 _strlen
+  10e39 _strncpy
+  10e42 _task_get_special_port
+  10e59 _task_set_special_port
+  10e70 _time
+  10e76 _vsnprintf
+  10e81 _waitpid
+  10e8a _write
+  10e91 dyld_stub_binder
+  10ea2 radr://5614542
+  10f44 com.parallels.desktop.console.common
+  10f69 4C6364ACXT
+  10fcf 9+SEf
+  1107f $com.parallels.desktop.console.common
+  110f8 subject.OU
+  1110c 4C6364ACXT
+  11198 Apple Inc.1&0$
+  111ad Apple Certification Authority1
+  111d5 Apple Root CA0
+  111e6 120201221215Z
+  111f5 270201221215Z0y1-0+
+  1120e $Developer ID Certification Authority1&0$
+  1123e Apple Certification Authority1
+  11266 Apple Inc.1
+  112e8 )xEii`k_
+  11374 1? v(m
+  11402 '0%0#
+  1140d http://crl.apple.com/root.crl0
+  11483 P9jDt
+  114f4  "ror
+  11599 Apple Inc.1&0$
+  115ae Apple Certification Authority1
+  115d6 Apple Root CA0
+  115e7 060425214036Z
+  115f6 350209214036Z0b1
+  1161d Apple Inc.1&0$
+  11632 Apple Certification Authority1
+  1165a Apple Root CA0
+  11827 https://www.apple.com/appleca/0
+  11858 Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+  11a45 0y1-0+
+  11a51 $Developer ID Certification Authority1&0$
+  11a81 Apple Certification Authority1
+  11aa9 Apple Inc.1
+  11ac4 220407115552Z
+  11ad3 270201221215Z0
+  11af5 4C6364ACXT1L0J
+  11b09 CDeveloper ID Application: Parallels International GmbH (4C6364ACXT)1
+  11b58 4C6364ACXT1%0#
+  11b6d Parallels International GmbH1
+  11cb0 +U,V2
+  11d00 40200
+  11d10 $http://ocsp.apple.com/ocsp03-devid080
+  11d65 )http://www.apple.com/certificateauthority0
+  11da2 Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+  11eae 20120229000000Z0
+  11f32 V{f7\
+  11fd1 ]fq	{zCd
+  12009 0y1-0+
+  12015 $Developer ID Certification Authority1&0$
+  12045 Apple Certification Authority1
+  1206d Apple Inc.1
+  120cc 261005100838Z0/
+  1215f <?xml version="1.0" encoding="UTF-8"?>
+  12186 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+  121ed <plist version="1.0">
+  12203 <dict>
+  1220a 	<key>cdhashes</key>
+  1221f 	<array>
+  12228 		<data>
+  12231 		Eiy1QeznE1XYnrorFjygPZuVsyM=
+  12250 		</data>
+  1225a 	</array>
+  12264 </dict>
+  1226c </plist>
+  122b0 S97zOb&a
+  12426 20261005100838Z0
+  1246e 0|100.
+  1247a 'Apple Timestamp Certification Authority1&0$
+  124ad Apple Certification Authority1
+  124d5 Apple Inc.1
+  124f0 261002202653Z
+  124ff 261113202652Z0B1
+  12519 Timestamp Signer ST021
+  12539 Apple Inc.1
+  12590 Or+D8
+  126dd http://www.apple.com/appleca0
+  1270c Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+  127df ,0*0(
+  127e9 "http://crl.apple.com/timestamp.crl0
+  1287f /KOd+
+  1298f Apple Inc.1&0$
+  129a4 Apple Certification Authority1
+  129cc Apple Root CA0
+  129dd 120405120244Z
+  129ec 270405120244Z0|100.
+  12a05 'Apple Timestamp Certification Authority1&0$
+  12a38 Apple Certification Authority1
+  12a60 Apple Inc.1
+  12b3a (ny_~
+  12b87 E~4u&
+  12bfc '0%0#
+  12c07 http://crl.apple.com/root.crl0
+  12cde Bsu|QC
+  12d93 Apple Inc.1&0$
+  12da8 Apple Certification Authority1
+  12dd0 Apple Root CA0
+  12de1 060425214036Z
+  12df0 350209214036Z0b1
+  12e17 Apple Inc.1&0$
+  12e2c Apple Certification Authority1
+  12e54 Apple Root CA0
+  13021 https://www.apple.com/appleca/0
+  13052 Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+  13227 0|100.
+  13233 'Apple Timestamp Certification Authority1&0$
+  13266 Apple Certification Authority1
+  1328e Apple Inc.1
+  132ea 261005100838Z0#
+  13366 t>;_h

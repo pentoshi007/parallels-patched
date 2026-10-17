@@ -1,0 +1,4598 @@
+     28 __PAGEZERO
+     70 __TEXT
+     b0 __text
+     c0 __TEXT
+    100 __stubs
+    110 __TEXT
+    150 __stub_helper
+    160 __TEXT
+    1a0 __gcc_except_tab__TEXT
+    1f0 __cstring
+    200 __TEXT
+    240 __const
+    250 __TEXT
+    290 __info_plist
+    2a0 __TEXT
+    2e0 __unwind_info
+    2f0 __TEXT
+    338 __DATA_CONST
+    378 __got
+    388 __DATA_CONST
+    3c8 __mod_init_func
+    3d8 __DATA_CONST
+    418 __const
+    428 __DATA_CONST
+    470 __DATA
+    4b0 __la_symbol_ptr
+    4c0 __DATA
+    500 __data
+    510 __DATA
+    550 __bss
+    560 __DATA
+    5a0 __common
+    5b0 __DATA
+    5f8 __LINKEDIT
+    6dc /usr/lib/dyld
+    768 @rpath/ParallelsVirtualizationSDK.framework/Versions/11/libprl_sdk.11.dylib
+    7d0 /usr/lib/libc++.1.dylib
+    800 /usr/lib/libSystem.B.dylib
+    85c @loader_path/../Frameworks
+   3a80 h>B9	
+   3c34 (\A9	
+   44bc h>B9	
+   505c k^@9l
+   50bb 5h^@9	
+   65fb T(<B9	
+   7970 (|C9	
+   7c64 (|C9	
+   82e8 )	@yj
+   90cc (\@9	
+   9205 j58i^
+   95be ?6t&C
+   95dc Iii8	
+   b45f 5hB@9
+   bb0f Th^@9	
+   c0d4 (_A9h
+   c0da ?6('@
+   e113 Th^@9	
+  1214d !@9*F
+  13e94 (dh9	
+  141db 4hnh9
+  141e7 Th&g9
+  14203 Rh&'9
+  1535b Th^@9	
+  15642 C9zr@
+  15870 (\@9	
+  15a6b 7H$g9(
+  15c7c +ih8J	
+  15d24 (@M9"DM9#
+  16a90 (\@9	
+  180c0 	\@9(
+  180d4 j^@9I
+  18118 	\@9(
+  1812c j^@9I
+  19987 T(\@9	
+  1a614 i~@9*
+  1baac (|@9	
+  1d4cc 	a@Q)
+  1d5d0 )a@Q)
+  1dad4 bf@9cb@9
+  1db00 	a@Q?
+  1f30d bA9hb
+  20089 B@yhB
+  219ec ?k78V
+  21cb4 +ih8J	
+  228f0 ($n9	
+  24168 )\@9(
+  245a2 @y)	@9
+  28180 (\@9	
+  2819c (,A9	
+  282d0 (\@9	
+  28490 h>e9	
+  28574 (\@9	
+  287c8 )\@9(
+  28958 (hh9	
+  2972c (@n9	
+  2c1f8 (\@9	
+  2f1dc 	\@9(
+  2f1f0 j^@9I
+  2f234 	\@9(
+  2f248 j^@9I
+  35f9c 	\@9(
+  35fb0 *\@9I
+  37308 hC@9 
+  381df TiC@9
+  3844c )\@9*
+  385d4 )\@9*
+  38904 	\@9*
+  396f8 )\@9*
+  39784 (\@9)(@
+  3d191 {hx)	
+  3d88c h^@9	
+  3d94d j58h^
+  3e6de 29+C'
+  3ea7c jzhx)	
+  4293c jkh8)	
+  42b12 @y)	@9+
+  43c95 #,9,C'
+  43eb1 zhx)	
+  473a1 rh9ir(9h
+  4970a  9uB!
+  4979a "9hb"
+  497e2 #9hb#
+  4982a $9ub$
+  49892 $9uB%
+  49ab6 )9uB*
+  49b1a *9u"+
+  49db6 09ub0
+  49e12 09h"1
+  49e62 29ub2
+  4c32f T*	@9_
+  4c5c4 	\@9*
+  4c5e7 T*iy8
+  4c6fc Iii8?
+  4c8dc $F@8ED@8&D@8
+  4cae0 *iz8Z
+  4cb6d j58h^
+  4cc80 h^@9	
+  4d024 +ih8J	
+  4e05a @y)	@9K
+  4ece4 []@9h
+  4f1cb R?AHk
+  4f5d8 	\@9(
+  4fa13 Th^@9i*@
+  501d4 i^@9(
+  50edc 	 @9j
+  5116d 	@9*l
+  5147d 	@9jL
+  5179d j48h^
+  51874 h^@9	
+  519c2 @y)	@9
+  51b58 )	@yj
+  52687 R	a@Q)
+  526b8 	a@Q)Y"Q
+  529b4 h^@9	
+  52a00 _i)8i^
+  52a4d j)8i^
+  52fbd bA9hb
+  53130 ) @9	 
+  5518f T		@9?
+  55247 ThbC9
+  55508 +yhxJ	
+  55b03 RhbC9
+  56bb3 TI	@9?
+  56c0f TI	@9?
+  56c57 TI	@9?
+  56c9b TI	@9?9
+  56cdf TI	@9?
+  56d5f T		@9?
+  58975 #A)	 
+  5ac3f T( @9
+  5ac84 (\@9	
+  5b0e4 ( @9	
+  5c21c (\@9	
+  5c244 (\@9	
+  5c47d i)86\
+  5d1ac h^@9	
+  5d1d8 h^@9	
+  5d214 k^@9n
+  5d4df Tk^@9l6@
+  5d55f Th^@9	
+  5d797 4h"@y
+  5d7ff 4h"@y
+  684fc PrlSrvCfgHddPart_GetType: %x
+  68519 PrlSrvCfgHddPart_GetName: %s
+  68536 PrlSrvCfgHdd_GetDevName: %s
+  68552 PrlSrvCfgDev_GetName: %s
+  6856b PrlSrvCfgHddPart_GetSysName
+  68587 PrlSrvCfgHdd_GetDiskIndex
+  685a1 PrlSrvCfgNet_GetSysIndex: %s
+  685be PrlVmDev_GetIfaceType: %s
+  685d8 PrlVmDev_GetSubType: %s
+  685f0 Remove the %s device.
+  68606 PrlVmDev_Remove: %s
+  6861a PrlVmDev_SetStackIndex: %s
+  68635 PrlVmDev_GetStackIndex: %s
+  68653 Set the %s interface.
+  6867c An invalid interface is specified: %s., The following interfaces are supported: ide, scsi.
+  686d7 PrlVmDev_SetIfaceType: %s
+  686f1 Set the %s subtype.
+  68705 buslogic
+  6870e lsi-spi
+  68716 lsi-sas
+  6871e Invalid subtype: %s, supported one: buslogic, lsi-spi, lsi-sas
+  6875d PrlVmDev_SetSubType: %s
+  68775 PrlVmDevHd_SetDiskType: %s
+  68790 PrlVmDevHd_SetBlockSize: %s
+  687ac Creating %s
+  687b8 PrlVmDev_CreateImage: %s
+  687d1 Only disk image supported for resize
+  687f6 Resize disk image '%s' up to %d
+  68816 Failed to resize: %s
+  6882b Unknown device: %s
+  6883e PrlVmDevHd_AddPartition: %s
+  6885a PrlVmDevHdPart_SetSysName: %s
+  68879 PrlVmDevHd_SetAllocationPolicy: %s
+  6889c harddisk%d.hdd
+  688ab PrlVmDev_SetImagePath: %s
+  688c5 Failed to update device info: %s
+  688e6 PrlResult_GetParam: %s
+  688fd PrlVmDevHd_IsEncrypted: %s
+  68918 You are about to add encrypted virtual hard disk to encrypted virtual machine.
+  68967 Please enter password for virtual hard disk:
+  68994 Failed to retrieve password for virtual hard disk: %s
+  689ca Failed to setup password for virtual hard disk: %s
+  689fd PrlVmDevHd_SetOnlineCompactMode: %s
+  68a21 PrlVmDev_SetPassthrough: %s
+  68a44 image
+  68a54 plain
+  68a5a expanded
+  68a71 device
+  68a78 state
+  68a7e disconnected
+  68a8b unknown
+  68a93 subtype
+  68a9b online-compact
+  68ab1 The device type is not specified. Use either the --device or --image option.
+  68afe Invalid interface: %s, supported one: ide, scsi
+  68b2e Default CD/DVD-ROM
+  68b41 The default CD-ROM was already added !
+  68b68 PrlDevNet::set_mac: %s
+  68b84 PrlVmDevNet_GenerateMacAddr: %s
+  68ba4 PrlVmDevNet_SetMacAddress: %s
+  68bc2 The --iface parameter can be specified for the bridged and host mode only.
+  68c0d default
+  68c15 Unknown interface: %s
+  68c2b VmDevNet_SetBoundAdapterName: %s
+  68c4c PrlVirtNet_GetNetworkType: %s
+  68c6a PrlVirtNet_GetNetworkId: %s
+  68c86 PrlVirtNet_GetAdapterIndex: %s
+  68ca5 Host only network interface '%s' was not found !
+  68cd6 PrlVmDevNet_SetBoundAdapterIndex: %s
+  68cfb The host-only network is not available for the macOS VM
+  68d33 An incorrect network type is specified.
+  68d5b PrlVmDevNet_GetNetAddresses: %s
+  68d7b PrlVmDevNet_SetDnsServers: %s
+  68d99 PrlVmDevNet_SetSearchDomains: %s
+  68dba The following IP addresses are invalid: '%s'
+  68de7 PrlVmDevNet_SetNetAddresses: %s
+  68e07 PrlVmDevNet_SetConfigureWithDhcp: %s
+  68e2c PrlVmDevNet_SetConfigureWithDhcpIPv6: %s
+  68e55 The following gateway is invalid: '%s'
+  68e7c PrlVmDevNet_SetDefaultGateway(%s): %s
+  68ea2 PrlVmDevNet_SetDefaultGatewayIPv6(%s): %s
+  68ecc PrlVmDevNet_GetAutoApply: %s
+  68ee9 Enable automatic reconfiguration for this network adapter.
+  68f24 PrlVmDevNet_SetAutoApply: %s
+  68f41 The --type parameter is not specified.
+  68f68 Configure %s.
+  68f76 PrlVmDevNet_SetAdapterType: %s
+  68f95 %s %s
+  68f9b bridged
+  68fa8 iface
+  68fae shared
+  68fc2 e1000
+  68fc8 e1000e
+  68fcf virtio
+  68fd6 preventpromisc
+  68fe5 mac_filter
+  68ff0 ip_filter
+  68ffa nameservers
+  69006 searchdomains
+  69021 dhcp6
+  6902e The USB device already exists.
+  6904d Creating %s.
+  6905a The device '%s' is not found
+  69077 Connect device: %s
+  6908a Failed to connect device: %s
+  690a7 The device successfully connected
+  690c9 Disconnect device: %s
+  690df Failed to disconnect device: %s
+  690ff The device successfully disconnected
+  69124 The serial port type is not sutable with socket-mode
+  69159 PrlVmDevSerial_SetSocketMode: %s
+  6917a The serial port type is not specified. Use one of the following options: --device, --output, or --socket.
+  691e4 output
+  691eb socket
+  691f7 server
+  691fe client
+  69205 PrlVmDevSound_SetOutputDev: %s
+  69224 PrlVmDevSound_SettMixerDev: %s
+  69243 The sound0 device already exists.
+  69265 mixer
+  6926f hdd-part
+  69278 cdrom
+  69286 serial
+  6928d sound
+  69295 basic_string
+  692a2 0000:0000:0000:0000:0000:0000:0000:0000
+  692cf Creating
+  692d8 Configure
+  692e2 Delete
+  692e9 PrlVmDev_GetEmulatedType: %s
+  69306 PrlVmDev_GetFriendlyName: %s
+  69323 PrlVmDev_SetEmulatedType: %s
+  69340 PrlVmDev_SetFriendlyName: %s
+  6935d PrlVmDev_SetSysName: %s
+  69375 PrlDev::set_enable %d
+  6938b PrlVmDev_SetEnabled: %s
+  693a3 PrlDev::set_connect: %d
+  693bb PrlVmDev_SetConnected: %s
+  693d5 PrlVmDev_IsEnabled: %s
+  693ec PrlVmDev_GetSysName: %s
+  69404 PrlSrv_GetCommonPrefs: %s
+  6941e PrlSrv_GetCommonPrefs PrlResult_GetParam: %s
+  6944b PrlDispCfg_IsAdjustMemAuto: %s
+  6946a PrlDispCfg_GetReservedMemLimit: %s
+  6948d PrlDispCfg_GetMaxReservMemLimit: %s
+  694b1 PrlDispCfg_CanChangeDefaultSettings: %s
+  694d9 PrlDispCfg_IsSendStatisticReport: %s
+  694fe PrlDispCfg_IsVerboseLogEnabled: %s
+  69521 PrlDispCfg_IsDisableDeletingReportArchive: %s
+  6954f PrlDispCfg_IsAddSerialPortOutputToReport: %s
+  6957c PrlDispCfg_IsLogRotationEnabled: %s
+  695a0 PrlDispCfg_IsAllowAttachScreenshotsEnabled: %s
+  695cf PrlDispCfg_GetUsbAutoConnectOption: %s
+  695f6 PrlDispCfg_GetWebPortalDomain: %s
+  69618 PrlDispCfg_IsWebPortalDomainAutoModeEnabled: %s
+  69648 PrlDispCfg_SetCanChangeDefaultSettings: %s
+  69673 PrlDispCfg_SetSendStatisticReport: %s
+  69699 PrlDispCfg_SetVerboseLogEnabled: %s
+  696bd PrlDispCfg_SetDisableDeletingReportArchive: %s
+  696ec PrlDispCfg_SetAddSerialPortOutputToReport: %s
+  6971a PrlDispCfg_SetLogRotationEnabled: %s
+  6973f PrlDispCfg_SetHeadlessModeEnabled: %s
+  69765 PrlDispCfg_GetLicenseRequestFlags: %s
+  6978b PrlDispCfg_SetLicenseRequestFlags: %s
+  697b1 PrlDispCfg_SetAllowAttachScreenshotsEnabled: %s
+  697e1 VM home
+  697e9 Memory limit
+  697f6 limit
+  69800 Manage settings for new users
+  6981e allow
+  69829 CEP mechanism
+  69837 CPU model
+  69841 Verbose log
+  6984d Log rotation
+  6985a External device auto connect
+  69877 Web portal domain
+  69889 Web portal domain auto mode
+  698a5 Allow attach screenshots
+  698be Disable deleting report archive
+  698de Add serial port output to report
+  698ff PrlDispCfg_GetCpuModel: %s
+  6991a Set memory limit: %dMb
+  69931 Set memory limit: auto
+  6994b Failed to apply new parameters: %s
+  6996e The Server has been successfully configured.
+  6999b PrlDispCfg_GetUsbIdentityCount return
+  699c1 PrlDispCfg_GetUsbIdentity %d
+  699de PrlUsbIdent_GetSystemName
+  699f8 PrlUsbIdent_GetFriendlyName
+  69a14 PrlUsbIdent_GetVmUuidAssociation
+  69a35 PrlUsbIdent_GetAutoconnectAction
+  69a56 Device: '
+  69a67 %-40s 
+  69a6e System name
+  69a7a '%s' 
+  69a80 VM UUID
+  69a88 Autoconnect-Vm-Uuid
+  69a9c Autoconnect-Vm-Name
+  69ab0 --vm-doesnt-exist--
+  69ac4 Autoconnect-Action
+  69ad7 Present-On-Host
+  69aee Connected-To-Vm
+  69afe PrlSrvCfgDev_GetVmUuidCount
+  69b1a Used-By-Vm-Uuid
+  69b2a Used-By-Vm-Name
+  69b3a Compatible-with-macOS-VM
+  69b53 <UNKNOWN>
+  69b5d Failed to set USB association error: VM not found. dev '%s' vm: '%s'
+  69ba2 Failed to set USB association error: Device not found. dev '%s' vmid: '%s'
+  69bed PrlDispCfg_SetUsbIdentAssociation error %s; name: '%s' vmid: '%s'
+  69c2f {31AA405F-FCFC-4B90-AA9A-EEC4C5A1AA8A}
+  69c56 PrlSrv_StoreValueByKey: %s
+  69c71 PrlDispCfg_SetUsbAutoConnectOption: %s
+  69c98 PrlDispCfg_SetWebPortalDomain: %s
+  69cba PrlDispCfg_SetWebPortalDomainAutoModeEnabled: %s
+  69ceb Failed to retrieve password.
+  69d08 {2CD98450-E2A1-4018-95A7-C1873C6C3052}
+  69d2f Unable to sign in: %s
+  69d45 The user has signed in successfully.
+  69d6a {47AB7319-5218-4BDE-8AD5-E78DC4574D93}
+  69d91 Unable to sign out: %s
+  69da8 The user has signed out successfully.
+  69de0 enabled
+  69df8 false
+  69e03 assignment
+  69e0e used_by
+  69e21  (since 
+  69e2c %8s  %-40s '%-s'
+  69e3d  assignment=
+  69e4a  used_by=
+  69e5e "unlimited"
+  69e6b PrlShare_GetName: %s
+  69e80 PrlShare_SetEnabled: %s
+  69e98 PrlShare_SetReadOnly: %s
+  69eb4 PrlShare_SetPath: %s
+  69ec9 PrlShare_SetDescription: %s
+  69ee5 PrlShare_SetName: %s
+  69efa Creating shared folder: %s
+  69f15 Remove shared folder '%s'
+  69f2f PrlShare_Remove: %s
+  69f43 PrlShare_IsEnabled: %s
+  69f5f PrlShare_GetPath: %s
+  69f77 PrlShare_IsReadOnly: %s
+  69f94 Name: 
+  69f9b Date: 
+  69fa2 Current: yes
+  69faf State: 
+  69fb7 Description: 
+  69fc5 Linked Clones: 
+  69fdd current
+  69fe5 DateTime
+  69fee Description
+  69ffe SavedStateItem
+  6a00d processing: %s
+  6a01d parent: %s
+  6a036 parent
+  6a03d parent vm
+  6a047 parent vm snapshot
+  6a05a linked clones
+  6a068 %38s %c%38s
+  6a075 vector
+  6a07c PARENT_SNAPSHOT_ID                      SNAPSHOT_ID
+  6a0b0 PrlSrv_RegEventHandler: %s
+  6a0cb Remote login is not supported
+  6a0e9 PrlSrv_Create returned the following error: %s
+  6a118 PrlLoginParams_Create: %s
+  6a132 Logging in
+  6a13d PrlLoginParams_SetFlags: %s
+  6a159 PRL_DISPATCHER_SOCKET
+  6a16f PrlLoginParams_SetSocketPath: %s
+  6a190 PrlLoginParams_SetUserIdentity: %s
+  6a1b3 Failed to login in local mode: %s Try to login with -l,--login option.
+  6a1fa Login failed: %s
+  6a20b PrlSrv_SetNonInteractiveSession: %s
+  6a22f PrlJob_GetResult: %s
+  6a244 PrlResult_GetParams: %s
+  6a25c PrlEvent_GetParamByName: %s
+  6a278 PrlEvtPrm_ToString: %s
+  6a28f server uuid=%s
+  6a29e sessionid=%s
+  6a2ab PrlEvtPrm_ToBoolean: %s
+  6a2c3 Sending IT Admin report to portal
+  6a2e5 PrlSrv_SendITAdminReport failed: %s
+  6a309 IT Admin report have been successfully sent.
+  6a336 Updating IT Admin policies settings from portal
+  6a366 PrlSrv_UpdateITAdminPoliciesSettings failed: %s
+  6a396 IT Admin policies settings have been successfully updated.
+  6a3d1 Updating IT Admin VMs image groups settings from portal
+  6a409 PrlSrv_UpdateITAdminAllVmSettings failed: %s
+  6a436 IT Admin VMs image groups settings have been successfully updated.
+  6a479 Logging off
+  6a485 Warning! PrlSrv_Logoff failed: %s
+  6a4a7 PrlResult_GetParamByIndex: %s
+  6a4c5 PrlVmCfg_GetUuid: %s
+  6a4da PrlVmCfg_GetName: %s
+  6a4ef PrlVmCfg_GetOsType: %s
+  6a506 Failed to get the handle; you are not logged on to the server.
+  6a545 Failed to get the list of virtual machines: %s
+  6a574 Adding the virtual machine: %s
+  6a593 Failed to get packed problem report: %s
+  6a5bb Failed to get problem report from result: %s
+  6a5e8 Failed to create local instance of problem report: %s
+  6a61e Failed to set problem report type: %s
+  6a644 Failed to assembly problem report: %s
+  6a66a Warning: couldn't collect all technical data. Trying to collect the data in the stand-alone mode...
+  6a6d2  exist 
+  6a6da  deleted
+  6a6e3 Failed to get VM config: %s
+  6a6ff PrlJob_GetResult returned the following error: %s [%d]
+  6a736 The virtual machine found: %s
+  6a754 Parallels Desktop for Mac Pro or Business Edition
+  6a786 Involved 'set' command option is available only in %s.
+  6a7bd The command is available only in %s.
+  6a7e2 The %s virtual machine does not exist.
+  6a809 The %s VM already exists.
+  6a823 Creating the VM on the basis of the %s template...
+  6a856 Failed to find the %s template.
+  6a876 Creating the virtual machine...
+  6a896 Failed to create the VM: %s
+  6a8b2 The VM has been successfully created.
+  6a8d8 Register the VM...
+  6a8eb PrlVmRegisterParams_Create: %s
+  6a90a PrlVmRegisterParams_SetVmDirPath: %s
+  6a92f PrlVmRegisterParams_SetVmUuid: %s
+  6a951 PrlVmRegisterParams_SetVmName: %s
+  6a973 PrlVmRegisterParams_SetFlags: %s
+  6a994 Failed to register the VM: %s
+  6a9b2 The VM has been successfully registered.
+  6a9db Shut down the server...
+  6a9f3 Failed to shut down the server: %s
+  6aa16 The server has been successfully shut down.
+  6aa42 GetSrvConfig PrlResult_GetParam: %s
+  6aa66 Failed to get the server configuration: %s
+  6aa91 PrlSrv::get_hw_dev_info :unhandled device type: %d
+  6aac4 Failed to get the number of devices on the server: %s
+  6aafa Failed to get the server device handle: %s
+  6ab25 add hdd device: %s
+  6ab38 add partition: %s
+  6ab4a Add the device: %s
+  6ab5d add device: %s
+  6ab6c PrlSrv_GetUserInfoList: %s
+  6ab87 PrlUsrInfo_GetName: %s
+  6ab9e PrlUsrInfo_GetUuid: %s
+  6abb5 PrlUsrInfo_GetDefaultVmFolder: %s
+  6abd7 PrlSrvCfg_GetCpuCount: %s
+  6abf1 unlimited
+  6abfb PrlSrv_GetLicenseInfo: %s
+  6ac15 PrlJob_GetEvent: %s
+  6ac29 ACTIVE
+  6ac30 EXPIRED
+  6ac38 INVALID
+  6ac40 status
+  6ac47 expiration
+  6ac52 main_period_ends_at
+  6ac66 grace_period_ends_at
+  6ac7b cpu_total
+  6ac85 max_memory
+  6ac90 product
+  6ac98 edition
+  6aca0 is_trial
+  6acac is_volume
+  6acbb activation_type
+  6accb Signed in
+  6acd5 Account email
+  6ace3 Account confirmed
+  6acf5 Hardware info
+  6ad03 PrlSrv_GetServerInfo: %s
+  6ad1f Hostname
+  6ad2b Version
+  6ad33 Build flags
+  6ad3f Started as service
+  6ad52 The license key is not specified.
+  6ad74 Failed to install the license: %s
+  6ad96 The license has been successfully installed.
+  6adc3 The license file is not specified.
+  6ade6 Failed to install the license offline: %s
+  6ae10 Failed to deactivate the license: %s
+  6ae35 The license has been successfully deactivated.
+  6ae64 The license has been successfully deactivated on the local host. To complete the operation, you should manually deactivate the license on the server side.
+  6aeff Failed to update the license: %s
+  6af20 The license has been successfully updated.
+  6af4b Failed to retrieve the list of Virtual Networks: %s
+  6af7f PrlResult_GetParamsCount: %s
+  6af9c PrlResult_GetParamsByIndex [%u]: %s
+  6afc0 Error: PrlVirtNet_Create failed: %s
+  6afe4 Error: PrlVirtNet_SetNetworkId failed: %s
+  6b00e Error: PrlVirtNet_SetDescription failed: %s
+  6b03a Error: PrlVirtNet_SetHostIPAddress failed: %s
+  6b068 Error: PrlVirtNet_SetIPNetMask failed: %s
+  6b092 Error: PrlVirtNet_SetHostAssignIP6 failed: %s
+  6b0c0 Error: PrlVirtNet_SetHostIP6Address failed: %s
+  6b0ef Error: PrlVirtNet_SetIP6NetMask failed: %s
+  6b11a Error: PrlVirtNet_SetDHCPServerEnabled failed: %s
+  6b14c Error: PrlVirtNet_SetDHCP6ServerEnabled failed: %s
+  6b17f Error: PrlVirtNet_SetDhcpIPAddress failed: %s
+  6b1ad Error: PrlVirtNet_SetDhcpIP6Address failed: %s
+  6b1dc Error: PrlVirtNet_SetIPScopeStart failed: %s
+  6b209 Error: PrlVirtNet_SetIPScopeEnd failed: %s
+  6b234 Error: PrlVirtNet_SetIP6ScopeStart failed: %s
+  6b262 Error: PrlVirtNet_SetIP6ScopeEnd failed: %s
+  6b28e Error: PrlVirtNet_SetNetworkType failed: %s
+  6b2ba Error: PrlVirtNet_SetNATServerEnabled failed: %s
+  6b2eb Error: PrlVirtNet_SetBoundCardMac failed: %s
+  6b318 Error: PrlVirtNet_SetAdapterName failed: %s
+  6b344 Failed to find network adapter %s on the server.
+  6b375 Error: PrlVirtNet_GetNetworkType failed: %s
+  6b3a1 Error: you cannot bind more than one bridged network to the same interface
+  6b3ec Error: PrlVirtNet_SetVlanTag failed: %s
+  6b414 Error: PrlVirtNet_SetAdapterEnabled failed: %s
+  6b443 Error: PrlApi_CreateHandlesList failed: %s
+  6b46e Error: PrlVirtNet_GetPortForwardList failed: %s
+  6b49e Error: PrlHndlList_GetItemsCount failed: %s
+  6b4ca Error: PrlHndlList_GetItem failed: %s
+  6b4f0 Error: PrlPortFwd_GetRuleName failed: %s
+  6b519 The rule with '%s' name already exists!
+  6b541 Error: PrlHndlList_RemoveItem failed: %s
+  6b56a Error: PrlPortFwd_Create failed: %s
+  6b58e Error: PrlPortFwd_SetRuleName failed: %s
+  6b5b7 Port forwarding is not available to the VM '%s'
+  6b5e7 Error: PrlPortFwd_SetRedirectVm failed: %s
+  6b612 Error: PrlPortFwd_SetRedirectIPAddress failed: %s
+  6b644 Error: PrlPortFwd_SetIncomingPort failed: %s
+  6b671 Error: PrlPortFwd_SetRedirectPort failed: %s
+  6b69e Error: PrlHndlList_AddItem failed: %s
+  6b6c4 Error: PrlVirtNet_SetPortForwardList failed: %s
+  6b6f4 Error: PrlVirtNet_GetNetworkId failed: %s
+  6b71e Error: PrlVirtNet_GetBoundCardMac failed: %s
+  6b74b Error: PrlVirtNet_GetVlanTag failed: %s
+  6b773 Virtual Network %s does not exist.
+  6b796 Failed to find a Virtual Network for network adapter %s.
+  6b7cf The Virtual Network name is not specified.
+  6b7fa Error: PrlVirtNet_GetBoundAdapterInfo failed: %s
+  6b82b Error: PrlSrvCfgDev_GetId failed: %s
+  6b850 Bound To
+  6b859 Error: PrlVirtNet_GetAdapterIndex failed: %s
+  6b886 Error: PrlVirtNet_IsAdapterEnabled failed: %s
+  6b8b4 Parallels adapter
+  6b8c6 Error: PrlVirtNet_GetHostIPAddress failed: %s
+  6b8f4 IPv4 address
+  6b901 Error: PrlVirtNet_GetIPNetMask failed: %s
+  6b92b IPv4 subnet mask
+  6b93c Error: PrlVirtNet_IsHostAssignIP6 failed: %s
+  6b969 Host assign IP v6
+  6b97b Error: PrlVirtNet_GetHostIP6Address failed: %s
+  6b9aa IPv6 address
+  6b9b7 Error: PrlVirtNet_GetIP6NetMask failed: %s
+  6b9e2 IPv6 subnet mask
+  6b9f3 Error: PrlVirtNet_IsDHCPServerEnabled failed: %s
+  6ba24 DHCPv4 server
+  6ba32 Error: PrlVirtNet_GetDhcpIPAddress failed: %s
+  6ba60 Server address
+  6ba6f Error: PrlVirtNet_GetIPScopeStart failed: %s
+  6ba9c IP scope start address
+  6bab3 Error: PrlVirtNet_GetIPScopeEnd failed: %s
+  6bade IP scope end address
+  6baf3 Error: PrlVirtNet_IsDHCP6ServerEnabled failed: %s
+  6bb25 DHCPv6 server
+  6bb33 Error: PrlVirtNet_GetDhcpIP6Address failed: %s
+  6bb62 Error: PrlVirtNet_GetIP6ScopeStart failed: %s
+  6bb90 Error: PrlVirtNet_GetIP6ScopeEnd failed: %s
+  6bbbc Error: PrlVirtNet_GetNetworkID failed: %s
+  6bbe6 Network ID
+  6bbf1 %-15.15s~  
+  6bbfd %-16.16s  
+  6bc0d %s   
+  6bc13 Error: PrlVirtNet_IsNatServerEnabled failed: %s
+  6bc48 host-only
+  6bc52 NAT server
+  6bc5d TCP rules
+  6bc67 UDP rules
+  6bc71 Error: PrlPortFwd_GetRedirectVm failed: %s
+  6bc9c Error: PrlPortFwd_GetRedirectIPAddress failed: %s
+  6bcce Error: PrlPortFwd_GetIncomingPort failed: %s
+  6bcfb Error: PrlPortFwd_GetRedirectPort failed: %s
+  6bd28 source port
+  6bd34 destination IP/VM id
+  6bd49 destination port
+  6bd5a Converting VM %s
+  6bd6b PrlThirdPartyVmConvertParams_SetSourcePath: %s
+  6bd9a PrlThirdPartyVmConvertParams_SetDestinationPath: %s
+  6bdce PrlThirdPartyVmConvertParams_SetFlags: %s
+  6bdf9 Failed to convert the VM: %s
+  6be16 The VM has been successfully converted.
+  6be3e Failed to add Virtual Network %s: %s
+  6be63 Failed to update Virtual Network %s: %s
+  6be8b Failed to delete Virtual Network %s: %s
+  6beb3 Network ID        Type      Bound To
+  6bed9 %-20s
+  6bedf Timestamp
+  6bee9 %-39s
+  6beef VM ID
+  6bef5 %-36s
+  6befb Event name
+  6bf06 Additional info
+  6bf16 PrlSrv_UserProfileBeginEdit: %s
+  6bf36 PrlSrv_GetUserProfile: %s
+  6bf50 PrlUsrCfg_SetDefaultVmFolder: %s
+  6bf71 PrlSrv_UserProfileCommit: %s
+  6bf8e A default virtual machine folder for the user was updated successfully.
+  6bfd6 License
+  6bfde valid
+  6bfe8 not valid
+  6bff2 Hardware Id
+  6bffe Signed In
+  6c008 127.0.0.1
+  6c012 PrlHandle_GetType: %s
+  6c028 PrlEvent_GetType: %s
+  6c03d EVENT type=%d
+  6c04b extracting...
+  6c059 reconnecting...
+  6c069 enterprise
+  6c078 business
+  6c085 standard
+  6c08e event_type
+  6c099 VM_STATE_CHANGED
+  6c0aa VM_CONFIG_CHANGED
+  6c0bc VM_ADDED
+  6c0c5 UNKNOWN
+  6c0cd vm_info
+  6c0d5 VM_DELETED
+  6c0e0 Dispatcher termination detected, exiting.
+  6c10a Vm state name
+  6c118 Tools state name
+  6c129 PrlEvent_GetIssuerId %s
+  6c141 prlctl exiting.
+  6c151 License:
+  6c15a No license installed.
+  6c170 Asking for web-portal information...
+  6c195 Failed to configure the virtual machine.
+  6c1be PrlVmCfg_GetVmType
+  6c1d1 PrlVmCfg_IsTemplate
+  6c1e5 PrlVmCfg_IsEncrypted
+  6c1fa PrlVmCfg_IsProtected
+  6c20f PrlVmCfg_IsArchived
+  6c223 PrlVmCfg_GetBiosType
+  6c238 PrlVmCfg_GetTpmType
+  6c24c PrlVmCfg_IsPacked
+  6c25e Unknown device type
+  6c272 PrlVm::new_dev: %s
+  6c285 Starting the VM...
+  6c298 Failed to start the VM: %s
+  6c2b3 The VM has been successfully started.
+  6c2d9 Performing reset uptime operation to the VM...
+  6c308 Failed to reset uptime of the VM: %s
+  6c32d The VM uptime has been successfully reset.
+  6c358 Stopping the VM...
+  6c36b Failed to drop suspended state of the VM: %s
+  6c398 Successfully dropped the suspended state of the VM.
+  6c3cc Failed to stop the VM: %s
+  6c3e6 The VM has been forcibly stopped
+  6c407 The VM has been successfully stopped.
+  6c42d Resetting the VM...
+  6c441 Failed to reset the VM: %s
+  6c45c The VM has been successfully reset.
+  6c480 Restarting the VM...
+  6c495 Failed to restart the VM: %s
+  6c4b2 The VM has been successfully restarted.
+  6c4da Suspending the VM...
+  6c4ef Failed to suspend the VM: %s
+  6c50c The VM has been successfully suspended.
+  6c534 Resuming the VM...
+  6c547 Failed to resume the VM: %s
+  6c563 The VM has been successfully resumed.
+  6c589 Pause the VM...
+  6c599 Failed to pause the VM: %s
+  6c5b4 The VM has been successfully paused.
+  6c5d9 Creating the snapshot...
+  6c5f3 Failed to create the snapshot: %s
+  6c616 The snapshot with id %s has been successfully created.
+  6c64d Snapshot id is not specified.
+  6c66b Switch to the snapshot...
+  6c685 Failed to switch to snapshot: %s
+  6c6a6 The VM has been successfully switched.
+  6c6cd Delete the snapshot...
+  6c6e4 Failed to delete snapshot: %s
+  6c702 The snapshot has been successfully deleted.
+  6c72e Failed to get the snapshot tree: %s
+  6c759 Incorrect exec command
+  6c770 enter
+  6c776 PrlVm_TerminalConnect: %s
+  6c790 4a5533a7-31c6-4d7a-a400-1f330dc57a9d
+  6c7b5 531582ac-3dce-446f-8c26-dd7e3384dcf4
+  6c7da HOME=/
+  6c7e1 HISTFILE=/dev/null
+  6c7f4 PATH=/bin:/sbin:/usr/bin:/usr/sbin:.
+  6c819 SHELL=/bin/bash
+  6c82e TERM=%s
+  6c836 COLUMNS=%d
+  6c841 LINES=%d
+  6c84a PrlVmGuest_RunProgram: %s
+  6c864 PrlEvent_GetParamByName (EVT_PARAM_VM_EXEC_APP_RET_CODE): %s
+  6c8a1 PrlEvtPrm_ToUint32: %s
+  6c8b8 PrlVmCfg_GetOsType
+  6c8cb The set crypted password is not supported by VM
+  6c8fb Failed to change user password: %s
+  6c91e Authentication tokens updated successfully.
+  6c94a PrlVmCfg_GetVmInfo: %s
+  6c961 PrlVmInfo_GetState: %s
+  6c97c The distribution is not specified.
+  6c99f PrlSrvCfg_GetCpuType: %s
+  6c9b8 Generate the VM configuration for %s.
+  6c9de PrlVmGuestOsInfo_Create: %s
+  6c9fa PrlVmGuestOsInfo_SetOsVersion: %s
+  6ca1c PrlVmGuestOsInfo_SetArch: %s
+  6ca39 PrlVmCfg_SetDefaultConfigEx: %s
+  6ca59 PrlVmCfg_SetName returned the following error: %s
+  6ca8b Register the VM.
+  6ca9c Failed to clone the VM; the --name option is not specified.
+  6cad8 Clone the %s VM to %s %s...
+  6caf4 template
+  6cb01 Failed to clone the VM: %s
+  6cb1d The VM has been successfully cloned.
+  6cb42 Failed to move the VM; the --dst option is not specified.
+  6cb7c Move the %s VM to %s...
+  6cb94 Failed to move the VM: %s
+  6cbaf The VM has been successfully moved.
+  6cbd3 Unregister the VM.
+  6cbe6 Failed to unregister the VM: %s
+  6cc06 The VM has been successfully unregistered.
+  6cc31 Removing the VM...
+  6cc44 Failed to remove the VM: %s
+  6cc60 The VM has been successfully removed.
+  6cc86 The path to the capture screen destination file is not specified. Use the --file option.
+  6ccdf Capture the VM screen...
+  6cd05 PrlDevDisplay_ConnectToVm: %s
+  6cd23 Failed to capture the VM screen: %s
+  6cd47 The VM screen is stored in %s.
+  6cd66 PrlVmCfg_GetBootDevCount
+  6cd7f PrlVmCfg_GetBootDev: %s
+  6cd97 PrlBootDev_GetType
+  6cdaa PrlBootDev_GetIndex
+  6cdbe PrlBootDev_GetSequenceIndex
+  6cdda PrlBootDev_IsInUse: %s
+  6cdf1 boot: %s %d
+  6cdfd Missed boot: type=%d idx=%d index=%d
+  6ce22 Create a new boot record: %s %d
+  6ce42 PrlVmCfg_CreateBootDev
+  6ce59 PrlBootDev_SetType
+  6ce6c PrlBootDev_SetIndex
+  6ce80 PrlBootDev_SetSequenceIndex: %s
+  6cea0 PrlBootDev_SetInUse: %s
+  6ceb8 PrlBootDev_Remove: %s
+  6ced1 The %s device does not exist.
+  6ceef Failed to create the device: %s
+  6cf0f Failed to create the shared folder: %s
+  6cf36 PrlVmCfg_GetDevsCount
+  6cf4c Unknown device type=%x
+  6cf63 PrlVm_GetDevsList: %s
+  6cf79 PrlVmCfg_SetHostSharingEnabled: %s
+  6cf9c PrlVmCfg_SetShareAllHostDisks: %s
+  6cfbe PrlVmCfg_SetShareUserHomeDir: %s
+  6cfdf PrlVmCfg_IsHostSharingEnabled
+  6cffd PrlVmCfg_IsShareAllHostDisks
+  6d01a PrlVmCfg_IsShareUserHomeDir
+  6d036 PrlVmCfg_GetSharesCount
+  6d04e PrlVmCfg_GetShare: %s
+  6d064 PrlVm::get_new_dir: %s
+  6d07b PrlVmCfg_GetOsVersion
+  6d091 PrlVmCfg_GetHomePath: %s
+  6d0aa config.pvs
+  6d0b5 PrlVmCfg_GetRestoreImage: %s
+  6d0d2 PrlVmInfo_GetAccessRights: %s
+  6d0f0 PrlAcl_GetOwnerName: %s
+  6d108 memory_quota
+  6d115 PrlVmCfg_IsHostMemAutoQuota
+  6d135 PrlVmCfg_GetHostMemQuotaMax
+  6d151 priority
+  6d15a PrlVmCfg_GetHostMemQuotaPriority
+  6d17b maxballoon
+  6d186 PrlVmCfg_GetMaxBalloonSize
+  6d1a3 %s the memquota auto calculation.
+  6d1c5 Enable
+  6d1cc Disable
+  6d1d4 PrlVmCfg_SetHostMemAutoQuota: %s
+  6d1f5 Set the memquota_max parameter to unlimited.
+  6d222 Set the memquota_max parameter to %dMb.
+  6d24a PrlVmCfg_SetHostMemQuotaMax %s
+  6d269 PrlVmCfg_SetHostMemQuotaPriority: %s
+  6d28e PrlVmCfg_SetMaxBalloonSize: %s
+  6d2ad PrlVmCfg_SetHostname: %s
+  6d2c6 PrlVmCfg_SetDnsServers: %s
+  6d2e1 PrlVmCfg_SetSearchDomains: %s
+  6d2ff PrlVmCfg_SetAutoApplyIpOnly: %s
+  6d31f Unable to validate VM configuration: %s
+  6d347 PrlJob_GetRetCode: %s
+  6d35d PrlJob_GetResult: %s [%d]
+  6d377 PrlResult_GetParamsCount  %s [%d]
+  6d399 VM configuration validation result(s) :
+  6d3c4 Unable to commit VM configuration: %s
+  6d3ea resultCount: %d
+  6d3fa The usb device is not configured.
+  6d41c Failed to apply settings: %s
+  6d439 PrlVmCfg_SetOsVersion: %s
+  6d453 An incorrect value for the CPU parameter (%d) is specified. The maximal CPU number may equal %d.
+  6d4b4 PrlVmCfg_SetCpuCount: %s
+  6d4cd PrlVmCfg_SetCpuAutoCountEnabled: %s
+  6d4f1 PrlVmCfg_SetCpuType: %s
+  6d509 PrlVmCfg_SetRamSize: %s
+  6d521 PrlVmCfg_SetRamAutoSizeEnabled: %s
+  6d544 PrlVmCfg_IsApertureOnlyCapable
+  6d563 The automatic video memory is not enabled.
+  6d58e PrlVmCfg_SetVideoRamSize: %s
+  6d5ab PrlVmCfg_SetVideoAdapterType: %s
+  6d5cc PrlVmCfg_Set3DAccelerationMode: %s
+  6d5ef PrlVmCfg_SetVerticalSynchronizationEnabled: %s
+  6d61e PrlVmCfg_SetHighResolutionEnabled: %s
+  6d644 PrlVmCfg_SetHighResolutionInGuestEnabled: %s
+  6d671 PrlVmCfg_SetNativeScalingInGuestEnabled: %s
+  6d69d PrlVmCfg_SetDescription: %s
+  6d6b9 PrlVmCfg_SetAutoStart: %s
+  6d6d3 PrlVmCfg_SetAutoStartDelay: %s
+  6d6f2 PrlVmCfg_SetAutoStop: %s
+  6d70b PrlVmCfg_SetStartLoginMode: %s
+  6d72a PrlVmCfg_SetStartUserCreds: %s
+  6d749 PrlVmCfg_SetWindowMode: %s
+  6d764 PrlVmCfg_SetActionOnStopMode: %s
+  6d785 PrlVmCfg_SetActionOnWindowClose: %s
+  6d7a9 PrlVmCfg_SetPauseWhenIdle: %s
+  6d7c7 PrlVmCfg_SetUndoDisksMode: %s
+  6d7e5 PrlVmCfg_SetSystemFlags: %s
+  6d801 PrlVmCfg_SetName: %s
+  6d816 PrlVmCfg_SetTemplateSign: %s
+  6d833 PrlVmCfg_SetUserDefinedSharedFoldersEnabled: %s
+  6d863 PrlVmCfg_SetGuestSharingEnabled: %s
+  6d887 PrlVmCfg_SetGuestSharingAutoMount: %s
+  6d8ad The shared folder name '%s' already used for VM (case insensitive mode is used).
+  6d8fe The shared folder with name '%s' does not exist.
+  6d92f PrlVmCfg_SetMapSharedFoldersOnLetters: %s
+  6d959 PrlVmCfg_SetUseDefaultAnswers: %s
+  6d97b PrlVmCfg_SetToolsAutoUpdateEnabled: %s
+  6d9a2 PrlVmCfg_SetSmartMouseEnabled: %s
+  6d9c4 PrlVmCfg_SetAutoCaptureReleaseMouse: %s
+  6d9ec PrlVmCfg_SetStickyMouseEnabled: %s
+  6da0f PrlVmCfg_SetSmoothScrollingEnabled: %s
+  6da36 PrlVmCfg_SetOptimizeModifiersMode: %s
+  6da5c PrlVmCfg_SetUseHostPrinters: %s
+  6da7c PrlVmCfg_SetSyncDefaultPrinter: %s
+  6da9f PrlVmCfg_SetShowHostPrinterUI: %s
+  6dac1 PrlVmCfg_SetSharedCameraEnabled: %s
+  6dae5 PrlVmCfg_SetSharedSmartCardEnabled: %s
+  6db0c PrlVmCfg_SetSharedGamepadEnabled: %s
+  6db31 PrlVmCfg_SetSupportUsb30Enabled: %s
+  6db55 PrlVmCfg_SetBiosType: %s
+  6db6e PrlVmCfg_SetEfiSecureBoot: %s
+  6db8c PrlVmCfg_SetAllowSelectBootDevice: %s
+  6dbb2 PrlVmCfg_SetExternalBootDevice: %s
+  6dbd5 PrlVmCfg_SetSmbiosBoardId: %s
+  6dbf3 PrlVmCfg_SetSmbiosBuildVersion: %s
+  6dc16 PrlVmCfg_SetSmbiosSystemSerialNumber: %s
+  6dc3f PrlVmCfg_SetModalityOpacity: %s
+  6dc5f PrlVmCfg_SetModalityStayOnTop: %s
+  6dc81 PrlVmCfg_SetModalityShowOnAllSpaces: %s
+  6dca9 PrlVmCfg_SetModalityCaptureMouseClicks: %s
+  6dcd4 PrlVmCfg_SetFullscreenUseAllDisplays: %s
+  6dcfd PrlVmCfg_SetFullscreenActivateSpacesOnClick: %s
+  6dd2d PrlVmCfg_SetFullscreenOptimizeForGames: %s
+  6dd58 PrlVmCfg_SetFullscreenGammaControl: %s
+  6dd7f PrlVmCfg_SetFullscreenScaleViewMode: %s
+  6dda7 PrlVmCfg_SetWinSystrayInMacMenuEnabled: %s
+  6ddd2 PrlVmCfg_SetSwitchToFullscreenOnDemandEnabled: %s
+  6de04 PrlVmCfg_SetLockGuestOnSuspendEnabled: %s
+  6de2e PrlVmCfg_SetIsolatedVmEnabled: %s
+  6de50 PrlVmCfg_SetTpmType: %s
+  6de68 PrlVmCfg_SetSmartGuardEnabled: %s
+  6de8a PrlVmCfg_SetSmartGuardNotifyBeforeCreation: %s
+  6deb9 PrlVmCfg_SetSmartGuardInterval: %s
+  6dedc PrlVmCfg_SetSmartGuardMaxSnapshotsCount: %s
+  6df08 PrlVmCfg_SetDiskCacheWriteBack: %s
+  6df2b PrlVmCfg_SetHypervisorType: %s
+  6df4a PrlVmCfg_SetAdaptiveHypervisorEnabled: %s
+  6df74 PrlVmCfg_SetSwitchOffWindowsLogoEnabled: %s
+  6dfa0 PrlVmCfg_SetAutoCompressEnabled: %s
+  6dfc4 PrlVmCfg_SetNestedVirtualizationEnabled: %s
+  6dff0 PrlVmCfg_SetPMUVirtualizationEnabled: %s
+  6e019 PrlVmCfg_SetLongerBatteryLifeEnabled: %s
+  6e042 PrlVmCfg_SetBatteryStatusEnabled: %s
+  6e067 PrlVmCfg_SetSharedCloudEnabled: %s
+  6e08a PrlVmCfg_SetClipboardSyncMode: %s
+  6e0ac PrlVmCfg_SetKeystrokeForwardingEnabled: %s
+  6e0d7 PrlVmCfg_SetSharedAppsGuestToHost: %s
+  6e0fd PrlVmCfg_SetSharedAppsHostToGuest: %s
+  6e123 PrlVmCfg_SetShowWindowsAppInDock: %s
+  6e148 PrlVmCfg_SetBounceDockIconWhenAppFlashes: %s
+  6e175 PrlVmCfg_SetSmartMountEnabled: %s
+  6e197 PrlVmCfg_SetSmartMountRemovableDrivesEnabled: %s
+  6e1c8 PrlVmCfg_SetSmartMountDVDsEnabled: %s
+  6e1ee PrlVmCfg_SetSmartMountNetworkSharesEnabled: %s
+  6e21d PrlVmCfg_SetSharedProfileEnabled: %s
+  6e242 PrlVmCfg_SetUseDesktop: %s
+  6e25d PrlVmCfg_SetUseDocuments: %s
+  6e27a PrlVmCfg_SetUsePictures: %s
+  6e296 PrlVmCfg_SetUseMusic: %s
+  6e2af PrlVmCfg_SetUseMovies: %s
+  6e2c9 PrlVmCfg_SetUseDownloads: %s
+  6e2e6 PrlVmCfg_SetExpirationDateEnabled: %s
+  6e30c PrlVmCfg_SetExpirationDate: %s
+  6e32b PrlVmCfg_SetExpirationTrustedTimeServer: %s
+  6e357 PrlVmCfg_SetExpirationTimeCheckInterval: %s
+  6e383 PrlVmCfg_SetExpirationOfflineTimeToLive: %s
+  6e3af PrlVmCfg_SetExpirationNote: %s
+  6e3ce PrlVmCfg_SetTimeSynchronizationEnabled: %s
+  6e3f9 PrlVmCfg_SetTimeSyncSmartModeEnabled: %s
+  6e422 PrlVmCfg_SetSyncTimezoneDisabled: %s
+  6e447 PrlVmCfg_SetTimeSyncInterval: %s
+  6e468 PrlVmCfg_SetAssetId: %s
+  6e480 PrlVmCfg_SetSyncVmHostnameEnabled: %s
+  6e4a6 PrlVmCfg_SetSyncSshIdsEnabled: %s
+  6e4c8 PrlVmCfg_SetShowDevToolsEnabled: %s
+  6e4ec PrlVmCfg_SetGestureSwipeFromEdgesEnabled: %s
+  6e519 PrlVmCfg_SetShareHostLocationEnabled: %s
+  6e542 PrlVmCfg_SetRosettaLinuxEnabled: %s
+  6e566 Created
+  6e56e Configured
+  6e57a The VM has been successfully configured.
+  6e5a3 PrlVm_GetToolsState: %s
+  6e5bb PrlEvtPrm_ToInt: %s
+  6e5cf installed
+  6e5d9 not_installed
+  6e5e7 outdated
+  6e5f0 installing
+  6e5fb GuestTools
+  6e606 version
+  6e60e Failed to start the Parallels Tools installation: %s
+  6e643 The Parallels Tools installation was started.
+  6e671 PrlVm_GetNetworkSettings; %s
+  6e68e PrlSrvCfg_GetNetAdaptersCount: %s
+  6e6b0 PrlSrvCfg_GetNetAdapter: %s
+  6e6cc PrlStrList_GetItem: %s
+  6e6e3 video
+  6e6e9 adapter-type
+  6e6f6 PrlVmCfg_GetVideoAdapterType
+  6e713 PrlVmCfg_GetVideoRamSize
+  6e72c 3d-acceleration
+  6e73c PrlVmCfg_Get3DAccelerationMode
+  6e75b PrlVmCfg_IsVerticalSynchronizationEnabled
+  6e785 vertical-sync
+  6e793 PrlVmCfg_IsHighResolutionEnabled
+  6e7b4 high-resolution
+  6e7c4 PrlVmCfg_IsHighResolutionInGuestEnabled
+  6e7ec high-resolution-in-guest
+  6e805 PrlVmCfg_IsNativeScalingInGuestEnabled
+  6e82c native-scaling-in-guest
+  6e844 automatic-video-memory
+  6e85b USB and Bluetooth
+  6e86d PrlVmCfg_IsSharedCameraEnabled
+  6e88c Automatic sharing cameras
+  6e8a6 PrlVmCfg_IsSharedBluetoothEnabled
+  6e8c8 Automatic sharing bluetooth
+  6e8e4 PrlVmCfg_IsSharedSmartCardEnabled
+  6e906 Automatic sharing smart cards
+  6e924 PrlVmCfg_IsSharedGamepadEnabled
+  6e944 Automatic sharing gamepads
+  6e95f PrlVmCfg_IsSupportUsb30Enabled
+  6e97e Support USB 3.0
+  6e98e Security
+  6e997 Encrypted
+  6e9a1 TPM enabled
+  6e9ad TPM type
+  6e9b6 Protected
+  6e9c0 Archived
+  6e9c9 Packed
+  6e9d0 Modality
+  6e9d9 Opacity (percentage)
+  6e9ee PrlVmCfg_GetModalityOpacity
+  6ea0a PrlVmCfg_IsModalityStayOnTop
+  6ea27 Stay on top
+  6ea33 PrlVmCfg_IsModalityShowOnAllSpaces
+  6ea56 Show on all spaces 
+  6ea6a PrlVmCfg_IsModalityCaptureMouseClicks
+  6ea90 Capture mouse clicks
+  6eaa5 Fullscreen
+  6eab0 PrlVmCfg_IsFullscreenUseAllDisplays
+  6ead4 Use all displays
+  6eae5 PrlVmCfg_IsFullscreenActivateSpacesOnClick
+  6eb10 Activate spaces on click
+  6eb29 PrlVmCfg_IsFullscreenOptimizeForGames
+  6eb4f Optimize for games
+  6eb62 PrlVmCfg_IsFullscreenGammaControl
+  6eb84 Gamma control
+  6eb92 Scale view mode
+  6eba2 PrlVmCfg_GetFullscreenScaleViewMode
+  6ebc6 Coherence
+  6ebd0 PrlVmCfg_IsWinSystrayInMacMenuEnabled
+  6ebf6 Show Windows systray in Mac menu
+  6ec17 PrlVmCfg_IsSwitchToFullscreenOnDemandEnabled
+  6ec44 Auto-switch to full screen
+  6ec5f Print Management
+  6ec70 PrlVmCfg_IsUseHostPrinters
+  6ec8b Synchronize with host printers
+  6ecaa PrlVmCfg_IsSyncDefaultPrinter
+  6ecc8 Synchronize default printer
+  6ece4 PrlVmCfg_IsShowHostPrinterUI
+  6ed01 Show host printer UI
+  6ed16 PrlVmCfg_IsSmartMouseEnabled
+  6ed33 PrlVmCfg_IsAutoCaptureReleaseMouse
+  6ed56 Mouse and Keyboard
+  6ed69 Smart mouse optimized for games
+  6ed8b PrlVmCfg_IsStickyMouseEnabled
+  6eda9 Sticky mouse
+  6edb6 PrlVmCfg_IsSmoothScrollingEnabled
+  6edd8 Smooth scrolling
+  6ede9 Keyboard optimization mode
+  6ee04 PrlVmCfg_GetOptimizeModifiersMode
+  6ee26 Startup and Shutdown
+  6ee3b Autostart
+  6ee45 PrlVmCfg_GetAutoStart
+  6ee5b Autostart delay
+  6ee6b PrlVmCfg_GetAutoStartDelay
+  6ee86 Autostop
+  6ee8f PrlVmCfg_GetAutoStop
+  6eea4 Startup view
+  6eeb1 PrlVmCfg_GetWindowMode
+  6eec8 On shutdown
+  6eed4 PrlVmCfg_GetActionOnStopMode
+  6eef1 On window close
+  6ef01 PrlVmCfg_GetActionOnWindowClose
+  6ef21 PrlVmCfg_IsPauseWhenIdle
+  6ef3a Pause idle
+  6ef45 Undo disks
+  6ef50 PrlVmCfg_GetUndoDisksMode
+  6ef6a Optimization
+  6ef77 PrlVmCfg_IsDiskCacheWriteBack
+  6ef95 Faster virtual machine
+  6efac Hypervisor type
+  6efbc PrlVmCfg_GetHypervisorType
+  6efd7 PrlVmCfg_IsAdaptiveHypervisorEnabled
+  6effc Adaptive hypervisor
+  6f010 PrlVmCfg_IsSwitchOffWindowsLogoEnabled
+  6f037 Disabled Windows logo
+  6f04d PrlVmCfg_IsAutoCompressEnabled
+  6f06c Auto compress virtual disks
+  6f088 PrlVmCfg_IsNestedVirtualizationEnabled
+  6f0af Nested virtualization
+  6f0c5 PrlVmCfg_IsPMUVirtualizationEnabled
+  6f0e9 PMU virtualization
+  6f0fc PrlVmCfg_IsLongerBatteryLifeEnabled
+  6f120 Longer battery life
+  6f134 PrlVmCfg_IsBatteryStatusEnabled
+  6f154 Show battery status
+  6f168 Host Shared Folders
+  6f180 All host disks
+  6f18f User home directory
+  6f1a3 Unknown
+  6f1ab Host defined sharing
+  6f1c0 PrlVmCfg_IsGuestSharingEnabled
+  6f1df Guest Shared Folders
+  6f1f4 PrlVmCfg_IsGuestSharingAutoMount
+  6f215 Automount
+  6f21f PrlVmCfg_IsSmartMountEnabled
+  6f23c SmartMount
+  6f247 PrlVmCfg_IsSmartMountRemovableDrivesEnabled
+  6f273 Removable drives
+  6f284 PrlVmCfg_IsSmartMountDVDsEnabled
+  6f2a5 CD/DVD drives
+  6f2b3 PrlVmCfg_IsSmartMountNetworkSharesEnabled
+  6f2dd Network shares
+  6f2ec PrlVmCfg_IsSharedProfileEnabled
+  6f30c Shared Profile
+  6f31b PrlVmCfg_IsUseDesktop
+  6f331 Use desktop
+  6f33d PrlVmCfg_IsUseDocuments
+  6f355 Use documents
+  6f363 PrlVmCfg_IsUsePictures
+  6f37a Use pictures
+  6f387 PrlVmCfg_IsUseMusic
+  6f39b Use music
+  6f3a5 PrlVmCfg_IsUseMovies
+  6f3ba Use movies
+  6f3c5 PrlVmCfg_IsUseDownloads
+  6f3dd Use downloads
+  6f3eb Shared Applications
+  6f3ff PrlVmCfg_IsSharedAppsHostToGuest
+  6f420 Host-to-guest apps sharing
+  6f43b PrlVmCfg_IsSharedAppsGuestToHost
+  6f45c Guest-to-host apps sharing
+  6f477 PrlVmCfg_IsShowWindowsAppInDock
+  6f497 Show guest apps folder in Dock
+  6f4b6 PrlVmCfg_IsBounceDockIconWhenAppFlashes
+  6f4de Bounce dock icon when app flashes
+  6f500 PrlVmCfg_IsSmartGuardEnabled
+  6f51d Smart Guard
+  6f529 PrlVmCfg_IsSmartGuardNotifyBeforeCreation
+  6f553 Notify before creation snapshot
+  6f573 Interval of period creating snapshots
+  6f599 PrlVmCfg_GetSmartGuardInterval
+  6f5b8 Maximum count of creating snapshots
+  6f5dc PrlVmCfg_GetSmartGuardMaxSnapshotsCount
+  6f604 PrlVmCfg_IsExpirationDateEnabled
+  6f625 Expiration
+  6f630 PrlVmCfg_GetExpirationDate: %s
+  6f654 Time check (in seconds)
+  6f66c PrlVmCfg_GetExpirationTimeCheckInterval
+  6f694 Offline time (in seconds)
+  6f6ae PrlVmCfg_GetExpirationOfflineTimeToLive
+  6f6d6 PrlVmCfg_GetExpirationTrustedTimeServer: %s
+  6f702 Time server
+  6f70e PrlVmCfg_GetExpirationNote: %s
+  6f732 PrlVmCfg_IsTimeSynchronizationEnabled
+  6f758 Time Synchronization
+  6f76d PrlVmCfg_IsTimeSyncSmartModeEnabled
+  6f791 Smart mode
+  6f79c Interval (in seconds)
+  6f7b2 PrlVmCfg_GetTimeSyncInterval
+  6f7cf PrlVmCfg_IsSyncTimezoneDisabled
+  6f7ef Timezone synchronization disabled
+  6f811 SMBIOS settings
+  6f821 PrlVmCfg_GetSmbiosBuildVersion: %s
+  6f844 BIOS Version
+  6f851 PrlVmCfg_GetSmbiosSystemSerialNumber: %s
+  6f87a System serial number
+  6f88f PrlVmCfg_GetSmbiosBoardId: %s
+  6f8ad Board Manufacturer
+  6f8c0 Network
+  6f8c8 Conditioned
+  6f8d4 Inbound
+  6f8dc Outbound
+  6f8f4 ipAddresses
+  6f900 IP Addresses
+  6f90d Asset ID
+  6f916 State
+  6f91c Template
+  6f925 Uptime
+  6f92c Home path
+  6f93b Restore Image
+  6f949 Boot order
+  6f954 BIOS type
+  6f95e PrlVmCfg_IsEfiSecureBootEnabled
+  6f97e EFI Secure boot
+  6f98e PrlVmCfg_IsAllowSelectBootDevice
+  6f9af Allow select boot device
+  6f9c8 PrlVmCfg_GetExternalBootDevice: %s
+  6f9eb External boot device
+  6fa00 Hardware
+  6fa12 PrlVmCfg_GetCpuCount
+  6fa27 PrlVmCfg_IsCpuAutoCountEnabled
+  6fa4b PrlVmCfg_IsCpuVtxEnabled
+  6fa64 hotplug
+  6fa6c PrlVmCfg_IsCpuHotplugEnabled
+  6fa8e PrlVmCfg_GetCpuAccelLevel
+  6faab PrlVmCfg_GetCpuType
+  6fabf memory
+  6fac6 PrlVmCfg_GetRamSize
+  6fada PrlVmCfg_IsRamAutoSizeEnabled
+  6faf8 Miscellaneous Sharing
+  6fb0e Shared clipboard mode
+  6fb24 PrlVmCfg_GetClipboardSyncMode
+  6fb42 PrlVmCfg_IsSharedCloudEnabled
+  6fb60 Shared cloud
+  6fb6d Advanced
+  6fb76 PrlVmCfg_IsSyncVmHostnameEnabled
+  6fb97 VM hostname synchronization
+  6fbb3 PrlVmCfg_IsSyncSshIdsEnabled
+  6fbd0 Public SSH keys synchronization
+  6fbf0 PrlVmCfg_IsShowDevToolsEnabled
+  6fc0f Show developer tools
+  6fc24 PrlVmCfg_IsGestureSwipeFromEdgesEnabled
+  6fc4c Swipe from edges
+  6fc5d PrlVmCfg_IsShareHostLocationEnabled
+  6fc81 Share host location
+  6fc95 PrlVmCfg_IsRosettaLinuxEnabled
+  6fcb4 Rosetta Linux
+  6fcc2 Command name is not specified.
+  6fce1 guest-debugger
+  6fcf0 guestdebugger
+  6fcfe debug-dump
+  6fd09 dbgdump
+  6fd11 Executing command '%s' ...
+  6fd2c Executing command '%s' failed. Error %s
+  6fd54 Executing command '%s' finished successfully.
+  6fd82 PrlVmCfg_GetConfigValidity: %s
+  6fda1 PrlVmCfg_GetEncryptionKeySourceType
+  6fdc5 Failed to authorize current session against virtual machine. Error: %s
+  6fe0c Failed to authorise current session against virtual machine. Error: %s
+  6fe53 Virtual machine is already encrypted
+  6fe78 Please enter password phrase to encrypt virtual machine:
+  6feb1 Failed to encrypt the virtual machine: %s
+  6fedb Failed to check the prerequisites for the virtual machine encryption: %s
+  6ff25 The virtual machine has been successfully encrypted.
+  6ff5b All prerequisites for the virtual machine encryption have been met
+  6ff9e Virtual machine is not encrypted
+  6ffbf Failed to decrypt the virtual machine: %s
+  6ffe9 Failed to check the prerequisites for the virtual machine decryption: %s
+  70033 The virtual machine has been successfully decrypted.
+  70069 All prerequisites for the virtual machine decryption have been met
+  700ac Please enter new password:
+  700c7 Failed to change password for virtual machine: %s
+  700fa The password has been successfully changed.
+  70126 Failed to archive virtual machine: %s
+  7014d Virtual machine successfully archived.
+  70174 Failed to unarchive virtual machine: %s
+  7019d Virtual machine successfully unarchived.
+  701c6 Failed to pack virtual machine: %s
+  701ea Virtual machine successfully packed.
+  7020f Failed to unpack virtual machine: %s
+  70235 Virtual machine successfully unpacked.
+  7025c This virtual machine expiration date settings are already protected with a password.
+  702b1 This virtual machine is not encrypted.
+  702d8 Please enter a password to protect this virtual machine expiration date settings:
+  7032a Please confirm the password:
+  70347 The passwords don't match.
+  70362 Failed to protect this virtual machine expiration date settings with a password: %s
+  703b7 This virtual machine expiration date settings have been successfully protected with a password.
+  70417 This virtual machine expiration date settings are not protected with a password.
+  70468 Please enter a password protecting this virtual machine expiration date settings:
+  704ba Failed to disable the password protection for this virtual machine expiration date settings: %s
+  7051b The password protection for this virtual machine expiration date settings has been successfully disabled.
+  70585 Failed to load config: %s
+  7059f {3DCA45F4-D3D1-462E-B49D-63949BAD9EB2}
+  705c6 Failed to set TPM key: %s
+  705e0 Invalid parameters
+  705f3 Failed to connect to VM: %s
+  7060f Failed to send key event(s) : %s
+  70630 Parent VM
+  7063a Linked clones
+  70648 diskSpace
+  70652 Disk space
+  7065d hardDisks
+  70667 snapshots
+  70671 miscellaneous
+  7067f reclaimable
+  7068b Hard Disks
+  70696 Snapshots
+  706a0 Miscellaneous
+  706ae Reclaimable
+  706ba Reclaiming disk, please wait...
+  706db Copying files
+  706e9 Encrypting data
+  706f9 Decrypting data
+  70709 Copying the data from the parent virtual machine
+  7073a Calculating required disk space
+  7075a Processing
+  70765 vmuuid=%s IssuerId=%s
+  70784 Invalid scan code sequence:
+  707a5 Received a new %s event without completing the previous %s event with scan code sequence
+  707fe press
+  70804 release
+  70811 %s: %s
+  70826 %llu%s
+  7082d Bandwidth
+  70837 %.1f%%
+  7083e Packet Loss
+  7084f Delay
+  70855 The %s field name is unknown.
+  70874 Unknown field: %s
+  70887 %-20s %s
+  70891 %s is an invalid field name in this query.
+  708c7 %-39s 
+  708db envid
+  708e1 ENVID
+  708e7 %-10s 
+  708ee STATUS
+  708f5 %-12s 
+  70901 %-32s 
+  70912 %-15s 
+  70919 owner
+  7091f OWNER
+  70925 system-flags
+  70932 SYSTEM_FLAGS
+  7093f description
+  7094b DESCRIPTION
+  70957 IP_ADDR
+  7095f ip_configured
+  7096d hostname
+  70976 HOSTNAME
+  7097f netif
+  70985 NETIF
+  7098b %-16s 
+  70996 %-36s 
+  7099d ostemplate
+  709a8 OSTEMPLATE
+  709b3 %-24s 
+  709ba location
+  709c3 LOCATION
+  709cc netdev
+  709d3 NETDEV
+  709da %-14s 
+  709e3 %-2s 
+  709e9 FE80:
+  709ef uuid,dist,type,name
+  70a03 uuid,status,ip,name
+  70a17 status,ip,name
+  70a26 uuid,status,ip_configured,name
+  70a45 name,mng_settings,def_vm_home
+  70a63 %-16s
+  70a69 def_vm_home
+  70a75 DEF_VM_HOME
+  70a81 %-32s
+  70a87 sessions
+  70a90 SESSIONS
+  70a99 %-10s
+  70a9f mng_settings
+  70aac MNG_SETTINGS
+  70ab9 %-13s
+  70abf <![CDATA[
+  70ad0 scancode
+  70adb event
+  70ae3 delay
+  70c29 VM Management
+  70c37 Power operations
+  70c48 VM Configuration
+  70c59 Snapshot Management
+  70c6d An incorrect value is specified for --login: %s
+  70c9e An incorrect value for --memory-limit is specified: %s
+  70cd6 An incorrect value for --mng-settings is specified: %s
+  70d0e An invalid value was specified for --cep: %s
+  70d3c An invalid value was specified for --verbose-log: %s
+  70d72 An invalid value was specified for --report-disable-deleting-archive: %s
+  70dbc An invalid value was specified for --report-add-serial-port-output: %s
+  70e04 Unrecognized option: %s
+  70e1d An invalid value was specified for --log-rotation: %s
+  70e54 An invalid value was specified for --headless-mode-feature: %s
+  70e94 An invalid value was specified for --hide_lic_request_params: %s
+  70ed6 An invalid value was specified for --allow-attach-screenshots: %s
+  70f19 An incorrect value for --external-dev-auto-connect is specified: %s
+  70f5e The --device-add option is specified  several times.
+  70f94 The --device-set option is specified  several times.
+  70fca Unable to simultaneously use %s and %s
+  70ff2 --device
+  70ffb --image
+  71003 Relative path '%s' is not allowed.
+  71027 Unable to get full path for %s
+  71047 Unable to use '%s' because it does not exist.
+  71076 Unable to simultaneously use
+  71093 %s --ostemplate and --distribution or --ostype
+  710c3 The --path option have to be specified to setup shared folder.
+  71103 Unable to configure network parameters, the network interface is not specified.
+  71154 An invalid device type for %s is specified.
+  71181 An invalid device type is specified for %s.
+  711ae The --type option is used incorrectly. It can be used with 'hdd' or 'net' devices only.
+  71207 The --output option is used incorrectly.
+  71231 The --socket option is used incorrectly.
+  7125b The --mixer option is used incorrectly.
+  71284 An incorrect value for --dst is specified; relative paths are not allowed.
+  712d5 An incorrect value for --ostype is specified:%s
+  71306 The following values are allowed: 
+  71329 An incorrect value for --distribution is specified: %s
+  71361 An invalid value was specified for --detach-external-hdd: %s
+  7139f An incorrect parameter for --device-add is specified: %s
+  713d9 0123456789
+  713e4 An incorrect parameter for %s is specified: %s
+  71414 --device-set
+  71421 An incorrect value for --size is specified: %s
+  71451 An invalid value was specified for --autostart-delay: %s
+  7148b An invalid value was specified for --onboot: %s
+  714bc An invalid value was specified for --autostop: %s
+  714ef administrator
+  714fd An invalid value was specified for --startup-view: %s
+  71534 An invalid value was specified for --on-shutdown: %s
+  7156a An invalid value was specified for --on-window-close: %s
+  715a4 An invalid value was specified for --pause-idle: %s
+  715d9 An invalid value was specified for --undo-disks: %s
+  7160e An invalid value was specified for --online-compact: %s
+  71647 An invalid value was specified for --passthr: %s
+  71679 An invalid value was specified for --type: %s
+  716a8 An invalid value was specified for --adapter-type: %s
+  716df An invalid value was specified for --socket-mode: %s
+  71715 An invalid value was specified for --cpus: %s
+  71744 An incorrect value for --cpu-type is specified: %s
+  71778 An invalid value was specified for --cpu-hotplug: %s
+  717ae An incorrect value for --memsize is specified: %s
+  717e1 An incorrect value for --videosize is specified: %s
+  71816 An invalid value was specified for --video-adapter-type: %s
+  71853 An invalid value was specified for --3d-accelerate: %s
+  7188b An invalid value was specified for --vertical-sync: %s
+  718c3 An invalid value was specified for --high-resolution: %s
+  718fd An invalid value was specified for --high-resolution-in-guest: %s
+  71940 An invalid value was specified for --native-scaling-in-guest: %s
+  71982 An incorrect value for --memquota is specified: %s
+  719b6 An invalid value was specified for --template: %s
+  719e9 An incorrect value for --mac is specified: %s
+  71a18 An invalid value was specified for --faster-vm: %s
+  71a4c An invalid value was specified for --hypervisor-type: %s
+  71a86 An invalid value was specified for --adaptive-hypervisor: %s
+  71ac4 An invalid value was specified for --disable-winlogo: %s
+  71afe An invalid value was specified for --auto-compress: %s
+  71b36 An invalid value was specified for --nested-virt: %s
+  71b6c An invalid value was specified for --pmu-virt: %s
+  71b9f An invalid value was specified for --longer-battery-life: %s
+  71bdd An invalid value was specified for --battery-status: %s
+  71c16 An invalid value was specified for --shf-host: %s
+  71c49 An invalid value was specified for --shf-guest: %s
+  71c7d An incorrect value for --mode is specified: %s
+  71cad An invalid value was specified for --shf-guest-automount: %s
+  71ceb An invalid value was specified for --shf-guest-automount-cloud-drives: %s
+  71d36 An invalid value was specified for --shf-guest-automount-network-drives: %s
+  71d83 An invalid value was specified for --shf-guest-automount-removable-drives: %s
+  71dd2 An invalid value was specified for --shf-host-defined: %s
+  71e0d An invalid value was specified for --shf-host-automount: %s
+  71e4a An invalid value was specified for --winsystray-in-macmenu: %s
+  71e8a An invalid value was specified for --auto-switch-fullscreen: %s
+  71ecb time-check
+  71ed6 offline-time
+  71ee3 time-server
+  71ef4 An incorrect value for --expiration is specified: %s
+  71f2a An invalid value was specified for --time-sync: %s
+  71f5e An invalid value was specified for --time-sync-smart-mode: %s
+  71f9d An invalid value was specified for --disable-timezone-sync: %s
+  71fdd An invalid value was specified for --time-sync-interval: %s
+  7201a An invalid value was specified for --modality-opacity: %s
+  72055 An invalid value was specified for --modality-show-on-all-spaces: %s
+  7209b An invalid value was specified for --modality-capture-mouse-clicks: %s
+  720e3 An invalid value was specified for --fullscreen-use-all-displays: %s
+  72129 An invalid value was specified for --fullscreen-activate-spaces-on-click: %s
+  72177 An invalid value was specified for --fullscreen-optimize-for-games: %s
+  721bf An invalid value was specified for --fullscreen-gamma-control: %s
+  72202 An invalid value was specified for --fullscreen-scale-view-mode: %s
+  72247 An invalid value was specified for --lock-on-suspend: %s
+  72281 An invalid value was specified for --isolate-vm: %s
+  722b6 An invalid value was specified for --tpm: %s
+  722e4 An incorrect value for --tpm-key is specified: %s
+  72317 An invalid value was specified for --smart-guard: %s
+  7234d An invalid value was specified for --sg-notify-before-create: %s
+  7238f An invalid value was specified for --sg-interval: %s
+  723c5 An invalid value was specified for --sg-max-snapshots: %s
+  72407 An incorrect value for --smart-mouse-optimize is specified: %s
+  72447 An invalid value was specified for --sticky-mouse: %s
+  7247e An invalid value was specified for --smooth-scrolling: %s
+  724b9 An invalid value was specified for --keyboard-optimize: %s
+  724f5 An invalid value was specified for --sync-host-printers: %s
+  72532 An invalid value was specified for --sync-default-printer: %s
+  72571 An invalid value was specified for --show-host-printer-ui: %s
+  725b0 An invalid value was specified for --auto-share-camera: %s
+  725ec An invalid value was specified for --auto-share-smart-card: %s
+  7262c An invalid value was specified for --auto-share-gamepad: %s
+  72669 An invalid value was specified for --support-usb30: %s
+  726a1 An invalid value was specified for --efi-boot: %s
+  726d4 An invalid value was specified for --efi-secure-boot: %s
+  7270e An incorrect value for --bios-type is specified: %s
+  72743 An invalid value was specified for --select-boot-device: %s
+  72780 An invalid value was specified for --dhcp: %s
+  727af An invalid value was specified for --dhcp6: %s
+  727df An invalid value was specified for --configure: %s
+  72813 An invalid value was specified for --apply-iponly: %s
+  7284a An incorrect value for --userpasswd is specified: %s
+  72880 An invalid value was specified for --sedefanswers: %s
+  728b7 An invalid value was specified for --tools-autoupdate: %s
+  728f2 An invalid value was specified for --shared-profile: %s
+  7292b An invalid value was specified for --shared-profile-use-desktop: %s
+  72970 An invalid value was specified for --shared-profile-use-documents: %s
+  729b7 An invalid value was specified for --shared-profile-use-pictures: %s
+  729fd An invalid value was specified for --shared-profile-use-music: %s
+  72a40 An invalid value was specified for --shared-profile-use-movies: %s
+  72a84 An invalid value was specified for --shared-profile-use-downloads: %s
+  72acb An invalid value was specified for --smart-mount: %s
+  72b01 An invalid value was specified for --smart-mount-removable-drives: %s
+  72b48 An invalid value was specified for --smart-mount-dvd-drives: %s
+  72b89 An invalid value was specified for --smart-mount-network-drives: %s
+  72bce An invalid value was specified for --sh-app-host-to-guest: %s
+  72c0d An invalid value was specified for --sh-app-guest-to-host: %s
+  72c4c An invalid value was specified for --show-guest-app-folder-in-dock: %s
+  72c94 An invalid value was specified for --bounce-dock-icon-when-app-flashes: %s
+  72ce0 An invalid value was specified for --shared-clipboard: %s
+  72d1b An invalid value was specified for --keystroke-forwarding: %s
+  72d5a An invalid value was specified for --shared-cloud: %s
+  72d91 An invalid value was specified for --hdd-block-size: %s
+  72dca An invalid value was specified for --uuid: %s
+  72df9 An invalid value was specified for --sync-vm-hostname: %s
+  72e34 An invalid value was specified for --sync-ssh-ids: %s
+  72e6b An invalid value was specified for --show-dev-tools: %s
+  72ea4 An invalid value was specified for --swipe-from-edges: %s
+  72edf An invalid value was specified for --share_host_location: %s
+  72f1d An invalid value was specified for --rosetta-linux: %s
+  72f55 An invalid value was specified for --key: %s
+  72f83 An invalid value was specified for --scancode: %s
+  72fb6 An invalid value was specified for -e,--event: %s
+  72fe9 An invalid value was specified for --delay: %s
+  73019 prealloc
+  73022 sparse
+  73029 An invalid value was specified for --alloc-policy: %s
+  73060 An invalid value was specified for --network-conditioner: %s
+  7309e An invalid value was specified for --network-conditioner-profile: %s
+  730e4 An invalid value was specified for --inbound-bandwidth %s
+  7311f An invalid value was specified for --inbound-delay: %s
+  73157 An invalid value was specified for --inbound-packet: %s
+  73190 An invalid value was specified for --outbound-bandwidth %s
+  731cc An invalid value was specified for --outbound-delay: %s
+  73205 An invalid value was specified for --outbound-packet: %s
+  7323f Unhandled option: %d
+  73255 Only one of options --detach-only, --destroy-image, --destroy-image-force can be specified.
+  732b7 --attach-screenshot invalid argument: %s
+  732e1 Please, choose an action: send the problem report to Parallels (-s, --send) or dump it to stdout (-d, --dump)
+  73350 --version
+  7335a --commands
+  73365 monitor-events
+  73374 --help
+  7337b Invalid usage
+  7338a start
+  73390 internal
+  73399 reset-uptime
+  733a6 encrypt
+  733ae decrypt
+  733b6 archive
+  733be unarchive
+  733cd unpack
+  733d4 change-passwd
+  733e2 protection-set
+  733f1 protection-remove
+  7340c suspend
+  73414 resume
+  7341b pause
+  73421 create
+  73428 convert
+  73430 delete
+  73437 destroy
+  7343f register
+  73448 unregister
+  73453 clone
+  73459 reset
+  7345f restart
+  73467 installtools
+  73474 capture
+  7347c snapshot
+  73485 snapshot-switch
+  73495 snapshot-delete
+  734a5 snapshot-list
+  734b8 problem-report
+  734cc shutdown
+  734da install-license
+  734ea send-key-event
+  734f9 reclaim-disk
+  73506 Unknown action: %s
+  7351a An incorrect value for --nat-<tcp|udp>-add is specified: %s
+  73557 An incorrect value for --nat-<tcp|udp>-del is specified: rule name is empty
+  735a4 An incorrect value for --dhcp-server is specified: %s
+  735db An incorrect value for --dhcp6-server is specified: %s
+  73613 An incorrect value for --host-assign-ip6 is specified: %s
+  7364e An incorrect value for --connect-host-to-net is specified: %s
+  7368d An unknown Virtual Network type: %s
+  736b2 An unknown option: %s
+  736c9 The Virtual Network name is not specified.
+  736f5 Specify either the --ifname or --mac option, but not both options.
+  73739 For a bridged Virtual Network, you need to specify either the --ifname or --mac option.
+  73792 The --ifname option should be specified for bridged virtual networks only
+  737dd cleanup
+  737e9 remove association and setting autoconnect-action to %s
+  73822 setting autoconnect of '%s' to '%s'
+  73847 Need to specify necessary options.
+  7386b signin
+  73872 signout
+  73882 addif
+  73888 delif
+  7388e change
+  7389a update-license
+  738a9 install-license-offline
+  738c1 deactivate-license
+  738d4 pre-hibernate
+  738e2 after-hibernate
+  738f2 monitor
+  738fa web-portal
+  73905 admin-report
+  73917 admin-policies
+  73926 update
+  7392d admin-image-groups-settings
+  7394e list_limiter
+  7395b verbose
+  73963 timeout
+  7396b login
+  73971 read-passwd
+  7397d compat
+  73984 delayed-login
+  73992 err-json
+  7399b no-header
+  739aa stopped
+  739c0 rollback-mode
+  739ce recovery-mode
+  739dc dry-run
+  739f3 force
+  739f9 noforce
+  73a01 drop-state
+  73a0c device-add
+  73a17 device-set
+  73a22 device-del
+  73a2d device-connect
+  73a3c device-disconnect
+  73a4e device-bootorder
+  73a5f distribution
+  73a6c offline
+  73a74 no-fs-resize
+  73a81 diskspace
+  73a8b split
+  73a91 enable
+  73a98 disable
+  73aa0 connect
+  73aa8 disconnect
+  73ab3 hdd-block-size
+  73ac2 passthr
+  73aca position
+  73ad3 alloc-policy
+  73ae0 cpu-type
+  73ae9 cpu-hotplug
+  73af5 memsize
+  73afd videosize
+  73b07 video-adapter-type
+  73b1a 3d-accelerate
+  73b28 memquota
+  73b31 asset-id
+  73b3a rename-ext-disks
+  73b4b smart-mouse-optimize
+  73b60 sticky-mouse
+  73b6d smooth-scrolling
+  73b7e keyboard-optimize
+  73b90 sync-host-printers
+  73ba3 sync-default-printer
+  73bb8 show-host-printer-ui
+  73bcd auto-share-camera
+  73bdf auto-share-smart-card
+  73bf5 auto-share-gamepad
+  73c08 support-usb30
+  73c16 efi-boot
+  73c1f efi-secure-boot
+  73c2f bios-type
+  73c39 select-boot-device
+  73c4c external-boot-device
+  73c61 smbios-board-id
+  73c71 smbios-build-version
+  73c86 smbios-serial-number
+  73c9b socket-mode
+  73ca7 input
+  73cad autostart
+  73cb7 onboot
+  73cbe autostart-delay
+  73cce autostop
+  73cd7 start-as-user
+  73ce5 startup-view
+  73cf2 on-shutdown
+  73cfe on-window-close
+  73d0e pause-idle
+  73d19 undo-disks
+  73d24 faster-vm
+  73d2e hypervisor-type
+  73d3e adaptive-hypervisor
+  73d52 disable-winlogo
+  73d62 auto-compress
+  73d70 nested-virt
+  73d7c pmu-virt
+  73d85 longer-battery-life
+  73d99 battery-status
+  73da8 shf-host
+  73db1 shf-host-add
+  73dbe shf-host-del
+  73dcb shf-host-set
+  73dd8 shf-host-defined
+  73de9 shf-host-automount
+  73dfc shf-description
+  73e0c shf-guest
+  73e16 shf-guest-automount
+  73e2a shf-guest-automount-cloud-drives
+  73e4b shf-guest-automount-network-drives
+  73e6e shf-guest-automount-removable-drives
+  73e93 winsystray-in-macmenu
+  73ea9 auto-switch-fullscreen
+  73ec0 lock-on-suspend
+  73ed0 isolate-vm
+  73edf tpm-key
+  73ee7 smart-guard
+  73ef3 sg-notify-before-create
+  73f0b sg-interval
+  73f17 sg-max-snapshots
+  73f28 time-sync
+  73f32 time-sync-smart-mode
+  73f47 disable-timezone-sync
+  73f5d time-sync-interval
+  73f70 modality-opacity
+  73f81 modality-stay-on-top
+  73f96 modality-show-on-all-spaces
+  73fb2 modality-capture-mouse-clicks
+  73fd0 fullscreen-use-all-displays
+  73fec fullscreen-activate-spaces-on-click
+  74010 fullscreen-optimize-for-games
+  7402e fullscreen-gamma-control
+  74047 fullscreen-scale-view-mode
+  74062 ifname
+  74069 searchdomain
+  74076 nameserver
+  74081 apply-iponly
+  7408e ipset
+  74094 ipadd
+  7409a ipdel
+  740a0 configure
+  740aa userpasswd
+  740b5 crypted
+  740bd usedefanswers
+  740cb tools-autoupdate
+  740dc shared-profile
+  740eb shared-profile-use-desktop
+  74106 shared-profile-use-documents
+  74123 shared-profile-use-pictures
+  7413f shared-profile-use-music
+  74158 shared-profile-use-movies
+  74172 shared-profile-use-downloads
+  7418f smart-mount
+  7419b smart-mount-removable-drives
+  741b8 smart-mount-dvd-drives
+  741cf smart-mount-network-shares
+  741ea sh-app-host-to-guest
+  741ff sh-app-guest-to-host
+  74214 show-guest-app-folder-in-dock
+  74232 bounce-dock-icon-when-app-flashes
+  74254 shared-clipboard
+  74265 keystroke-forwarding
+  7427a shared-cloud
+  74287 destroy-image
+  74295 destroy-image-force
+  742a9 detach-only
+  742b5 sync-vm-hostname
+  742c6 sync-ssh-ids
+  742d3 show-dev-tools
+  742e2 swipe-from-edges
+  742f3 share-host-location
+  74307 rosetta-linux
+  74315 network-conditioner
+  74329 network-conditioner-profile
+  74345 inbound-bandwidth
+  74357 inbound-delay
+  74365 inbound-packet
+  74374 outbound-bandwidth
+  74387 outbound-delay
+  74396 outbound-packet
+  743aa ostype
+  743b1 no-hdd
+  743b8 lion-recovery
+  743c6 restore-image
+  743d4 preserve-uuid
+  743e2 regenerate-src-uuid
+  743f6 clean-src-uuid
+  74405 linked
+  7440c unlink
+  74413 detach-external-hdd
+  74427 online
+  7442e force-deep-copy
+  74448 skip-resume
+  74454 children
+  7446c no-proxy
+  74475 proxy
+  7447b stand-alone
+  74487 email
+  7448d attach-screenshot
+  7449f no-auto-fallback
+  744b0 detailed
+  744b9 extended-diagnostics
+  744ce current-user
+  744db password
+  744e4 resolve-paths
+  744f2 use-advanced-terminal
+  74508 license
+  74510 company
+  74518 activate-online-immediately
+  74534 allow-shutdown
+  74543 estimate
+  7454c ip-scope-start
+  7455b ip-scope-end
+  74568 ip6-scope-start
+  74578 ip6-scope-end
+  74586 nat-tcp-add
+  74592 nat-udp-add
+  7459e nat-tcp-del
+  745aa nat-udp-del
+  745ba dhcp-server
+  745c6 dhcp6-server
+  745d3 dhcp-ip
+  745db dhcp-ip6
+  745e4 host-assign-ip6
+  745f4 connect-host-to-net
+  74608 No value provided for key '%s'.
+  7462e --autoconnect
+  74640 The '%s' autoconnect value is unknown.
+  74668 The '%s' option is unknown.
+  74685 Usage: %s ACTION [OPTIONS]
+  746a1 General options are:
+  746b6   [-v,--verbose <number>]
+  746d0 Supported actions are:
+  746e7   info [-j,--json] [--license] [-f,--full]
+  74712   install-license -k,--key <key> [-n,--name <name>] [-c,--company <name>]
+  7475c   update-license
+  7476d   deactivate-license [--skip-network-errors]
+  7479a   set [--mem-limit <auto | size>]
+  747bc     [-c,--cep <on | off>]
+  747d6     [--verbose-log <on | off>]
+  747f5     [--log-rotation <on | off>]
+  74815     [--allow-attach-screenshots <on | off>]
+  74841     [--host-id <host_id>] [--reset-host-id]
+  7486d     [--external-dev-auto-connect <host|guest|ask>]
+  748a0   user list [-o,--output <field>[,field...]] [-a,--all] [-H,--no-header] [-s,--sort] [-j,--json]
+  74901   user set --def-vm-home <path>
+  74921   net info <vnetwork_id>
+  7493a   net list [-j,--json]
+  74951   net set <vnetwork_id> [-i,--ifname <if>] [-m,--mac <mac_address>]
+  74995         [-t,--type <bridged | host-only | shared>]
+  749c8         [-d,--description <description>] [-n,--name <new_name>]
+  74a08         [--ip <ip[/mask]>] [--dhcp-server <on | off>] [--dhcp-ip <ip>]
+  74a4f         [--ip-scope-start <ip>] [--ip-scope-end <ip>]
+  74a85         [--ip6 <ip[/mask]>] [--dhcp6-server <on | off>] [--dhcp-ip6 <ip>]
+  74acf         [--ip6-scope-start <ip>] [--ip6-scope-end <ip>]
+  74b07         [--host-assign-ip6 <on | off>]
+  74b2e         [--connect-host-to-net <on | off>]
+  74b59         [--nat-<tcp | udp>-add <rule_name,src_port,<dest_ip | dest_vm>,dest_port>]
+  74bac         [--nat-<tcp | udp>-del <rule_name>] [-j,--json]
+  74be4   usb list [-j,--json] [-c,--compat] [-a,--all]
+  74c14   usb set <<usb-device-id> <vm-uuid | vm-name>> | <--autoconnect <ask | host>> | <--vm <vm-uuid | vm-name>>
+  74c80   usb del <usb-device-id>
+  74c9a   usb cleanup
+  74ca8   problem-report <-d,--dump | -s,--send [--proxy [user[:password]@proxyhost[:port]]] | [--no-proxy]>
+  74d0d         [--stand-alone] [--name <user name>] [--email <user E-mail>] [--description <problem_description>]
+  74d78         [--attach-screenshot <host>] [--detailed] [--no-auto-fallback] [-j,--json]
+  74dcb   shutdown [-f,--force]
+  74de4 def-vm-home
+  74df0 mem-limit
+  74dfa mng-settings
+  74e0b verbose-log
+  74e17 report-disable-deleting-archive
+  74e37 report-add-serial-port-output
+  74e55 log-rotation
+  74e62 headless-mode-feature
+  74e78 hide-license-request-params
+  74e94 allow-attach-screenshots
+  74ead external-dev-auto-connect
+  74ec7 web-portal-domain
+  74ed9 default-web-portal-domain
+  74ef3 skip-network-errors
+  74f07 The `%s' option requires an argument.
+  74f2f Failed to send problem report: %s
+  74f51 PrlResult_GetParamAsString: %s
+  74f71 The problem report was successfully sent with id: %d
+  74fa6 PrlReport_GetData: %s
+  74fbc An empty problem report received
+  74fdd Unable to allocate %d bytes
+  74ff9 PrlEvtPrm_GetBuffer: %s
+  75011 Failed to set user name: %s
+  7502d Failed to set user E-mail: %s
+  7504b Failed to set description: %s
+  75069 27.0.3-58680
+  75076 Failed to set client version: %s
+  75097 PrlJob_Wait: 
+  750a5 PrlJob_GetRetCode: 
+  750b9 PrlResult_GetParamsCount returned the following error: %s [%d]
+  750fb PrlEvent_GetErrCode: %s
+  75113 Error code: %d
+  75122 get_message: %s
+  75137 APPLE_VZ_VM
+  75143 starting
+  7514c restoring
+  75156 running
+  7515e paused
+  75165 resetting
+  7516f pausing
+  75177 suspending
+  75182 stopping
+  7518b compressing
+  75197 suspended
+  751a1 snapshoting
+  751ad continuing
+  751b8 del_snapshot
+  751c5 resuming
+  751ce encrypting
+  751d9 decrypting
+  751e4 cloning
+  751ec moving
+  751f3 archiving
+  751fd unarchiving
+  75209 packing
+  75211 unpacking
+  7521b invalid
+  75223 Virtual machine '%s' is encrypted - password required to continue operation
+  75270 Please enter password: 
+  75288 Failed to open %s
+  7529a Failed to write %d bytes
+  752b3 %-16s%s
+  752c3 Linux swap
+  752ce Linux
+  752d4 FAT32
+  752df Mac OS-X
+  752e8 USB drive
+  752f2 FireWire drive
+  75302 Operation progress %s%2d%%
+  75326 %s %s%2d%%
+  75331 PrlEvent_GetParamByName %s
+  7534c PrlEvtPrm_ToUint32 %s
+  75362 %4d-%02d-%02d %02d:%02d:%02d
+  7537f %02d/%02d/%04d %02d:%02d:%02d
+  753a0 ProblemReportId
+  753b0 ErrorMessageText
+  753c1 ErrorCode
+  753cb ErrorCodeHex
+  753d8 guest
+  753de legacy
+  753e5 efi32
+  753eb efi64
+  753f1 efi-arm64
+  753fb efi-arm32
+  75419 parallels
+  75423 apple
+  75429 highest
+  75431 start-app
+  7543b open-window
+  75447 user-login
+  75457 window
+  7545e coherence
+  75468 fullscreen
+  75473 modality
+  7547c headless
+  75485 close
+  75490 keep-running
+  7549d discard
+  754a5 apply
+  754ab prompt
+  754b2 accessibility
+  754c8 normal
+  754d4 DirectX 9.x
+  754e0 keep-ratio
+  754eb keep-ratio-by-expanding
+  75503 stretch
+  7550b vm_state_changed
+  7551c vm_config_changed
+  7552e vm_dev_state_changed
+  75543 vm_tools_state_changed
+  7555a vm_snapshots_tree_changed
+  75574 vm_added
+  7557d vm_deleted
+  75588 vm_unregistered
+  75598 vm_message
+  755a3 vm_question
+  755af unknown_evt_type
+  755c0 %Y-%m-%d %H:%M:%S
+  755ee host-to-guest
+  755fc guest-to-host
+  7560a 27.0.3 (58680)
+  75619 %s version %s
+  75628 PrlApi_Init returned the following error: (%s)
+  75658 PrlApi_SetMainServerVersion returned the following error: (%s)
+  75698 /dev/tty
+  756a1 Failed to open /dev/tty: (%d)
+  756bf windows
+  756c7 linux
+  756d1 macos
+  756d7 freebsd
+  756e3 msdos
+  756e9 netware
+  756f1 solaris
+  756f9 other
+  756ff win-311
+  75707 win-95
+  7570e win-98
+  75715 win-me
+  7571c win-nt
+  75723 win-2000
+  7572c win-xp
+  75733 win-2003
+  7573c win-vista
+  75746 win-2008
+  7574f win-7
+  75755 win-8
+  7575b win-2012
+  75764 win-8.1
+  7576c win-10
+  75773 win-2016
+  7577c win-2019
+  75785 win-2022
+  7578e win-11
+  75795 win-2025
+  757a3 rhel7
+  757ae debian
+  757b5 fedora-core
+  757c4 xandros
+  757cc ubuntu
+  757d3 elementary
+  757de mandriva
+  757e7 mandrake
+  757f0 centos
+  757f7 centos7
+  75804 redhat
+  7580b opensuse
+  75814 linux-2.4
+  7581e linux-2.6
+  75828 mageia
+  75839 manjaro
+  75841 zorin
+  75847 macosx
+  7584e tiger
+  75854 macos-10.4
+  7585f leopard
+  75867 macos-10.5
+  75872 snowleopard
+  7587e macos-10.6
+  75889 freebsd-4
+  75893 freebsd-5
+  7589d freebsd-6
+  758a7 freebsd-7
+  758b1 freebsd-8
+  758bb chrome-1
+  758c4 chrome
+  758cb msdos-6.22
+  758d6 os2-3
+  758dc os2-4
+  758e2 os2-45
+  758e9 ecomstation-1.1
+  758f9 ecomstation-1.2
+  75909 netware-4
+  75913 netware-5
+  7591d netware-6
+  75927 solaris-9
+  75931 solaris-10
+  7593c solaris-11
+  75947 opensolaris
+  75957 openstep
+  7596b For more details please refer %s at
+  75994 Parallels Desktop Command-Line Reference
+  759bd https://www.parallels.com/products/desktop/resources/
+  759f3 mouse
+  759f9 keyboard
+  75a02 printers
+  75a0b bluetooth
+  75a15 startup
+  75a1d optimization
+  75a2a security
+  75a33 smartguard
+  75a3e protection
+  75a49 timesync
+  75a52 device_mgmt
+  75a5e shared_folders
+  75a6d shared_profiles
+  75a7d shared_apps
+  75a89 smart_mounts
+  75a96 misc_sharing
+  75aa3 advanced
+  75ab1 network_cond
+  75abe --device-add
+  75acb --device-add-hdd
+  75adc --device-add-cdrom
+  75aef --device-add-net
+  75b00 --device-add-serial
+  75b14 --device-add-sound
+  75b27 --device-add-usb
+  75b38 --device-set-hdd
+  75b49 --device-set-cdrom
+  75b5c --device-set-net
+  75b6d --device-set-serial
+  75b81 --device-set-sound
+  75b94 --device-set-usb
+  75ba5 --device-del
+  75bb2 --device-connect
+  75bc3 --device-disconnect
+  75bd7 Usage: %s ACTION <ID | NAME> [OPTIONS]
+  75bff Supported categories of ACTION are:
+  75c25 prlctl list <options>
+  75c3b Options:
+  75c44     Without any specified option, lists running virtual mechines
+  75c85     -i,--info      Display VM configuration information
+  75cbd     -a,--all       List all existing virtual machines
+  75cf3     -f,--full      Show real IP addresses for the running virtual machines
+  75d3e     -o,--output    Display the values of the specified fields
+  75d7c     -s,--sort      Sort by field, add '-' before field name to reverse order
+  75dc9     -L,--list      List fields which can be used for both output and sort order options
+  75e21     -t,--template  Include templates in the output
+  75e54     -j,--json      Produce output in JSON format
+  75e85     --no-header    Print VM list without the header line
+  75ebe     -S,--stopped   List all VMs in stopped state
+  75eef     -n,--name      List only named VM
+  75f15 Examples:
+  75f1f     prlctl list -i -f <ID | NAME> : Prints detailed information of a VM
+  75f67     prlctl list --stopped --full : Prints detailed information of all stopped VMs
+  75fb9     prlctl list --all --no-header : Prints list of all registered VMs omitting header line
+  76014     prlctl list --output uuid,name --all : Prints list of all registered VMs with only UUID and NAME columns
+  76081 prlctl create <NAME> <options>
+  760a0     --ostemplate          OS template to be used for VM
+  760d8     -o, --ostype          OS type to be used for VM, 'list' to show available types
+  7612c     -d, --distribution    OS distribution to be used for VM, 'list' to show available options
+  7618a     --dst                 Specify directory path to store VM configuration files
+  761db     --no-hdd              Create VM without hard drives
+  76213     --hdd-block-size      Specify block size to be used to create hard drives
+  76261     --lion-recovery       Create VM from Lion OS host recovery partition
+  762aa     --uuid                Specify custom UUID for the VM
+  762e3     --restore-image       Designate a specific ipsw restore image (only on Apple Silicon Macs)
+  76342     prlctl create <vm_name> --ostemplate list : Displays list of available OS templates
+  7639a     prlctl create <vm_name> --ostemplate <name> : Creates a VM using given template
+  763ee     prlctl create <vm_name> --ostype list : Displays list of OS types available for VM creation
+  7644e     prlctl create <vm_name> --distribution <name> : Creates a VM optimized to use with specified OS distribution
+  764bf prlctl delete <ID | NAME>
+  764d9     prlctl delete <ID | NAME> : Completely removes specified VM
+  76519 prlctl register <PATH> <options>
+  7653a     --uuid                   Use provided UUID for the VM
+  76574     --regenerate-src-uuid    Regenerate UUID and use it for the VM
+  765b7     --preserve-uuid          Preserve UUID of the VM
+  765ec     --force                  Skip all validation checks
+  76624     -n, --name               Use provided NAME for the VM
+  7665e     prlctl register <PATH> --uuid <UUID> : Registers VM at <PATH> and assigns <UUID> to it
+  766b9     prlctl register <PATH> --name <NAME> : Registers VM at <PATH> and assigns <NAME> to it
+  76714 prlctl unregister <ID | NAME>
+  76732     prlctl unregister <ID | NAME> : Unregisters specified VM
+  7676f prlctl clone <ID | NAME> <options>
+  76792     --name                   Name to be assigned to the created clone
+  767d8     --template               Template to be used for creating clone
+  7681c     --dst                    Destination path where clone will be stored
+  76865     --regenerate-src-uuid    Regenerates UUID
+  76893     --linked [-i,--id]       Creates a linked clone with specified ID
+  768d9     --unlink                 Creates a clone but unlinks it from parent VM
+  76924     --detach-external-hdd    Detaches external HDD from the clone
+  76966     --force-deep-copy        Force deep copy creation instead of using native clone capabilities
+  769c7     prlctl clone <ID | NAME> --name <new_name> : Clones specified VM and assigns 'new_name' to the clone
+  76a30     prlctl clone <ID | NAME> --dst <path> : Clones specified VM and stores the clone at specified 'path'
+  76a99 prlctl convert <ID | NAME> <options>
+  76abe     --dst      Destination path to store converted VM
+  76af4     --force    Bypass all checks
+  76b15     prlctl convert <ID | NAME> --dst <path> : Converts specified VM and stores it at 'path' specified
+  76b7b prlctl move <ID | NAME> <options>
+  76b9d     prlctl move <ID | NAME> --dst <path> : Moves specified VM and stores it at 'path' specified
+  76bfd prlctl installtools <ID | NAME>
+  76c1d     prlctl installtools <ID | NAME> : Installs Parallels Tools inside specified VM
+  76c70 prlctl enter <ID | NAME> <options>
+  76c93     --current-user      Destination path to store converted VM
+  76cd2     -u,--user           Bypass all checks
+  76cfc     --password
+  76d0b     -r,--resolve-paths
+  76d22     --use-advanced-terminal
+  76d3e     prlctl enter <ID | NAME> --user <user> --password <password>: Logs in to specified VM using specified username and password
+  76dbe prlctl exec <ID | NAME> <options> <command> [arg...]
+  76df3     --current-user             Use current users credentials to log in to the specified VM
+  76e4e     -u,--user                  Log in using 'user' instead of current user
+  76e99     --password                 Use specified password to authenticate given user
+  76eea     --use-advanced-terminal    Use advanced terminal for execution, if available. The default is VT100
+  76f51 <command> [arg ...]            Command (and arguments, if any) to be executed inside the specified VM
+  76fb7     prlctl exec <ID | NAME> <command> : Executes specified command in the specified VM
+  7700e     prlctl exec <ID | NAME> --user <user> --password <password> <command> : Executes specified
+  7706d                                command in the specified VM using specified user credentials
+  770c9 prlctl send-key-event <ID | NAME> <options>
+  770f5     Any one of:
+  77105         -k,--key                  Parallels virtual keycode
+  77141         -s,--scancode             Keyboard scan code
+  77176     -e,--event <press|release>    Sequential press and release key events
+  771c0     -d,--delay <n>                Delay in milliseconds between sequential press and release key events
+  77228     -j,--json                     Use JSON format to send key events
+  7726d     prlctl send-key-event <ID | NAME> --key <key> --event press : Sends only press event for specified key to specified running VM
+  772f0     prlctl send-key-event <ID | NAME> --scancode <code> --event release : Sends release event for specified scancode to specified running VM
+  7737d prlctl status <ID | NAME>
+  77397     prlctl status <ID | NAME> : Displays status of the specified VM
+  773db prlctl capture <ID | NAME> <options>
+  77400     -f,--file    Name of the file to save screenshot in
+  77438     prlctl capture <ID | NAME> --file <filename> : Captures screenshot of specified VM and saves in specified file
+  774ab prlctl encrypt <ID | NAME> <options>
+  774d0     --dry-run    Check preconditions for successful encryption
+  7750f     prlctl encrypt <ID | NAME> : Encrypts specified VM
+  77546 prlctl decrypt <ID | NAME> <options>
+  7756b     --dry-run    Check preconditions for successful decryption
+  775aa     prlctl decrypt <ID | NAME> : Decrypts specified encrypted VM
+  775eb prlctl change-passwd <ID | NAME>
+  7760c     prlctl change-passwd <ID | NAME> : Changes password for specified VM
+  77655 prlctl archive <ID | NAME>
+  77670     prlctl archive <ID | NAME> : Archives specified VM bundle
+  776ae prlctl unarchive <ID | NAME>
+  776cb     prlctl unarchive <ID | NAME> : Unarchives specified VM bundle
+  7770d prlctl protection-set <ID | NAME>
+  7772f     prlctl protection-set <ID | NAME> : Enables protection of expiration date of the specified VM
+  77791 prlctl protection-remove <ID | NAME>
+  777b6     prlctl protection-remove <ID | NAME> : Disables protection of expiration date of the specified VM
+  7781c prlctl start <ID | NAME> <options>
+  7783f Options (any one):
+  77852     --rollback-mode    Set rollback mode
+  7787b     --recovery-mode    Set recovery mode
+  778a4     prlctl start <vm_id> --rollback-mode : Starts specified VM in rollback mode
+  778f4     prlctl start <vm_name> --recovery-mode : Starts specified VM in recovery mode
+  77946 prlctl resume <ID | NAME>
+  77960     prlctl resume <ID | NAME> : Resumes the specified VM
+  77999 prlctl pause <ID | NAME> <options>
+  779bc     --acpi    Use ACPI call to pause VM
+  779e4     prlctl pause <ID | NAME> : Pauses the specified VM
+  77a1b prlctl suspend <ID | NAME>
+  77a36     prlctl suspend <ID | NAME> : Suspends the specified VM
+  77a71 prlctl restart <ID | NAME>
+  77a8c     prlctl restart <ID | NAME> : Restarts the specified VM
+  77ac7 prlctl reset <ID | NAME>
+  77ae0     prlctl reset <ID | NAME> : Resets the specified VM
+  77b17 prlctl reset-uptime <ID | NAME>
+  77b37     prlctl reset-uptime <ID | NAME> : Resets the up-time counter of specified VM
+  77b88 prlctl stop <ID | NAME> <options>
+  77baa     --kill          Forcibly stop the VM
+  77bd3     --noforce       Consent stopping the VM
+  77bff     --acpi          Use ACPI call to stop the VM
+  77c30     --drop-state    Drop the suspended state of the VM
+  77c67     prlctl stop <ID | NAME> --kill : Forcibly stops the specified VM
+  77cac prlctl snapshot <ID | NAME> <options>
+  77cd2     -n,--name           Name for the new snapshot
+  77d04     -d,--description    Description for the new snapshot
+  77d3d     prlctl snapshot <ID | NAME> --name name1 -d "sample" : For given VM, creates a
+  77d90                     new snapshot with name as 'name1' and description text 'sample'
+  77de4 prlctl snapshot-delete <ID | NAME> <options>
+  77e11     -i,--id          ID of the snapshot
+  77e39     -c,--children    Flag indicating action on child snapshots
+  77e78     prlctl snapshot-delete <vm_name> --id snapID : Deletes snapshot with id snapID for given VM
+  77ed8     prlctl snapshot-delete <vm_name> --id snapID -c : Deletes snapshot with id snapID and its child snapshots
+  77f46 prlctl snapshot-list <ID | NAME> <options>
+  77f71     -t,--tree         Display snapshot tree using ASCII graphics
+  77fb2     -i,--id           Display Specified snapshot information
+  77fef     -j,--json         Produce output in JSON format
+  78023     -H,--no-header    Do not print header line in output
+  7805c     prlctl snapshot-list <ID | NAME> --tree : Displays snapshot tree for the specified VM
+  780b6     prlctl snapshot-list <ID | NAME> --id snapID : Displays information for snapshot snapID of the specified VM
+  78126 prlctl snapshot-switch <ID | NAME> <options>
+  78153     -i,--id          ID of the snapshot to revert to
+  78188     --skip-resume    VM will not be started if it was running when snapshot was taken
+  781de     prlctl snapshot-switch <ID | NAME> --id snapID : Reverts to VM snapshot with id 'snapID'
+  7823b prlctl problem-report <ID | NAME> <options>
+  78267     -d,--dump                            Dump the problem report to stdout (Default)
+  782bc     -s,--send                            Send the problem report to Parallels
+  7830a     --proxy                              Proxy server to be used for Internet access
+  7835f     --no-proxy                           Do not use any proxy (default)
+  783a7     --name                               Use specified user name in the report
+  783f6     --email                              Use specified e-mail address in the report
+  7844a     --description                        Use specified free-form description in the report
+  784a5     --stand-alone                        Assembles report without connecting to the PD service
+  78504     --no-auto-fallback                   Stop report generation if error occurs while collecting data
+  7856a     --attach-screenshot <host|vm|all>    Capture screen image and attach to report
+  785bd     --detailed                           Include additional files as if detailed log messages was set
+  78623     --json                               Produce output in JSON format
+  7866a     prlctl problem-report <ID | NAME> : Generates problem report and dumps to stdout
+  786bf     prlctl problem-report <ID | NAME> --send : Generates problem report and sends it to Parallels
+  78721 prlctl guest-debugger <ID | NAME> <options>
+  7874d     --port    Connection port to be used by debugger
+  78782     prlctl guest-debugger <ID | NAME> --port 9099 : Connects debugger to specified running VM via port 9099
+  787ee prlctl debug-dump <ID | NAME> <options>
+  78816     --name    Dump file name (default: memory.elf.dmp)
+  7884d     --path    Path of destination directory for dump file
+  78887     prlctl debug-dump <ID | NAME> : Creates VM dump in ELF format and saves it to a file
+  788e0     prlctl debug-dump <ID | NAME> --name vm_dump.dmp : Creates file named vm_dump.dmp and dumps VM in it
+  78949 prlctl set <ID | NAME> <options>
+  7896a     --cpus <auto|N>    Set number of CPUs to be available to the VM
+  789ae     prlctl set <ID | NAME> --cpus auto : Automatically detects and sets number of CPUs for VM
+  78a0c     --memsize <auto|megabytes>    Set the amount of memory (in MB) for the VM
+  78a5a     prlctl set <ID | NAME> --memsize auto : Automatically detects and sets memory size for VM
+  78ab8     --device-bootorder "<name1 name2 ...>"      Specify order of boot devices (HDD, CD/DVD, Network etc.)
+  78b22     --bios-type <legacy|efi32|efi64|efi-arm64>    Set on to boot using EFI, off to boot using BIOS
+  78b85     --efi-secure-boot <on|off|reset>              Enable/Disable or force reset of EFI secure boot
+  78be8     --select-boot-device <on|off>                 Enable/Disable boot device seletion at VM startup
+  78c4c     --external-boot-device <name>                 Set external device from which to boot the VM
+  78cac     prlctl set <ID | NAME> --device-bootorder "hdd0 cdrom0 usb0" : Boots from harddisk, else cdrom drive, else usb
+  78d1f     prlctl set <ID | NAME> --bios-type efi64 --efi-secure-boot on : Uses EFI64 secure BIOS for booting the VM
+  78d8d     --video-adapter-type <parallels|virtio>    Set video adapter type
+  78dd3     --videosize <auto|megabytes>               Set the amount of memory for VM graphic card
+  78e2f     --3d-accelerate <off|highest|dx9>          Set 3d acceleration video mode
+  78e7d     --vertical-sync <on|off>                   Enable/disable virtical sync
+  78ec9     --high-resolution <on|off>                 Enable/disable high-res video mode
+  78f1b     --high-resolution-in-guest <on|off>        Enable/disable high resolution in guest VM
+  78f75     --native-scaling-in-guest <on|off>         Enable/disable native scaling in guest VM
+  78fce     prlctl set <ID | NAME> --videosize auto : Sets graphic card memory to pre-defined amount (in MB)
+  79033     prlctl set <ID | NAME> --high-resolution on : Enables high-res video mode for drawing on host retina display
+  790a4     --smart-mouse-optimize <auto|on|off>               Set smart mouse optimization mode
+  790fd     --sticky-mouse <on|off>                            Enable/disable sticky mouse
+  79150     --smooth-scrolling <on|off>                        Enable/disable smooth scrolling
+  791a7     prlctl set <ID | NAME> --smart-mouse-optimize auto : Sets automatic smart mouse optimization for the specified VM
+  7921d     prlctl set <ID | NAME> --smooth-scrolling off : Turns off smooth scrolling for the specified VM
+  79281     --keyboard-optimize <auto|accessibility|on|off>    Set keyboard optimization mode
+  792d7     prlctl set <ID | NAME> --keyboard-optimize auto : Sets automatic keyboard optimization for the specified VM
+  79347     --sync-host-printers <on|off>      Enable/disable using host printer in Windows guest
+  793a1     --sync-default-printer <on|off>    Sync host default printer with Windows default printer
+  793ff     --show-host-printer-ui <on|off>    Show host printer UI before actual printing
+  79452     prlctl set <ID | NAME> --sync-host-printers off : Disables using host printer in specified Windows VM
+  794bc     prlctl set <ID | NAME> --show-host-printer-ui on : Shows host printer UI before actual printing
+  79520     --auto-share-camera <on|off>        Enable/disable automatic web-camera sharing
+  79574     --auto-share-smart-card <on|off>    Enable/disable automatic smartcard device sharing
+  795ce     --support-usb30 <on|off>            Enable/disable USB3.0 support
+  79614     prlctl set <ID | NAME> --auto-share-camera on : Enables automatic sharing of webcamera for specified VM
+  79680     prlctl set <ID | NAME> --support-usb30 on : Enables USB3.0 support for specified VM
+  796d8     --auto-share-gamepad <on|off>       Enable/disable automatic bluetooth gamepad sharing
+  79733     prlctl set <ID | NAME> --auto-share-gamepad on : Enables automatic sharing of bluetooth gamepad for specified VM
+  797a8     --autostart <off|open-window|start-app|start-host|user-login>          Set VM automatic start option
+  79811     --autostart-delay <n>                                                  Set VM autostart delay (seconds)
+  7987d     --autostop <stop|suspend|shutdown>                                     Specify VM automatic stop option
+  798e9     --startup-view <same|window|coherence|fullscreen|modality|headless>    Set VM startup view option
+  7994f     --on-shutdown <window|close|quit>                                      Set VM shutdown option
+  799b1     --on-window-close <suspend|shutdown|stop|ask|keep-running>             Set VM window close option
+  79a17     --pause <on|off>                                                       Enable/disable pausing the VM
+  79a80     --undo-disks <off|discard|ask>                                         Set VM undo disks option
+  79ae4     prlctl set <ID | NAME> --autostart open-window : Specified VM starts when its window opens
+  79b43     prlctl set <ID | NAME> --autostop suspend : Suspends specified VM on host shutdown
+  79b9a     prlctl set <ID | NAME> --startup-view fullscreen : Starts specified VM in full-screen mode
+  79bf9     prlctl set <ID | NAME> --undo-disks discard : Discards all disk changes made in VM when it is stopped
+  79c63     --faster-vm <on|off>                       Set performance mode: faster VM or faster Host
+  79cc1     --hypervisor-type <parallels|apple>        Set hypervisor type
+  79d04     --adaptive-hypervisor <on|off>             Enable/disable adaptive hypervisor
+  79d56     --disable-winlogo <on|off>                 Enable/disable Windows logo
+  79da1     --auto-compress <on|off>                   Enable/disable virtual disk automatic compression
+  79e02     --nested-virt <on|off>                     Enable/disable nested virtualization
+  79e56     --pmu-virt <on|off>                        Enable/disable PMU virtualization
+  79ea7     --longer-battery-life <on|off>             Set power option: longer battery life or better performance
+  79f12     --battery-status <on|off>                  Show or hide battery status
+  79f5d     --resource-quota <low|medium|unlimited>    Set the VM resource quota
+  79fa6     prlctl set <ID | NAME> --faster-vm on : Sets faster VM performance
+  79fed     prlctl set <ID | NAME> --nested-virt off : Disables nested virtualization inside specified VM
+  7a04f     prlctl set <ID | NAME> --longer-battery-life off : Sets better performance option for the specified VM
+  7a0ba     --userpasswd <options>                Set password for specified user in the VM
+  7a10e     --lock-on-suspend <on|off>            Always lock guest OS on suspend
+  7a158     --isolate-vm <on|off>                 Enable/disable host isolation from the VM
+  7a1ac     --tpm <on|off|2|crb>                  Enable/disable Trusted Platform Module
+  7a1fd     --tpm-key <options>                   Import the key of the TPM chip
+  7a246 Note:
+  7a24c These options are lengthy to elaborate, please refer the Documentation link given below.
+  7a2a5     prlctl set <ID | NAME> --isolate-vm on : Isolates the host from the specified VM
+  7a2fa     prlctl set <ID | NAME> --tpm off : Disables TPM for specified VM
+  7a33f     --smart-guard <on|off>                Enable/disable smart guard mechanism
+  7a38e     --sg-notify-before-create <on|off>    Notify user before creating a snapshot
+  7a3df     --sg-interval <seconds>               Set time interval between snapshots
+  7a42d     --sg-max-snapshots <n>                Set maximum allowed number of snapshots
+  7a47f     prlctl set <ID | NAME> --smart-guard on : Enables smart guard mechanism for specified VM
+  7a4dc     prlctl set <ID | NAME> --sg-max-snapshots 10 : Maximum 10 snapshots possible for specified VM
+  7a53e prlctl set <ID | NAME> --expiration <options>
+  7a56c         on                            Enable expiration date check
+  7a5af         off                           Disable expiration date check
+  7a5f3         date:<yyyy-MM-ddThh:mm:ss>    Set date and time when VM usage period expires
+  7a648         time-check:<seconds>          Set frequency to contact time server to check expiration
+  7a6a7         offline-time:<seconds>        In case PD unable to check expiration, set duration a user can work with VM
+  7a719         time-server:<url>             Specify URL of trusted time server for checking expiration
+  7a77a         note:<text>                   Add any note (e.g. sysadmin contact details)
+  7a7cd     prlctl set <ID | NAME> --expiration off : Disables expiry checks for the specified VM
+  7a827     prlctl set <ID | NAME> --expiration time-server:URL : Specifies trusted time server to be used for VM expiry checks
+  7a89f     --modality-opacity <percentage>             Set VM window opacity
+  7a8e5     --modality-stay-on-top <on|off>             Enable/disable VM window to stay on top of other windows
+  7a94e     --modality-show-on-all-spaces <on|off>      Enable/disable VM window to be displayed on all spaces
+  7a9b5     --modality-capture-mouse-clicks <on|off>    Enable/disable VM window to capture mouse clicks
+  7aa16     prlctl set <ID | NAME> --modality-stay-on-top on : Makes VM window stay on top of all other windows
+  7aa7e     prlctl set <ID | NAME> --modality-capture-mouse-clicks on : The mouse clicks will be 'through' VM window
+  7aaeb     --fullscreen-use-all-displays <on|off>                        Enable/disable using all connected displays
+  7ab59     --fullscreen-activate-spaces-on-click <on|off>                Enable/disable selecting VM to appear on all connected displays
+  7abdb     --fullscreen-optimize-for-games <on|off>                      Enable/disable visibility of macOS Dock, menu bar and notifications
+  7ac61     --fullscreen-gamma-control <on|off>                           Allow/forbid VM to change gamma setting
+  7accb     --fullscreen-scale-view-mode <off|auto|keep-ratio|stretch>    Set how the VM is displayed when working in fullscreen mode
+  7ad49     prlctl set <ID | NAME> --fullscreen-use-all-displays on : Allows specified VM to use all connected displays
+  7adb9     prlctl set <ID | NAME> --fullscreen-gamma-control off : Forbids sepcified VM to change display's gamma setting
+  7ae2c     --winsystray-in-macmenu <on|off>     Show Windows notifications area in Mac menu bar
+  7ae85     --auto-switch-fullscreen <on|off>    Allow applications to auto-switch to full screen
+  7aedf     prlctl set <ID | NAME> --winsystray-in-macmenu on : Shows Microsoft Windows notifications area in Mac menubar
+  7af51     prlctl set <ID | NAME> --auto-switch-fullscreen off : Forbids applications to auto-switch to full screen
+  7afbe     --time-sync <on|off>                Enable/disable VM time synchronization
+  7b00d     --time-sync-smart-mode <on|off>     Enable/disable VM time synchronization smart mode
+  7b067     --disable-timezone-sync <on|off>    Enable/disable VM time zone synchronization
+  7b0bb     --time-sync-interval <seconds>      Set the VM time synchronization interval
+  7b10c     prlctl set <ID | NAME> --time-sync off : Disables time synchronization for specified VM
+  7b168     prlctl set <ID | NAME> --disable-timezone-sync on : Synchronizes only UTC time without timezone sync
+  7b1d1 prlctl set <ID | NAME> <Device_Mgmt_Option> <device_name> <options>
+  7b215 Device management options (any one):
+  7b23a     --device-add         Add the specified device to a VM
+  7b274     --device-set         Enable/Disable or connect/disconnect the specified device from a VM
+  7b2d1     --device-del         Remove the specified device from the VM
+  7b312     --device-connect     Connect the specified device to a running VM
+  7b358     --device-disconnect  Disconnect the specified device from a running VM
+  7b3a3 Device types (any one):
+  7b3bb     hdd       Hard disk drive
+  7b3d9     cdrom     Optical drive
+  7b3f5     net       Network adapter
+  7b413     serial    Serial port
+  7b42d     sound     Sound card
+  7b446     usb       USB support
+  7b460     Based on device type, there are a number of specialized options available
+  7b4ae     under this category. To see more options please use following command.
+  7b4f9         prlctl set <Device_Mgmt_Option>-<Device type> --help
+  7b536     For example, to see device-add options for hard disk, use command
+  7b57c         prlctl set --device-add-hdd --help
+  7b5a7     --shf-host <on|off>                                Enable/disable sharing Host OS folders with VM
+  7b60d     --shf-host-add <sub_options>                       Share specified Host OS folder with VM
+  7b66b     --shf-host-del <name>                              Remove specified folder from list of shared folders
+  7b6d6     --shf-host-set <sub_options>                       Modify settings of Host OS shared folder
+  7b736     --shf-host-defined <off|alldisks|home>             Disable or define Host OS folders to be shared
+  7b79c     --shf-host-automount <on|off>                      Enable/disable automount of Host OS shared folders
+  7b806     --shf-guest <on|off>                               Enable/disable sharing guest OS folders with MacOS
+  7b870     --shf-guest-automount <on|off>                     Enable/disable automount of Guest OS shared folders
+  7b8db     --shf-guest-automount-cloud-drives <on|off>        Enable/disable automount of Guest OS cloud folders
+  7b945     --shf-guest-automount-network-drives <on|off>      Enable/disable automount of Guest OS network folders
+  7b9b1     --shf-guest-automount-removable-drives <on|off>    Enable/disable automount of Guest OS removable drives
+  7ba1e Sub-options are:
+  7ba2f     --path                Path of folder to be shared
+  7ba65     --mode <ro|rw>        Sharing mode of the folder (read-only / read-write)
+  7bab3     --shf-description     Text describing shared folder
+  7baeb     --enable|--disable    Enable/disable shared folder
+  7bb22     prlctl set <ID | NAME> --shf-host-defined alldisks : Shares all Host OS disks with specified VM
+  7bb86     prlctl set <ID | NAME> --shf-host-add my_folder --path /path/to/share/folder --mode ro : Shares my_folder from Host OS in read-only mode
+  7bc13     --shared-profile <on|off>                  Enable/disable shared profile
+  7bc60     --shared-profile-use-desktop <on|off>      Enable/disable Desktop folder sharing
+  7bcb5     --shared-profile-use-documents <on|off>    Enable/disable Documents folder sharing
+  7bd0c     --shared-profile-use-pictures <on|off>     Enable/disable Pictures folder sharing
+  7bd62     --shared-profile-use-music <on|off>        Enable/disable Music folder sharing
+  7bdb5     --shared-profile-use-movies <on|off>       Enable/disable Movies folder sharing
+  7be09     --shared-profile-use-downloads <on|off>    Enable/disable Downloads folder sharing
+  7be60     prlctl set <ID | NAME> --shared-profile on : Enables shared profile for specified VM
+  7beb9     prlctl set <ID | NAME> --shared-profile-use-documents on : Enables sharing Documents folder
+  7bf19     prlctl set <ID | NAME> --shared-profile-use-music off : Disables sharing Music folder
+  7bf73     --sh-app-host-to-guest <on|off>                 Enable/disable sharing host applications with guest
+  7bfdb     --sh-app-guest-to-host <on|off>                 Enable/disable sharing guest applications with host
+  7c043     --show-guest-app-folder-in-dock <on|off>        Enable/disable showing guest applications folder in the Dock
+  7c0b4     --bounce-dock-icon-when-app-flashes <on|off>    Enable/disable Windows application icons bouncing to alert
+  7c123     prlctl set <ID | NAME> --sh-app-host-to-guest off : Disables sharing host applications with guest VM
+  7c18c     prlctl set <ID | NAME> --bounce-dock-icon-when-app-flashes off : Disables Windows application icons bouncing to alert
+  7c206     --smart-mount <on|off>                     Enable/disable shared volumes
+  7c253     --smart-mount-removable-drives <on|off>    Enable/disable sharing removable drives
+  7c2aa     --smart-mount-dvd-drives <on|off>          Enable/disable sharing CD/DVD drives
+  7c2fe     --smart-mount-network-shares <on|off>      Enable/disable sharing network drives
+  7c353     prlctl set <ID | NAME> --smart-mount on : Enables smart sharing with the specified VM
+  7c3ad     prlctl set <ID | NAME> --smart-mount-dvd-drives off : Disables sharing CD/DVD drives with specified VM
+  7c418     --shared-clipboard <on|host-to-guest|guest-to-host|off>    Clipboard sharing mode between Host and Guest
+  7c485     --keystroke-forwarding <on|off>                            Enabled/disable keystroke forwarding
+  7c4e9     --shared-cloud <on|off>                                    Enable/disable shared cloud
+  7c544     prlctl set <ID | NAME> --shared-clipboard host-to-guest : Shares Host clipboard with specified VM
+  7c5aa     prlctl set <ID | NAME> --keystroke-forwarding off : Disables keystroke forwarding with specified VM
+  7c612     prlctl set <ID | NAME> --shared-cloud off : Disables sharing cloud with specified VM
+  7c66b     --sync-vm-hostname <on|off>       Enable/disable VM name and hostname synchronization (Linux only)
+  7c6d2     --sync-ssh-ids <on|off>           Enable/disable OSX SSH key with guest OS authorized_keys file
+  7c736     --show-dev-tools <on|off>         Enable/disable showing Developer Tools in menu
+  7c78b     --swipe-from-edges <on|off>       Enable/disable edge swipe gestures
+  7c7d4     --share-host-location <on|off>    Enable/disable host location sharing with the VM
+  7c82b     --rename-ext-disks                Rename external virtual hard disks using VM name
+  7c882     --system-flags                    Pass list of additional semicolon-separated system flags to VM
+  7c8e7     --rosetta-linux <on|off>          Enable/disable running x86_64 binaries in Linux VM using Rosetta
+  7c94e     prlctl set <ID | NAME> --show-dev-tools off : Disables showing developer tools in menu
+  7c9a9     prlctl set <ID | NAME> --rosetta-linux on : Enables running x86_64 binaries using Rosetta in specified Linux VM
+  7ca1d     --name <name>                  Change VM name
+  7ca4f     --description <desc>           Set VM description
+  7ca85     --distribution <name|list>     Set VM OS family
+  7cab9     --asset-id <id>                Change VM asset ID
+  7caef     --template <on|off>            Convert VM to/from template
+  7cb2e     --tools-autoupdate <yes|no>    Enable/disable automatic update for Parallels Tools Agent
+  7cb8b     --usedefanswers <on|off>       Enable/disable using default answers to questions from VM
+  7cbe8     prlctl set <ID | NAME> --tools-autoupdate no : Disables automatic update for Parallels Tools Agent
+  7cc4f     prlctl set <ID | NAME> --usedefanswers on : Enables using default answers to questions from the VM
+  7ccb6     --network-condition <on|off>               Enable/disable network conditioner for specified VM
+  7cd19     --network-condition-profile <name>         Select network conditioner profile by name
+  7cd73     --inbound-bandwidth <n>[bps|kbps|mbps]     Set download bandwidth (default unit: kbps)
+  7cdce     --inbound-delay <n>                        Set inbound delay in milliseconds
+  7ce1f     --inbound-packet <n>                       Set inbound packet loss in percentage
+  7ce74     --outbound-bandwidth <n>[bps|kbps|mbps]    Set upload bandwidth (default unit: kbps)
+  7cecd     --outbound-delay <n>                       Set outbound delay in milliseconds
+  7cf1f     --outbound-packet <n>                      Set outbound packet loss in percentage
+  7cf75 List of available network condition profiles:
+  7cfa3     edge, dsl, 3g, 100-percent-loss, very-bad-net, wifi
+  7cfdb     prlctl set <ID | NAME> --network-condition on : Enables network conditioner for the specified VM
+  7d040     prlctl set <ID | NAME> --inbound-bandwidth 3mbps : Sets download bandwidth to 3mbps for specified VM
+  7d0a9 prlctl set <ID | NAME> --device-add <device_name> <options>
+  7d0e5         prlctl set --device-add-<Device type> --help
+  7d11a For virtual hard disk:
+  7d131     --image                                 Name of the file to be used to emulate VM virtual drive
+  7d195     --type <expand|plain>                   Type of the virtual hard disk
+  7d1df     --size                                  Virtual hard disk size, in megabytes
+  7d230     --split                                 Split the virtual hard disk into 2Gb pieces
+  7d288     --iface <ide|scsi|sata|nvme>            Virtual disk interface type
+  7d2d0     --position                              SCSI/IDE/SATA device identifier to be used for disk drive
+  7d336     --subtype <buslogic|lsi-spi|lsi-sas>    Virtual hard disk subtype
+  7d37c     --online-compact <on|off>               Enable/disable virtual hard disk online compact mode
+  7d3dd     --alloc-policy <prealloc|sparse>        Specify allocation policy for disk drive
+  7d432 For physical hard drive:
+  7d44b     --device                                Name of host computer's hard disk to be connected to VM
+  7d4af     --passthr <yes|no>                      Enable/disable passthrough mode for specified device
+  7d510     prlctl set <ID | NAME> --device-add <hdd_name> --image <img> : Adds specified virtual hard disk
+  7d574     prlctl set <ID | NAME> --device-add <hdd_name> --device <dev> --iface <name> : Adds specified physical hard disk
+  7d5e9 For virtual optical drive:
+  7d604     --iface <ide|scsi|sata>                 Virtual disk interface type
+  7d64c For physical optical drive:
+  7d668     --device                                Name of host computer's CD/DVD-ROM to be connected to VM
+  7d6cd     prlctl set <ID | NAME> --device-add <cdd_name> --image <img> : Adds specified virtual CD/DVD drive
+  7d734     prlctl set <ID | NAME> --device-add <cdd_name> --device <dev> --iface <name> : Adds specified physical CD/DVD drive
+  7d7ac     --type <shared|bridged|host-only>    Type of network adapter
+  7d7ed     --iface                              Host network adapter to be assigned to virtual network adapter
+  7d855     --mac <addr|auto>                    MAC address to be assigned to virtual network adapter
+  7d8b4         --ipadd                          IP address to be assigned to VM network adapter
+  7d90d         --ipdel                          IP address to be removed from VM network adapter
+  7d967         --dhcp <yes|no>                  Enable/disable getting IP settings through a DHCP server
+  7d9c9         --dhcp6 <yes|no>                 Enable/disable getting IPv6 settings through a DHCP server
+  7da2d     --gw                                 Default gateway to be used by VM
+  7da77     --gw6                                Default IPv6 gateway to be used by VM
+  7dac6     --nameserver                         Default DNS server to be used by VM
+  7db13     --searchdomain                       Default search domain to be used by VM
+  7db63     --configure <yes|no>                 Enable/disable application of default settings to the adapter
+  7dbca     --apply-iponly <yes|no>              If set yes, certain settings from configuration file are ignored
+  7dc34     --adapter-type <virtio|e1000|rtl>    Specify network adapter emulation type
+  7dc84     prlctl set <ID | NAME> --device-add <nw_name> --type <type> --iface <name> : Adds specified virtual network adapter
+  7dcfc         --device                     Number of host computer serial port used by VM
+  7dd50         --output                     Path to file where output of virtual serial port will be sent
+  7ddb3         --socket                     Name of host computer socket to which serial port will be connected
+  7de1c     --socket-mode <server|client>    Socket operation mode (only in case of --socket option)
+  7de79     prlctl set <ID | NAME> --device-add <port_name> --device <dev> : Adds specified virtual serial port to VM with specified host serial port
+  7df07     prlctl set <ID | NAME> --device-add <port_name> --output <file> : Adds specified virtual serial port and directs port output to specified file
+  7df9a     --output    Name of physical output device to be connected to virtual sound card
+  7dfef     --input     Name of physical input device to be connected to virtual sound card
+  7e043     prlctl set <ID | NAME> --device-add <dev_name> --output <dev> : Adds specified sound device and directs output to specified host sound device
+  7e0d5     prlctl set <ID | NAME> --device-add <dev_name> --input <dev> : Adds specified sound device and connects input to specified host sound device
+  7e166 prlctl set <ID | NAME> --device-add <device_name>
+  7e198     prlctl set <ID | NAME> --device-add <usb_name> : Adds specified USB device to the specified VM
+  7e1fb prlctl set <ID | NAME> --device-set <device_name> <options>
+  7e237         prlctl set --device-set-<Device type> --help
+  7e26c         prlctl set --device-set-hdd --help
+  7e297     --no-fs-resize                          Skip resizing last partition of the hard disk
+  7e2f1     prlctl set <ID | NAME> --device-set <hdd_name> --image <img> : Modifies specified virtual hard disk with specified image
+  7e36e     prlctl set <ID | NAME> --device-set <ddd_name> --image <img> --iface <name> : Modifies specified virtual hard disk with specified image and interface
+  7e408     prlctl set <ID | NAME> --device-set <cdd_name> --image <img> : Modifies specified virtual CD/DVD drive with specified image
+  7e488     prlctl set <ID | NAME> --device-set <cdd_name> --image <img> --iface <name> : Modifies specified virtual CD/DVD drive with specified image and specified interface
+  7e52f     prlctl set <ID | NAME> --device-set <nw_name> --type <type> --iface <name> : Modifies specified virtual network adapter
+  7e5ab     prlctl set <ID | NAME> --device-set <port_name> --device <dev> : Modifies specified virtual serial port to VM with specified host serial port
+  7e63d     prlctl set <ID | NAME> --device-set <port_name> --output <file> : Modifies specified virtual serial port and directs port output to specified file
+  7e6d4     prlctl set <ID | NAME> --device-set <dev_name> --output <dev> : Modifies specified sound device and directs output to specified host sound device
+  7e76a     prlctl set <ID | NAME> --device-set <dev_name> --input <dev> : Modifies specified sound device and connects input to specified host sound device
+  7e7ff Invalid option: prlctl set <ID | NAME> --device-set does not support USB
+  7e848 prlctl set <ID | NAME> --device-del <device_name> <options>
+  7e884         --detach-only            Disk image is preserved (Default)
+  7e8c7         --destroy-image          Disk image is removed from server
+  7e90a         --destroy-image-force    Disk image is removed from server and all snapshots
+  7e95f     prlctl set <ID | NAME> --device-del <hdd_name> : Removes specified virtual HDD but preserves the disk image
+  7e9cf     prlctl set <ID | NAME> --device-del <cdd_name> : Removes specified virtual Cd/DVD drive
+  7ea2b     prlctl set <ID | NAME> --device-del <serialport_name> : Removes specified serial port from server and all snapshots
+  7eaa3 prlctl set <ID | NAME> --device-connect <device_name>
+  7ead9     prlctl set <ID | NAME> --device-connect <device_name> : Connects specified device to the specified VM
+  7eb43 prlctl set <ID | NAME> --device-disconnect <device_name>
+  7eb7c     prlctl set <ID | NAME> --device-connect <device_name> : Disconnects specified device to the specified VM
+  7ebe9 set <ID | NAME> <category> [--help] [--force]
+  7ec17 Available categories are:
+  7ec31     cpus            CPU options
+  7ec51     memory          Memory options
+  7ec74     boot            Boot order management options
+  7eca6     video           Video options
+  7ecc8     mouse           Mouse options
+  7ecea     keyboard        Keyboard options
+  7ed0f     printers        Print Management options
+  7ed3c     usb             USB options
+  7ed5c     bluetooth       Bluetooth options
+  7ed82     startup         Startup and Shutdown options
+  7edb3     optimization    Optimization options
+  7eddc     security        Security options
+  7ee01     smartguard      Smart Guard options
+  7ee29     protection      Protection options
+  7ee50     modality        Modality options
+  7ee75     fullscreen      Fullscreen options
+  7ee9c     coherence       Coherence options
+  7eec2     timesync        Time Synchronization options
+  7eef3     device_mgmt     Device management options
+  7ef21     shared_folders  Shared Folder options
+  7ef4b     shared_profiles Shared Profile options
+  7ef76     shared_apps     Shared Applications options
+  7efa6     smart_mounts    Smart Mount options
+  7efce     misc_sharing    Miscellaneous Sharing options
+  7f000     advanced        Advanced options
+  7f025     misc            Miscellaneous options
+  7f04f     network_cond    Network Conditioner options
+  7f07f     prlctl set cpus --help : To see more details of CPU setting options
+  7f0c7     prlctl set memory --help : To see more details of memory setting options
+  7f114 Please use --help option to get help for ACTION
+  7f144 For example, prlctl list --help
+  7f165 commands:
+  7f16f list                Print list of virtual machines
+  7f1a2 create              Create a virtual machine
+  7f1cf delete              Remove the specified virtual machine
+  7f208 register            Register the specified virtual machine
+  7f243 unregister          Unregister the specidfied virtual machine
+  7f281 clone               Make a copy of the specified virtual machine
+  7f2c2 convert             Convert the specified third-party virtual machine
+  7f308 move                Move files of the specified virtual machine to new location
+  7f358 installtools        Install Parallels Tools in the specified virtual machine
+  7f3a5 enter               Log in to the specified virtual machine
+  7f3e1 exec                Execute a command in the specified virtual machine
+  7f428 send-key-event      Send key events to the specified running virtual machine
+  7f475 status              Display status of the specified virtual machine
+  7f4b9 capture             Capture screen area of the specified virtual machine
+  7f502 encrypt             Encrypt the specified virtual machine
+  7f53c decrypt             Decrypt the specified virtual machine
+  7f576 change-passwd       Change password for the specified virtual machine
+  7f5bc archive             Archive the specified virtual machine
+  7f5f6 unarchive           Unarchive the specified virtual machine
+  7f632 protection-set      Enable protection of the specified encrypted virtual machine expiration date settings
+  7f69c protection-remove   Disable protection of the specified encrypted virtual machine expiration date settings
+  7f707 start               Starts the specified virtual machine
+  7f740 resume              Resume the specified virtual machine
+  7f779 pause               Pause the specified virtual machine
+  7f7b1 suspend             Suspend the specified virtual machine
+  7f7eb restart             Restart the specified virtual machine
+  7f825 reset               Reset the specified virtual machine
+  7f85d reset-uptime        Reset uptime counter of the specified virtual machine
+  7f8a7 stop                Stop the specified virtual machine
+  7f8de set                 Set and configure various parameters of the specified virtual machine
+  7f938 snapshot            Create a snapshot of the specified virtual machine
+  7f97f snapshot-delete     Delete the specified snapshot of the specified virtual machine
+  7f9d2 snapshot-list       Display list of snapshots of the specified virtual machine
+  7fa21 snapshot-switch     Revert to the specified snapshot of the specified virtual machine
+  7fa77 problem-report      Generate a problem report
+  7faa5 guest-debugger      Connect the debugger to the specified running virtual machine
+  7faf7 debug-dump          Collect memory dump of the specified virtual machine
+  7fb40 A valid JSON document must be either an array or an object value.
+  7fb82 Exceeded stackLimit in readValue().
+  7fba6 Syntax error: value, object or array expected.
+  7fbd5 Missing ':' after object member name
+  7fbfa Missing ',' or '}' in object declaration
+  7fc23 Missing '}' or object member name
+  7fc45 Missing ',' or ']' in array declaration
+  7fc6d ' is not a number.
+  7fc80 Empty escape sequence in string
+  7fca0 Bad escape sequence in string
+  7fcbe additional six characters expected to parse unicode surrogate pair.
+  7fd02 expecting another \u token to begin the second half of a unicode surrogate pair
+  7fd52 Bad unicode escape sequence in string: four digits expected.
+  7fd8f Bad unicode escape sequence in string: hexadecimal digit expected.
+  7fdd2 Line %d, Column %d
+  7fdea  for detail.
+  7fdf8 Extra non-whitespace after JSON value.
+  7fe1f keylength >= 2^30
+  7fe31 Duplicate key: '
+  7fe42 collectComments
+  7fe52 allowComments
+  7fe60 allowTrailingCommas
+  7fe74 strictRoot
+  7fe7f allowDroppedNullPlaceholders
+  7fe9c allowNumericKeys
+  7fead allowSingleQuotes
+  7febf stackLimit
+  7feca failIfExtra
+  7fed6 rejectDupKeys
+  7fee4 allowSpecialFloats
+  7fef7 skipBom
+  7feff Type is not convertible to string
+  7ff21 LargestInt out of Int range
+  7ff3d LargestUInt out of Int range
+  7ff5a double out of Int range
+  7ff72 Value is not convertible to Int.
+  7ff93 LargestInt out of UInt range
+  7ffb0 LargestUInt out of UInt range
+  7ffce double out of UInt range
+  7ffe7 Value is not convertible to UInt.
+  80009 Value is not convertible to bool.
+  8002b in Json::Value::operator[](ArrayIndex): requires arrayValue
+  80067 in Json::Value::operator[](int index): index cannot be negative
+  800a7 in Json::Value::resolveReference(key, end): requires objectValue
+  800e8 in Json::Value::find(begin, end): requires objectValue or nullValue
+  8012c in Json::Value::setComment(): Comments must start with /
+  80165 in Json::Value::duplicateStringValue(): Failed to allocate string value buffer
+  801b4 in Json::Value::duplicateAndPrefixStringValue(): length too big for prefixing
+  80202 in Json::Value::duplicateAndPrefixStringValue(): Failed to allocate string value buffer
+  80263 -Infinity
+  8026d Infinity
+  80276 -1e+9999
+  8027f 1e+9999
+  80290 9PrlDevHdd
+  8029b 7PrlDevTIvE
+  802a7 6PrlDev
+  802af 11PrlDevCdrom
+  802bd 9PrlDevNet
+  802c8 9PrlDevUsb
+  802d3 12PrlDevSerial
+  802e2 11PrlDevSound
+  802f0 15PrlOutFormatter
+  80310 19PrlOutFormatterJSON
+  80326 20PrlOutFormatterPlain
+  80af7 5E<X-$V
+  80bbc *tP(3
+  80e0c N12_GLOBAL__N_120current_locale_punctE
+  81026 N4Json17CharReaderBuilderE
+  81041 N4Json10CharReader7FactoryE
+  8105d N4Json13OurCharReaderE
+  81074 N4Json10CharReaderE
+  81089 <?xml version="1.0" encoding="UTF-8"?>
+  810b0 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+  81120 <plist version="1.0">
+  81136 <dict>
+  8113d 	<key>CFBundleInfoDictionaryVersion</key>
+  81167 	<string>6.0</string>
+  8117d 	<key>CFBundleDevelopmentRegion</key>
+  811a3 	<string>English</string>
+  811bd 	<key>LSMinimumSystemVersion</key>
+  811e0 	<string>14.0</string>
+  811f7 	<key>CFBundleGetInfoString</key>
+  81219 	<string>27.0.3, Copyright 2026 Parallels International GmbH</string>
+  8125f 	<key>CFBundleShortVersionString</key>
+  81286 	<string>27.0.3</string>
+  8129f 	<key>VCSRevision</key>
+  812b7 	<string>0</string>
+  812cb 	<key>CFBundleVersion</key>
+  812e7 	<string>58680</string>
+  812ff 	<key>CFMajorVersion</key>
+  8131a 	<integer>27</integer>
+  81331 	<key>CFMinorVersion</key>
+  8134c 	<integer>0</integer>
+  81362 	<key>PrlBuild</key>
+  81377 	<integer>58680</integer>
+  81391 	<key>CFBundleExecutable</key>
+  813b0 	<string>prlctl</string>
+  813c9 	<key>CFBundleIdentifier</key>
+  813e8 	<string>com.parallels.desktop.console.prlctl</string>
+  8141f 	<key>CFBundlePackageType</key>
+  8143f 	<string>APPL</string>
+  81456 	<key>LSBackgroundOnly</key>
+  81473 	<string>1</string>
+  81487 	<key>LSUIElement</key>
+  8149f 	<string>1</string>
+  814b3 </dict>
+  814bb </plist>
+  9000b RARA`
+  90025 ARAS0
+  90039 ARARN`
+  90052 RATAp
+  9005e AUAUAUAUARARARARAUARARARARARARARARARARARARARARARARARARARARARARARARARARARG^ATATJ
+  90161 @_PrlSrvCfg_GetHardDisk
+  9017f @_PrlSrvCfg_GetHardDisksCount
+  901aa @_PrlSrvCfg_GetNetAdapter
+  901c7 @_PrlSrvCfg_GetNetAdaptersCount
+  901f3 @_PrlSrvCfg_GetOpticalDisk
+  90211 @_PrlSrvCfg_GetOpticalDisksCount
+  9023e @_PrlSrvCfg_GetSerialPort
+  9025b @_PrlSrvCfg_GetSerialPortsCount
+  90287 @_PrlSrvCfg_GetSoundOutputDev
+  902a8 @_PrlSrvCfg_GetSoundOutputDevsCount
+  902d8 @_PrlSrvCfg_GetUsbDev
+  902f1 @_PrlSrvCfg_GetUsbDevsCount
+  9031a @__ZNKSt3__18numpunctIcE11do_groupingEv
+  90346 @__ZNKSt3__18numpunctIcE11do_truenameEv
+  9036f @__ZNKSt3__18numpunctIcE12do_falsenameEv
+  90399 @__ZNKSt3__18numpunctIcE16do_decimal_pointEv
+  903d2 @__ZNKSt3__18numpunctIcE16do_thousands_sepEv
+  90400 @__ZNSt12length_errorD1Ev
+  90426 @__ZNSt12out_of_rangeD1Ev
+  90441 @__ZNSt20bad_array_new_lengthD1Ev
+  90464 @__ZNSt3__13cinE
+  90476 @__ZNSt3__14cerrE
+  90489 @__ZNSt3__15ctypeIcE2idE
+  904a3 @__ZNSt3__16locale5facet16__on_zero_sharedEv
+  904d4 @__ZNSt3__18time_putIcNS_19ostreambuf_iteratorIcNS_11char_traitsIcEEEEE2idE
+  9052c @__ZTINSt3__18numpunctIcEE
+  9054b @__ZTISt12length_error
+  9056e @__ZTISt12out_of_range
+  90586 @__ZTISt20bad_array_new_length
+  905b1 @__ZTTNSt3__114basic_ifstreamIcNS_11char_traitsIcEEEE
+  905e8 @__ZTTNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  90634 @__ZTTNSt3__119basic_istringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  90681 @__ZTTNSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  906ce @__ZTVN10__cxxabiv117__class_type_infoE
+  90703 @__ZTVN10__cxxabiv120__si_class_type_infoE
+  9074a @__ZTVNSt3__114basic_ifstreamIcNS_11char_traitsIcEEEE
+  9078e @__ZTVNSt3__115basic_streambufIcNS_11char_traitsIcEEEE
+  907c6 @__ZTVNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  9080f @__ZTVNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  9085b @__ZTVNSt3__119basic_istringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  908a8 @__ZTVNSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  908f5 @__ZTVSt12length_error
+  9090d @__ZTVSt12out_of_range
+  90925 @__ZdlPv
+  90931 @__Znwm
+  9093a @___cxa_pure_virtual
+  9097c @___gxx_personality_v0
+  909a0 @__DefaultRuneLocale
+  909b6 @___chkstk_darwin
+  909c9 @___stack_chk_guard
+  909de @___stderrp
+  909eb @___stdinp
+  909f7 @___stdoutp
+  90a04 @dyld_stub_binder
+  90a18 @__ZTISt12length_error
+  90a34 @__ZTISt12out_of_range
+  90a4c @__ZdlPv
+  90a56 @__Znwm
+  90a63 @_PrlAcl_GetOwnerName
+  90a7e @_PrlApi_CreateHandlesList
+  90a9e @_PrlApi_CreatePackedProblemReport
+  90ac6 @_PrlApi_CreateStringsList
+  90ae6 @_PrlApi_Deinit
+  90afb @_PrlApi_GetResultDescription
+  90b1e @_PrlApi_InitCrashHandler
+  90b3d @_PrlApi_InitEx
+  90b52 @_PrlApi_SendPackedProblemReport
+  90b78 @_PrlApi_SetLogPath
+  90b91 @_PrlApi_SetMainServerVersion
+  90bb4 @_PrlApi_SwitchConsoleLogging
+  90bd7 @_PrlBootDev_GetIndex
+  90bf2 @_PrlBootDev_GetSequenceIndex
+  90c15 @_PrlBootDev_GetType
+  90c2f @_PrlBootDev_IsInUse
+  90c4a @_PrlBootDev_Remove
+  90c64 @_PrlBootDev_SetInUse
+  90c80 @_PrlBootDev_SetIndex
+  90c9c @_PrlBootDev_SetSequenceIndex
+  90cc0 @_PrlBootDev_SetType
+  90cdb @_PrlDevDisplay_ConnectToVm
+  90cfd @_PrlDevDisplay_DisconnectFromVm
+  90d24 @_PrlDevDisplay_SyncCaptureScreenRegionToFile
+  90d58 @_PrlDevKeyboard_SendKeyEventEx
+  90d7e @_PrlDispCfg_CanChangeDefaultSettings
+  90daa @_PrlDispCfg_GetLicenseRequestFlags
+  90dd4 @_PrlDispCfg_GetMaxReservMemLimit
+  90dfc @_PrlDispCfg_GetReservedMemLimit
+  90e23 @_PrlDispCfg_GetUsbAutoConnectOption
+  90e4e @_PrlDispCfg_GetUsbIdentity
+  90e70 @_PrlDispCfg_GetUsbIdentityCount
+  90e97 @_PrlDispCfg_GetWebPortalDomain
+  90ebd @_PrlDispCfg_IsAddSerialPortOutputToReport
+  90eee @_PrlDispCfg_IsAdjustMemAuto
+  90f11 @_PrlDispCfg_IsAllowAttachScreenshotsEnabled
+  90f44 @_PrlDispCfg_IsDisableDeletingReportArchive
+  90f76 @_PrlDispCfg_IsLogRotationEnabled
+  90f9e @_PrlDispCfg_IsSendStatisticReport
+  90fc7 @_PrlDispCfg_IsVerboseLogEnabled
+  90fee @_PrlDispCfg_IsWebPortalDomainAutoModeEnabled
+  91022 @_PrlDispCfg_SetAddSerialPortOutputToReport
+  91054 @_PrlDispCfg_SetAdjustMemAuto
+  91078 @_PrlDispCfg_SetAllowAttachScreenshotsEnabled
+  910ac @_PrlDispCfg_SetCanChangeDefaultSettings
+  910db @_PrlDispCfg_SetDisableDeletingReportArchive
+  9110e @_PrlDispCfg_SetHeadlessModeEnabled
+  91138 @_PrlDispCfg_SetLicenseRequestFlags
+  91162 @_PrlDispCfg_SetLogRotationEnabled
+  9118b @_PrlDispCfg_SetReservedMemLimit
+  911b2 @_PrlDispCfg_SetSendStatisticReport
+  911dc @_PrlDispCfg_SetUsbAutoConnectOption
+  91207 @_PrlDispCfg_SetUsbIdentAssociationWithAction
+  9123b @_PrlDispCfg_SetVerboseLogEnabled
+  91263 @_PrlDispCfg_SetWebPortalDomain
+  91289 @_PrlDispCfg_SetWebPortalDomainAutoModeEnabled
+  912be @_PrlEvent_GetErrCode
+  912da @_PrlEvent_GetErrString
+  912f8 @_PrlEvent_GetIssuerId
+  91315 @_PrlEvent_GetParamByName
+  91335 @_PrlEvent_GetType
+  9134e @_PrlEvtPrm_ToBoolean
+  9136a @_PrlEvtPrm_ToInt32
+  91384 @_PrlEvtPrm_ToString
+  9139f @_PrlEvtPrm_ToUint32
+  913ba @_PrlHandle_AddRef
+  913d3 @_PrlHandle_Free
+  913ea @_PrlHandle_GetType
+  91404 @_PrlHndlList_AddItem
+  91420 @_PrlHndlList_GetItem
+  9143c @_PrlHndlList_GetItemsCount
+  9145e @_PrlHndlList_RemoveItem
+  9147d @_PrlJob_GetError
+  91495 @_PrlJob_GetEvent
+  914ad @_PrlJob_GetResult
+  914c6 @_PrlJob_GetRetCode
+  914e0 @_PrlJob_Wait
+  914f4 @_PrlLoginParams_Create
+  91512 @_PrlLoginParams_SetFlags
+  91532 @_PrlLoginParams_SetSocketPath
+  91557 @_PrlLoginParams_SetUserIdentity
+  9157e @_PrlPortFwd_Create
+  91598 @_PrlPortFwd_GetIncomingPort
+  915bb @_PrlPortFwd_GetRedirectIPAddress
+  915e3 @_PrlPortFwd_GetRedirectPort
+  91606 @_PrlPortFwd_GetRedirectVm
+  91627 @_PrlPortFwd_GetRuleName
+  91646 @_PrlPortFwd_SetIncomingPort
+  91669 @_PrlPortFwd_SetRedirectIPAddress
+  91691 @_PrlPortFwd_SetRedirectPort
+  916b4 @_PrlPortFwd_SetRedirectVm
+  916d5 @_PrlPortFwd_SetRuleName
+  916f4 @_PrlReport_Assembly
+  9170f @_PrlReport_GetData
+  91729 @_PrlReport_SetClientVersion
+  9174c @_PrlReport_SetDescription
+  9176d @_PrlReport_SetType
+  91787 @_PrlReport_SetUserEmail
+  917a6 @_PrlReport_SetUserName
+  917c4 @_PrlResult_GetParam
+  917df @_PrlResult_GetParamAsString
+  91802 @_PrlResult_GetParamByIndex
+  91824 @_PrlResult_GetParamsCount
+  91845 @_PrlShare_GetName
+  9185e @_PrlShare_GetPath
+  91877 @_PrlShare_IsEnabled
+  91892 @_PrlShare_IsReadOnly
+  918ae @_PrlShare_Remove
+  918c6 @_PrlShare_SetDescription
+  918e6 @_PrlShare_SetEnabled
+  91902 @_PrlShare_SetName
+  9191b @_PrlShare_SetPath
+  91934 @_PrlShare_SetReadOnly
+  91951 @_PrlSrvCfgDev_CanBeCapturedByVirtualizationFramework
+  9198d @_PrlSrvCfgDev_GetId
+  919a8 @_PrlSrvCfgDev_GetName
+  919c5 @_PrlSrvCfgDev_GetVmUuid
+  919e4 @_PrlSrvCfgDev_GetVmUuidCount
+  91a08 @_PrlSrvCfgDev_IsConnectedToVm
+  91a2d @_PrlSrvCfgHddPart_GetName
+  91a4e @_PrlSrvCfgHddPart_GetSysName
+  91a72 @_PrlSrvCfgHddPart_GetType
+  91a93 @_PrlSrvCfgHdd_GetDevId
+  91ab1 @_PrlSrvCfgHdd_GetDevName
+  91ad1 @_PrlSrvCfgHdd_GetDiskIndex
+  91af3 @_PrlSrvCfgHdd_GetPart
+  91b10 @_PrlSrvCfgHdd_GetPartsCount
+  91b33 @_PrlSrvCfgNet_GetMacAddress
+  91b56 @_PrlSrvCfgNet_GetNetAddresses
+  91b7b @_PrlSrvCfgNet_GetSysIndex
+  91b9c @_PrlSrvCfgNet_GetVlanTag
+  91bbc @_PrlSrvCfg_GetCpuCount
+  91bda @_PrlSrvCfg_GetCpuModel
+  91bf8 @_PrlSrvCfg_GetCpuType
+  91c15 @_PrlSrvCfg_GetNetAdapter
+  91c35 @_PrlSrvCfg_GetNetAdaptersCount
+  91c5b @_PrlSrvInfo_GetHostName
+  91c7a @_PrlSrvInfo_GetOsVersion
+  91c9a @_PrlSrvInfo_GetProductVersion
+  91cbf @_PrlSrvInfo_GetServerUuid
+  91ce0 @_PrlSrv_AddVirtualNetwork
+  91d01 @_PrlSrv_CommonPrefsBeginEdit
+  91d25 @_PrlSrv_CommonPrefsCommit
+  91d46 @_PrlSrv_ConvertThirdPartyVm
+  91d69 @_PrlSrv_Create
+  91d7f @_PrlSrv_CreateVm
+  91d97 @_PrlSrv_DeleteVirtualNetwork
+  91dbb @_PrlSrv_GetCommonPrefs
+  91dd9 @_PrlSrv_GetLicenseInfo
+  91df7 @_PrlSrv_GetPackedProblemReport
+  91e1d @_PrlSrv_GetServerInfo
+  91e3a @_PrlSrv_GetSrvConfig
+  91e56 @_PrlSrv_GetUserInfoList
+  91e75 @_PrlSrv_GetUserProfile
+  91e93 @_PrlSrv_GetVirtualNetworkList
+  91eb8 @_PrlSrv_GetVmConfig
+  91ed3 @_PrlSrv_GetVmListEx
+  91eee @_PrlSrv_LoginLocalWithParams
+  91f12 @_PrlSrv_Logoff
+  91f28 @_PrlSrv_RegEventHandler
+  91f47 @_PrlSrv_RegisterVmWithParams
+  91f6b @_PrlSrv_SendITAdminReport
+  91f8c @_PrlSrv_SetNonInteractiveSession
+  91fb4 @_PrlSrv_ShutdownEx
+  91fce @_PrlSrv_StoreValueByKey
+  91fed @_PrlSrv_UnregEventHandler
+  9200e @_PrlSrv_UpdateITAdminAllVmSettings
+  92038 @_PrlSrv_UpdateITAdminPoliciesSettings
+  92065 @_PrlSrv_UpdateLicenseEx
+  92084 @_PrlSrv_UpdateVirtualNetwork
+  920a8 @_PrlSrv_UserProfileBeginEdit
+  920cc @_PrlSrv_UserProfileCommit
+  920ed @_PrlStatVmData_GetSegmentCapacity
+  92116 @_PrlStat_GetVmDataStat
+  92134 @_PrlStrList_AddItem
+  9214f @_PrlStrList_GetItem
+  9216a @_PrlStrList_GetItemsCount
+  9218b @_PrlThirdPartyVmConvertParams_Create
+  921b7 @_PrlThirdPartyVmConvertParams_SetDestinationPath
+  921ef @_PrlThirdPartyVmConvertParams_SetFlags
+  9221d @_PrlThirdPartyVmConvertParams_SetSourcePath
+  92250 @_PrlUsbIdent_GetAutoconnectAction
+  92279 @_PrlUsbIdent_GetFriendlyName
+  9229d @_PrlUsbIdent_GetSystemName
+  922bf @_PrlUsbIdent_GetVmUuidAssociation
+  922e8 @_PrlUsrCfg_GetDefaultVmFolder
+  9230d @_PrlUsrCfg_GetVmDirUuid
+  9232c @_PrlUsrCfg_SetDefaultVmFolder
+  92351 @_PrlUsrInfo_CanChangeSrvSets
+  92375 @_PrlUsrInfo_GetDefaultVmFolder
+  9239b @_PrlUsrInfo_GetName
+  923b6 @_PrlUsrInfo_GetSessionCount
+  923d9 @_PrlUsrInfo_GetUuid
+  923f4 @_PrlVirtNet_Create
+  9240e @_PrlVirtNet_GetAdapterIndex
+  92431 @_PrlVirtNet_GetBoundAdapterInfo
+  92458 @_PrlVirtNet_GetBoundCardMac
+  9247b @_PrlVirtNet_GetDhcpIP6Address
+  924a0 @_PrlVirtNet_GetDhcpIPAddress
+  924c4 @_PrlVirtNet_GetHostIP6Address
+  924e9 @_PrlVirtNet_GetHostIPAddress
+  9250d @_PrlVirtNet_GetIP6NetMask
+  9252e @_PrlVirtNet_GetIP6ScopeEnd
+  92550 @_PrlVirtNet_GetIP6ScopeStart
+  92574 @_PrlVirtNet_GetIPNetMask
+  92594 @_PrlVirtNet_GetIPScopeEnd
+  925b5 @_PrlVirtNet_GetIPScopeStart
+  925d8 @_PrlVirtNet_GetNetworkId
+  925f8 @_PrlVirtNet_GetNetworkType
+  9261a @_PrlVirtNet_GetPortForwardList
+  92640 @_PrlVirtNet_GetVlanTag
+  9265e @_PrlVirtNet_IsAdapterEnabled
+  92682 @_PrlVirtNet_IsDHCP6ServerEnabled
+  926aa @_PrlVirtNet_IsDHCPServerEnabled
+  926d1 @_PrlVirtNet_IsHostAssignIP6
+  926f4 @_PrlVirtNet_IsNATServerEnabled
+  9271a @_PrlVirtNet_SetAdapterEnabled
+  9273f @_PrlVirtNet_SetAdapterName
+  92761 @_PrlVirtNet_SetBoundCardMac
+  92784 @_PrlVirtNet_SetDHCP6ServerEnabled
+  927ad @_PrlVirtNet_SetDHCPServerEnabled
+  927d5 @_PrlVirtNet_SetDescription
+  927f7 @_PrlVirtNet_SetDhcpIP6Address
+  9281c @_PrlVirtNet_SetDhcpIPAddress
+  92840 @_PrlVirtNet_SetHostAssignIP6
+  92864 @_PrlVirtNet_SetHostIP6Address
+  92889 @_PrlVirtNet_SetHostIPAddress
+  928ad @_PrlVirtNet_SetIP6NetMask
+  928ce @_PrlVirtNet_SetIP6ScopeEnd
+  928f0 @_PrlVirtNet_SetIP6ScopeStart
+  92914 @_PrlVirtNet_SetIPNetMask
+  92934 @_PrlVirtNet_SetIPScopeEnd
+  92955 @_PrlVirtNet_SetIPScopeStart
+  92978 @_PrlVirtNet_SetNATServerEnabled
+  9299f @_PrlVirtNet_SetNetworkId
+  929bf @_PrlVirtNet_SetNetworkType
+  929e1 @_PrlVirtNet_SetPortForwardList
+  92a07 @_PrlVirtNet_SetVlanTag
+  92a25 @_PrlVmCfg_AddDefaultDeviceEx
+  92a49 @_PrlVmCfg_AreNaptDependentFeaturesAvailable
+  92a7c @_PrlVmCfg_CreateBootDev
+  92a9b @_PrlVmCfg_CreateShare
+  92ab8 @_PrlVmCfg_Get3DAccelerationMode
+  92adf @_PrlVmCfg_GetActionOnStopMode
+  92b04 @_PrlVmCfg_GetActionOnWindowClose
+  92b2c @_PrlVmCfg_GetAssetId
+  92b48 @_PrlVmCfg_GetAutoStart
+  92b66 @_PrlVmCfg_GetAutoStartDelay
+  92b89 @_PrlVmCfg_GetAutoStop
+  92ba6 @_PrlVmCfg_GetBiosType
+  92bc3 @_PrlVmCfg_GetBootDev
+  92bdf @_PrlVmCfg_GetBootDevCount
+  92c00 @_PrlVmCfg_GetClipboardSyncMode
+  92c26 @_PrlVmCfg_GetConfigValidity
+  92c49 @_PrlVmCfg_GetCpuAccelLevel
+  92c6b @_PrlVmCfg_GetCpuCount
+  92c88 @_PrlVmCfg_GetCpuType
+  92ca4 @_PrlVmCfg_GetDescription
+  92cc4 @_PrlVmCfg_GetDevsCount
+  92ce2 @_PrlVmCfg_GetDevsList
+  92cff @_PrlVmCfg_GetEncryptionKeySourceType
+  92d2b @_PrlVmCfg_GetExpirationDate
+  92d4e @_PrlVmCfg_GetExpirationNote
+  92d71 @_PrlVmCfg_GetExpirationOfflineTimeToLive
+  92da1 @_PrlVmCfg_GetExpirationTimeCheckInterval
+  92dd1 @_PrlVmCfg_GetExpirationTrustedTimeServer
+  92e01 @_PrlVmCfg_GetExternalBootDevice
+  92e28 @_PrlVmCfg_GetFullscreenScaleViewMode
+  92e54 @_PrlVmCfg_GetHomePath
+  92e71 @_PrlVmCfg_GetHostMemQuotaMax
+  92e95 @_PrlVmCfg_GetHostMemQuotaPriority
+  92ebe @_PrlVmCfg_GetHostname
+  92edb @_PrlVmCfg_GetHypervisorType
+  92efe @_PrlVmCfg_GetLinkedVmSnapshotUuid
+  92f27 @_PrlVmCfg_GetLinkedVmUuid
+  92f48 @_PrlVmCfg_GetLocation
+  92f65 @_PrlVmCfg_GetMaxBalloonSize
+  92f88 @_PrlVmCfg_GetModalityOpacity
+  92fac @_PrlVmCfg_GetName
+  92fc5 @_PrlVmCfg_GetOptimizeModifiersMode
+  92fef @_PrlVmCfg_GetOsType
+  9300a @_PrlVmCfg_GetOsVersion
+  93028 @_PrlVmCfg_GetRamSize
+  93044 @_PrlVmCfg_GetRestoreImage
+  93065 @_PrlVmCfg_GetShare
+  9307f @_PrlVmCfg_GetSharesCount
+  9309f @_PrlVmCfg_GetSmartGuardInterval
+  930c6 @_PrlVmCfg_GetSmartGuardMaxSnapshotsCount
+  930f6 @_PrlVmCfg_GetSmbiosBoardId
+  93118 @_PrlVmCfg_GetSmbiosBuildVersion
+  9313f @_PrlVmCfg_GetSmbiosSystemSerialNumber
+  9316c @_PrlVmCfg_GetSystemFlags
+  9318c @_PrlVmCfg_GetTimeSyncInterval
+  931b1 @_PrlVmCfg_GetTpmType
+  931cd @_PrlVmCfg_GetUndoDisksMode
+  931ef @_PrlVmCfg_GetUptime
+  9320a @_PrlVmCfg_GetUptimeStartDate
+  9322e @_PrlVmCfg_GetUuid
+  93247 @_PrlVmCfg_GetVideoAdapterType
+  9326c @_PrlVmCfg_GetVideoRamSize
+  9328d @_PrlVmCfg_GetVmInfo
+  932a8 @_PrlVmCfg_GetVmType
+  932c3 @_PrlVmCfg_GetWindowMode
+  932e2 @_PrlVmCfg_IsAdaptiveHypervisorEnabled
+  9330f @_PrlVmCfg_IsAllowSelectBootDevice
+  93338 @_PrlVmCfg_IsApertureOnlyCapable
+  9335f @_PrlVmCfg_IsArchived
+  9337b @_PrlVmCfg_IsAutoCaptureReleaseMouse
+  933a6 @_PrlVmCfg_IsAutoCompressEnabled
+  933cd @_PrlVmCfg_IsBatteryStatusEnabled
+  933f5 @_PrlVmCfg_IsBounceDockIconWhenAppFlashes
+  93425 @_PrlVmCfg_IsConfigInvalid
+  93446 @_PrlVmCfg_IsCpuAutoCountEnabled
+  9346d @_PrlVmCfg_IsCpuHotplugEnabled
+  93492 @_PrlVmCfg_IsCpuVtxEnabled
+  934b3 @_PrlVmCfg_IsDiskCacheWriteBack
+  934d9 @_PrlVmCfg_IsEfiSecureBootEnabled
+  93501 @_PrlVmCfg_IsEncrypted
+  9351e @_PrlVmCfg_IsExpirationDateEnabled
+  93547 @_PrlVmCfg_IsFullscreenActivateSpacesOnClick
+  9357a @_PrlVmCfg_IsFullscreenGammaControl
+  935a4 @_PrlVmCfg_IsFullscreenOptimizeForGames
+  935d2 @_PrlVmCfg_IsFullscreenUseAllDisplays
+  935fe @_PrlVmCfg_IsGestureSwipeFromEdgesEnabled
+  9362e @_PrlVmCfg_IsGuestSharingAutoMount
+  93657 @_PrlVmCfg_IsGuestSharingEnabled
+  9367e @_PrlVmCfg_IsHighResolutionEnabled
+  936a7 @_PrlVmCfg_IsHighResolutionInGuestEnabled
+  936d7 @_PrlVmCfg_IsHostMemAutoQuota
+  936fb @_PrlVmCfg_IsHostSharingEnabled
+  93721 @_PrlVmCfg_IsLongerBatteryLifeEnabled
+  9374d @_PrlVmCfg_IsModalityCaptureMouseClicks
+  9377b @_PrlVmCfg_IsModalityShowOnAllSpaces
+  937a6 @_PrlVmCfg_IsModalityStayOnTop
+  937cb @_PrlVmCfg_IsNativeScalingInGuestEnabled
+  937fa @_PrlVmCfg_IsNestedVirtualizationEnabled
+  93829 @_PrlVmCfg_IsPMUVirtualizationEnabled
+  93855 @_PrlVmCfg_IsPacked
+  9386f @_PrlVmCfg_IsPauseWhenIdle
+  93890 @_PrlVmCfg_IsProtected
+  938ad @_PrlVmCfg_IsRamAutoSizeEnabled
+  938d3 @_PrlVmCfg_IsRosettaLinuxEnabled
+  938fa @_PrlVmCfg_IsShareAllHostDisks
+  9391f @_PrlVmCfg_IsShareHostLocationEnabled
+  9394b @_PrlVmCfg_IsShareUserHomeDir
+  9396f @_PrlVmCfg_IsSharedAppsGuestToHost
+  93998 @_PrlVmCfg_IsSharedAppsHostToGuest
+  939c1 @_PrlVmCfg_IsSharedBluetoothEnabled
+  939eb @_PrlVmCfg_IsSharedCameraEnabled
+  93a12 @_PrlVmCfg_IsSharedCloudEnabled
+  93a38 @_PrlVmCfg_IsSharedGamepadEnabled
+  93a60 @_PrlVmCfg_IsSharedProfileEnabled
+  93a88 @_PrlVmCfg_IsSharedSmartCardEnabled
+  93ab2 @_PrlVmCfg_IsShowDevToolsEnabled
+  93ad9 @_PrlVmCfg_IsShowHostPrinterUI
+  93afe @_PrlVmCfg_IsShowWindowsAppInDock
+  93b26 @_PrlVmCfg_IsSmartGuardEnabled
+  93b4b @_PrlVmCfg_IsSmartGuardNotifyBeforeCreation
+  93b7d @_PrlVmCfg_IsSmartMountDVDsEnabled
+  93ba6 @_PrlVmCfg_IsSmartMountEnabled
+  93bcb @_PrlVmCfg_IsSmartMountNetworkSharesEnabled
+  93bfd @_PrlVmCfg_IsSmartMountRemovableDrivesEnabled
+  93c31 @_PrlVmCfg_IsSmartMouseEnabled
+  93c56 @_PrlVmCfg_IsSmoothScrollingEnabled
+  93c80 @_PrlVmCfg_IsStickyMouseEnabled
+  93ca6 @_PrlVmCfg_IsSupportUsb30Enabled
+  93ccd @_PrlVmCfg_IsSwitchOffWindowsLogoEnabled
+  93cfc @_PrlVmCfg_IsSwitchToFullscreenOnDemandEnabled
+  93d31 @_PrlVmCfg_IsSyncDefaultPrinter
+  93d57 @_PrlVmCfg_IsSyncSshIdsEnabled
+  93d7c @_PrlVmCfg_IsSyncTimezoneDisabled
+  93da4 @_PrlVmCfg_IsSyncVmHostnameEnabled
+  93dcd @_PrlVmCfg_IsTemplate
+  93de9 @_PrlVmCfg_IsTimeSyncSmartModeEnabled
+  93e15 @_PrlVmCfg_IsTimeSynchronizationEnabled
+  93e43 @_PrlVmCfg_IsUseDesktop
+  93e61 @_PrlVmCfg_IsUseDocuments
+  93e81 @_PrlVmCfg_IsUseDownloads
+  93ea1 @_PrlVmCfg_IsUseHostPrinters
+  93ec4 @_PrlVmCfg_IsUseMovies
+  93ee1 @_PrlVmCfg_IsUseMusic
+  93efd @_PrlVmCfg_IsUsePictures
+  93f1c @_PrlVmCfg_IsVerticalSynchronizationEnabled
+  93f4e @_PrlVmCfg_IsWinSystrayInMacMenuEnabled
+  93f7c @_PrlVmCfg_Set3DAccelerationMode
+  93fa3 @_PrlVmCfg_SetActionOnStopMode
+  93fc8 @_PrlVmCfg_SetActionOnWindowClose
+  93ff0 @_PrlVmCfg_SetAdaptiveHypervisorEnabled
+  9401e @_PrlVmCfg_SetAllowSelectBootDevice
+  94048 @_PrlVmCfg_SetAssetId
+  94064 @_PrlVmCfg_SetAutoApplyIpOnly
+  94088 @_PrlVmCfg_SetAutoCaptureReleaseMouse
+  940b4 @_PrlVmCfg_SetAutoCompressEnabled
+  940dc @_PrlVmCfg_SetAutoStart
+  940fa @_PrlVmCfg_SetAutoStartDelay
+  9411d @_PrlVmCfg_SetAutoStop
+  9413a @_PrlVmCfg_SetBatteryStatusEnabled
+  94163 @_PrlVmCfg_SetBiosType
+  94180 @_PrlVmCfg_SetBounceDockIconWhenAppFlashes
+  941b1 @_PrlVmCfg_SetClipboardSyncMode
+  941d7 @_PrlVmCfg_SetCpuAutoCountEnabled
+  941ff @_PrlVmCfg_SetCpuCount
+  9421c @_PrlVmCfg_SetCpuType
+  94238 @_PrlVmCfg_SetDefaultConfigEx
+  9425c @_PrlVmCfg_SetDescription
+  9427c @_PrlVmCfg_SetDiskCacheWriteBack
+  942a3 @_PrlVmCfg_SetDnsServers
+  942c2 @_PrlVmCfg_SetEfiSecureBoot
+  942e4 @_PrlVmCfg_SetExpirationDate
+  94307 @_PrlVmCfg_SetExpirationDateEnabled
+  94331 @_PrlVmCfg_SetExpirationNote
+  94354 @_PrlVmCfg_SetExpirationOfflineTimeToLive
+  94384 @_PrlVmCfg_SetExpirationTimeCheckInterval
+  943b4 @_PrlVmCfg_SetExpirationTrustedTimeServer
+  943e4 @_PrlVmCfg_SetExternalBootDevice
+  9440b @_PrlVmCfg_SetFullscreenActivateSpacesOnClick
+  9443f @_PrlVmCfg_SetFullscreenGammaControl
+  9446a @_PrlVmCfg_SetFullscreenOptimizeForGames
+  94499 @_PrlVmCfg_SetFullscreenScaleViewMode
+  944c5 @_PrlVmCfg_SetFullscreenUseAllDisplays
+  944f2 @_PrlVmCfg_SetGestureSwipeFromEdgesEnabled
+  94523 @_PrlVmCfg_SetGuestSharingAutoMount
+  9454d @_PrlVmCfg_SetGuestSharingEnabled
+  94575 @_PrlVmCfg_SetHighResolutionEnabled
+  9459f @_PrlVmCfg_SetHighResolutionInGuestEnabled
+  945d0 @_PrlVmCfg_SetHostMemAutoQuota
+  945f5 @_PrlVmCfg_SetHostMemQuotaMax
+  94619 @_PrlVmCfg_SetHostMemQuotaPriority
+  94642 @_PrlVmCfg_SetHostSharingEnabled
+  94669 @_PrlVmCfg_SetHostname
+  94686 @_PrlVmCfg_SetHypervisorType
+  946a9 @_PrlVmCfg_SetIsolatedVmEnabled
+  946cf @_PrlVmCfg_SetKeystrokeForwardingEnabled
+  946fe @_PrlVmCfg_SetLockGuestOnSuspendEnabled
+  9472c @_PrlVmCfg_SetLongerBatteryLifeEnabled
+  94759 @_PrlVmCfg_SetMapSharedFoldersOnLetters
+  94787 @_PrlVmCfg_SetMaxBalloonSize
+  947aa @_PrlVmCfg_SetModalityCaptureMouseClicks
+  947d9 @_PrlVmCfg_SetModalityOpacity
+  947fd @_PrlVmCfg_SetModalityShowOnAllSpaces
+  94829 @_PrlVmCfg_SetModalityStayOnTop
+  9484f @_PrlVmCfg_SetName
+  94868 @_PrlVmCfg_SetNativeScalingInGuestEnabled
+  94898 @_PrlVmCfg_SetNestedVirtualizationEnabled
+  948c8 @_PrlVmCfg_SetOptimizeModifiersMode
+  948f2 @_PrlVmCfg_SetOsVersion
+  94910 @_PrlVmCfg_SetPMUVirtualizationEnabled
+  9493d @_PrlVmCfg_SetPauseWhenIdle
+  9495f @_PrlVmCfg_SetRamAutoSizeEnabled
+  94986 @_PrlVmCfg_SetRamSize
+  949a2 @_PrlVmCfg_SetRestoreImage
+  949c3 @_PrlVmCfg_SetRosettaLinuxEnabled
+  949eb @_PrlVmCfg_SetSearchDomains
+  94a0d @_PrlVmCfg_SetShareAllHostDisks
+  94a33 @_PrlVmCfg_SetShareHostLocationEnabled
+  94a60 @_PrlVmCfg_SetShareUserHomeDir
+  94a85 @_PrlVmCfg_SetSharedAppsGuestToHost
+  94aaf @_PrlVmCfg_SetSharedAppsHostToGuest
+  94ad9 @_PrlVmCfg_SetSharedCameraEnabled
+  94b01 @_PrlVmCfg_SetSharedCloudEnabled
+  94b28 @_PrlVmCfg_SetSharedGamepadEnabled
+  94b51 @_PrlVmCfg_SetSharedProfileEnabled
+  94b7a @_PrlVmCfg_SetSharedSmartCardEnabled
+  94ba5 @_PrlVmCfg_SetShowDevToolsEnabled
+  94bcd @_PrlVmCfg_SetShowHostPrinterUI
+  94bf3 @_PrlVmCfg_SetShowWindowsAppInDock
+  94c1c @_PrlVmCfg_SetSmartGuardEnabled
+  94c42 @_PrlVmCfg_SetSmartGuardInterval
+  94c69 @_PrlVmCfg_SetSmartGuardMaxSnapshotsCount
+  94c99 @_PrlVmCfg_SetSmartGuardNotifyBeforeCreation
+  94ccc @_PrlVmCfg_SetSmartMountDVDsEnabled
+  94cf6 @_PrlVmCfg_SetSmartMountEnabled
+  94d1c @_PrlVmCfg_SetSmartMountNetworkSharesEnabled
+  94d4f @_PrlVmCfg_SetSmartMountRemovableDrivesEnabled
+  94d84 @_PrlVmCfg_SetSmartMouseEnabled
+  94daa @_PrlVmCfg_SetSmbiosBoardId
+  94dcc @_PrlVmCfg_SetSmbiosBuildVersion
+  94df3 @_PrlVmCfg_SetSmbiosSystemSerialNumber
+  94e20 @_PrlVmCfg_SetSmoothScrollingEnabled
+  94e4b @_PrlVmCfg_SetStartLoginMode
+  94e6e @_PrlVmCfg_SetStartUserCreds
+  94e91 @_PrlVmCfg_SetStickyMouseEnabled
+  94eb8 @_PrlVmCfg_SetSupportUsb30Enabled
+  94ee0 @_PrlVmCfg_SetSwitchOffWindowsLogoEnabled
+  94f10 @_PrlVmCfg_SetSwitchToFullscreenOnDemandEnabled
+  94f46 @_PrlVmCfg_SetSyncDefaultPrinter
+  94f6d @_PrlVmCfg_SetSyncSshIdsEnabled
+  94f93 @_PrlVmCfg_SetSyncTimezoneDisabled
+  94fbc @_PrlVmCfg_SetSyncVmHostnameEnabled
+  94fe6 @_PrlVmCfg_SetSystemFlags
+  95006 @_PrlVmCfg_SetTemplateSign
+  95027 @_PrlVmCfg_SetTimeSyncInterval
+  9504c @_PrlVmCfg_SetTimeSyncSmartModeEnabled
+  95079 @_PrlVmCfg_SetTimeSynchronizationEnabled
+  950a8 @_PrlVmCfg_SetToolsAutoUpdateEnabled
+  950d3 @_PrlVmCfg_SetTpmType
+  950ef @_PrlVmCfg_SetUndoDisksMode
+  95111 @_PrlVmCfg_SetUseDefaultAnswers
+  95137 @_PrlVmCfg_SetUseDesktop
+  95156 @_PrlVmCfg_SetUseDocuments
+  95177 @_PrlVmCfg_SetUseDownloads
+  95198 @_PrlVmCfg_SetUseHostPrinters
+  951bc @_PrlVmCfg_SetUseMovies
+  951da @_PrlVmCfg_SetUseMusic
+  951f7 @_PrlVmCfg_SetUsePictures
+  95217 @_PrlVmCfg_SetUserDefinedSharedFoldersEnabled
+  9524b @_PrlVmCfg_SetUuid
+  95264 @_PrlVmCfg_SetVerticalSynchronizationEnabled
+  95297 @_PrlVmCfg_SetVideoAdapterType
+  952bc @_PrlVmCfg_SetVideoRamSize
+  952dd @_PrlVmCfg_SetWinSystrayInMacMenuEnabled
+  9530c @_PrlVmCfg_SetWindowMode
+  9532b @_PrlVmDevHdPart_GetSysName
+  9534d @_PrlVmDevHdPart_SetSysName
+  9536f @_PrlVmDevHd_AddPartition
+  9538f @_PrlVmDevHd_GetDiskSize
+  953ae @_PrlVmDevHd_GetDiskType
+  953cd @_PrlVmDevHd_GetOnlineCompactMode
+  953f5 @_PrlVmDevHd_GetPartition
+  95415 @_PrlVmDevHd_GetPartitionsCount
+  9543b @_PrlVmDevHd_IsEncrypted
+  9545a @_PrlVmDevHd_SetBlockSize
+  9547a @_PrlVmDevHd_SetDiskSize
+  95499 @_PrlVmDevHd_SetDiskType
+  954b8 @_PrlVmDevHd_SetOnlineCompactMode
+  954e0 @_PrlVmDevHd_SetOpenFlags
+  95500 @_PrlVmDevHd_SetPassword
+  9551f @_PrlVmDevHd_SetSplitted
+  9553e @_PrlVmDevNet_GenerateMacAddr
+  95562 @_PrlVmDevNet_GetAdapterType
+  95585 @_PrlVmDevNet_GetBoundAdapterIndex
+  955ae @_PrlVmDevNet_GetBoundAdapterName
+  955d6 @_PrlVmDevNet_GetDefaultGateway
+  955fc @_PrlVmDevNet_GetDefaultGatewayIPv6
+  95626 @_PrlVmDevNet_GetDnsServers
+  95648 @_PrlVmDevNet_GetInboundBandwidth
+  95670 @_PrlVmDevNet_GetInboundDelay
+  95694 @_PrlVmDevNet_GetInboundPacketLoss
+  956bd @_PrlVmDevNet_GetMacAddress
+  956df @_PrlVmDevNet_GetNetAddresses
+  95703 @_PrlVmDevNet_GetOutboundBandwidth
+  9572c @_PrlVmDevNet_GetOutboundDelay
+  95751 @_PrlVmDevNet_GetOutboundPacketLoss
+  9577b @_PrlVmDevNet_GetSearchDomains
+  957a0 @_PrlVmDevNet_IsAutoApply
+  957c0 @_PrlVmDevNet_IsConfigureWithDhcp
+  957e8 @_PrlVmDevNet_IsConfigureWithDhcpIPv6
+  95814 @_PrlVmDevNet_IsNetworkConditionerEnabled
+  95844 @_PrlVmDevNet_SetAdapterType
+  95867 @_PrlVmDevNet_SetAutoApply
+  95888 @_PrlVmDevNet_SetBoundAdapterIndex
+  958b1 @_PrlVmDevNet_SetBoundAdapterName
+  958d9 @_PrlVmDevNet_SetConfigureWithDhcp
+  95902 @_PrlVmDevNet_SetConfigureWithDhcpIPv6
+  9592f @_PrlVmDevNet_SetDefaultGateway
+  95955 @_PrlVmDevNet_SetDefaultGatewayIPv6
+  9597f @_PrlVmDevNet_SetDnsServers
+  959a1 @_PrlVmDevNet_SetMacAddress
+  959c3 @_PrlVmDevNet_SetNetAddresses
+  959e7 @_PrlVmDevNet_SetNetworkConditionerEnabled
+  95a18 @_PrlVmDevNet_SetNetworkConditionerInboundBandwidth
+  95a52 @_PrlVmDevNet_SetNetworkConditionerInboundDelay
+  95a88 @_PrlVmDevNet_SetNetworkConditionerInboundPacket
+  95abf @_PrlVmDevNet_SetNetworkConditionerOutboundBandwidth
+  95afa @_PrlVmDevNet_SetNetworkConditionerOutboundDelay
+  95b31 @_PrlVmDevNet_SetNetworkConditionerOutboundPacket
+  95b69 @_PrlVmDevNet_SetNetworkConditionerProfile
+  95b9a @_PrlVmDevNet_SetSearchDomains
+  95bbf @_PrlVmDevSerial_GetSocketMode
+  95be4 @_PrlVmDevSerial_SetSocketMode
+  95c09 @_PrlVmDevSound_GetMixerDev
+  95c2b @_PrlVmDevSound_GetOutputDev
+  95c4e @_PrlVmDevSound_SetMixerDev
+  95c70 @_PrlVmDevSound_SetOutputDev
+  95c93 @_PrlVmDev_Connect
+  95cac @_PrlVmDev_CreateImage
+  95cc9 @_PrlVmDev_Disconnect
+  95ce5 @_PrlVmDev_GetEmulatedType
+  95d06 @_PrlVmDev_GetFriendlyName
+  95d27 @_PrlVmDev_GetIfaceType
+  95d45 @_PrlVmDev_GetIndex
+  95d5f @_PrlVmDev_GetStackIndex
+  95d7e @_PrlVmDev_GetSubType
+  95d9a @_PrlVmDev_GetSysName
+  95db6 @_PrlVmDev_IsConnected
+  95dd3 @_PrlVmDev_IsEnabled
+  95dee @_PrlVmDev_Remove
+  95e06 @_PrlVmDev_ResizeImage
+  95e23 @_PrlVmDev_SetConnected
+  95e41 @_PrlVmDev_SetEmulatedType
+  95e62 @_PrlVmDev_SetEnabled
+  95e7e @_PrlVmDev_SetFriendlyName
+  95e9f @_PrlVmDev_SetIfaceType
+  95ebd @_PrlVmDev_SetImagePath
+  95edb @_PrlVmDev_SetPassthrough
+  95efb @_PrlVmDev_SetStackIndex
+  95f1a @_PrlVmDev_SetSubType
+  95f36 @_PrlVmDev_SetSysName
+  95f52 @_PrlVmDev_UpdateInfo
+  95f6e @_PrlVmGuestOsInfo_Create
+  95f8e @_PrlVmGuestOsInfo_SetArch
+  95faf @_PrlVmGuestOsInfo_SetOsVersion
+  95fd5 @_PrlVmGuest_Logout
+  95fef @_PrlVmGuest_RunProgram
+  9600d @_PrlVmGuest_SetUserPasswd
+  9602e @_PrlVmInfo_GetAccessRights
+  96050 @_PrlVmInfo_GetState
+  9606b @_PrlVmRegisterParams_Create
+  9608e @_PrlVmRegisterParams_SetFlags
+  960b3 @_PrlVmRegisterParams_SetVmDirPath
+  960dc @_PrlVmRegisterParams_SetVmName
+  96102 @_PrlVmRegisterParams_SetVmUuid
+  96128 @_PrlVm_Archive
+  9613e @_PrlVm_Authorise
+  96156 @_PrlVm_BeginEdit
+  9616e @_PrlVm_ChangePassword
+  9618b @_PrlVm_CloneEx
+  961a1 @_PrlVm_CommitEx
+  961b8 @_PrlVm_Compact
+  961ce @_PrlVm_CreateSnapshot
+  961eb @_PrlVm_Decrypt
+  96201 @_PrlVm_Delete
+  96216 @_PrlVm_DeleteSnapshot
+  96233 @_PrlVm_DropSuspendedState
+  96254 @_PrlVm_Encrypt
+  9626a @_PrlVm_GetNetworkSettings
+  9628b @_PrlVm_GetPackedProblemReport
+  962b0 @_PrlVm_GetSnapshotsTreeEx
+  962d1 @_PrlVm_GetStatisticsEx
+  962ef @_PrlVm_GetToolsState
+  9630b @_PrlVm_ITAdminAuthorize
+  9632a @_PrlVm_InstallTools
+  96345 @_PrlVm_InternalCommand
+  96363 @_PrlVm_LinkedClone
+  9637d @_PrlVm_LoginInGuest
+  96398 @_PrlVm_Move
+  963ab @_PrlVm_Pack
+  963be @_PrlVm_Pause
+  963d2 @_PrlVm_RefreshConfig
+  963ee @_PrlVm_RegEx
+  96402 @_PrlVm_RemoveProtection
+  96421 @_PrlVm_Reset
+  96435 @_PrlVm_ResetUptime
+  9644f @_PrlVm_Restart
+  96465 @_PrlVm_Resume
+  9647a @_PrlVm_SetProtection
+  96496 @_PrlVm_StartEx
+  964ac @_PrlVm_StopEx
+  964c1 @_PrlVm_StoreValueByKey
+  964df @_PrlVm_Suspend
+  964f5 @_PrlVm_SwitchToSnapshotEx
+  96516 @_PrlVm_TerminalConnect
+  96534 @_PrlVm_TerminalDisconnect
+  96555 @_PrlVm_Unarchive
+  9656d @_PrlVm_Unpack
+  96582 @_PrlVm_UnregEx
+  96598 @_PrlVm_ValidateConfig
+  965b5 @__Unwind_Resume
+  965cc @__ZNKSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEcm
+  9661d @__ZNKSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7compareEPKc
+  96672 @__ZNKSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7compareEmmPKc
+  966c9 @__ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  9671b @__ZNKSt3__16locale9use_facetERNS0_2idE
+  96749 @__ZNKSt3__18ios_base6getlocEv
+  9676e @__ZNKSt3__18time_putIcNS_19ostreambuf_iteratorIcNS_11char_traitsIcEEEEE3putES4_RNS_8ios_baseEcPK2tmPKcSC_
+  967df @__ZNSt11logic_errorC2EPKc
+  96800 @__ZNSt20bad_array_new_lengthC1Ev
+  96828 @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE5eraseEmm
+  96879 @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6appendEPKc
+  968cc @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6appendEPKcm
+  96920 @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6appendERKS5_mm
+  96977 @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6assignEPKc
+  969ca @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6assignEPKcm
+  96a1e @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6insertEmPKc
+  96a72 @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6insertEmPKcm
+  96ac7 @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6resizeEmc
+  96b19 @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7replaceEmmPKcm
+  96b70 @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7replaceEmmmc
+  96bc5 @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7reserveEm
+  96c17 @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9push_backEc
+  96c6b @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEaSERKS5_
+  96cbb @__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEaSEc
+  96d07 @__ZNSt3__113basic_filebufIcNS_11char_traitsIcEEE4openEPKcj
+  96d49 @__ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  96d85 @__ZNSt3__113basic_filebufIcNS_11char_traitsIcEEED1Ev
+  96dc1 @__ZNSt3__113basic_istreamIcNS_11char_traitsIcEEE3getEv
+  96dff @__ZNSt3__113basic_istreamIcNS_11char_traitsIcEEE4readEPcl
+  96e40 @__ZNSt3__113basic_istreamIcNS_11char_traitsIcEEE6sentryC1ERS3_b
+  96e87 @__ZNSt3__113basic_istreamIcNS_11char_traitsIcEEED2Ev
+  96ec3 @__ZNSt3__113basic_istreamIcNS_11char_traitsIcEEErsERd
+  96f00 @__ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEE3putEc
+  96f3e @__ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEE5flushEv
+  96f7e @__ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEE5writeEPKcl
+  96fc1 @__ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEE6sentryC1ERS3_
+  97007 @__ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEE6sentryD1Ev
+  9704a @__ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEED2Ev
+  97086 @__ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEPNS_15basic_streambufIcS2_EE
+  970dd @__ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEi
+  97119 @__ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEj
+  97155 @__ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEy
+  97191 @__ZNSt3__114basic_iostreamIcNS_11char_traitsIcEEED2Ev
+  971ce @__ZNSt3__117__assoc_sub_state4waitEv
+  971fa @__ZNSt3__16futureIvED1Ev
+  9721a @__ZNSt3__16localeC1Ev
+  97237 @__ZNSt3__16localeD1Ev
+  97254 @__ZNSt3__17promiseIvE10get_futureEv
+  9727f @__ZNSt3__17promiseIvE9set_valueEv
+  972a8 @__ZNSt3__17promiseIvEC1Ev
+  972c9 @__ZNSt3__17promiseIvED1Ev
+  972ea @__ZNSt3__18ios_base33__set_badbit_and_consider_rethrowEv
+  9732a @__ZNSt3__18ios_base4initEPv
+  9734d @__ZNSt3__18ios_base5clearEj
+  97370 @__ZNSt3__18numpunctIcEC2Em
+  97392 @__ZNSt3__18numpunctIcED2Ev
+  973b4 @__ZNSt3__19basic_iosIcNS_11char_traitsIcEEED2Ev
+  973eb @__ZNSt3__1plIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_12basic_stringIT_T0_T1_EEPKS6_RKS9_
+  9744e @__ZSt9terminatev
+  97466 @___cxa_allocate_exception
+  97487 @___cxa_atexit
+  9749c @___cxa_begin_catch
+  974b6 @___cxa_end_catch
+  974ce @___cxa_free_exception
+  974eb @___cxa_guard_abort
+  97505 @___cxa_guard_acquire
+  97521 @___cxa_guard_release
+  9753d @___cxa_rethrow
+  97553 @___cxa_throw
+  97567 @___dynamic_cast
+  9757e @___error
+  9758e @___maskrune
+  975a1 @___stack_chk_fail
+  975ba @___tolower
+  975cc @___toupper
+  975de @_abort
+  975ec @_access
+  975fb @_atoi
+  97608 @_bzero
+  97616 @_calloc
+  97625 @_exit
+  97632 @_fclose
+  97641 @_fflush
+  97650 @_fileno
+  9765f @_fopen
+  9766d @_fprintf
+  9767d @_fputc
+  9768b @_fputs
+  97699 @_fread
+  976a7 @_free
+  976b4 @_fwrite
+  976c3 @_getenv
+  976d2 @_getpwuid
+  976e3 @_getuid
+  976f2 @_gmtime
+  97701 @_ioctl
+  9770f @_isatty
+  9771e @_localtime
+  97730 @_malloc
+  9773f @_memchr
+  9774e @_memcmp
+  9775d @_memcpy
+  9776c @_memmove
+  9777c @_memset
+  9778b @_mktime
+  9779a @_printf
+  977a9 @_putchar
+  977b9 @_puts
+  977c6 @_realpath$DARWIN_EXTSN
+  977e4 @_setenv
+  977f3 @_sigaction
+  97805 @_snprintf
+  97816 @_sprintf
+  97826 @_sscanf
+  97835 @_strchr
+  97844 @_strcmp
+  97853 @_strcpy
+  97862 @_strdup
+  97871 @_strlen
+  97880 @_strncmp
+  97890 @_strncpy
+  978a0 @_strrchr
+  978b0 @_strstr
+  978bf @_strtok
+  978ce @_strtol
+  978dd @_strtoul
+  978ed @_tcgetattr
+  978ff @_tcsetattr
+  97911 @_time
+  9791e @_tzset
+  9792c @_unsetenv
+  9793d @_usleep
+  9794c @_vfprintf
+  9795d @_vsnprintf
+  97986 Z10run_action10ActionTypeiPPc
+  979a5 mh_execute_header
+  97a45 DDDDDDDDDDDD
+  97bb3 #d||d
+  97cf8 (h(\(
+  97e10 $d,$$$
+  97eae x$   4
+  9cd44 __Z10run_action10ActionTypeiPPc
+  9cd64 __mh_execute_header
+  9cd78 _PrlAcl_GetOwnerName
+  9cd8d _PrlApi_CreateHandlesList
+  9cda7 _PrlApi_CreatePackedProblemReport
+  9cdc9 _PrlApi_CreateStringsList
+  9cde3 _PrlApi_Deinit
+  9cdf2 _PrlApi_GetResultDescription
+  9ce0f _PrlApi_InitCrashHandler
+  9ce28 _PrlApi_InitEx
+  9ce37 _PrlApi_SendPackedProblemReport
+  9ce57 _PrlApi_SetLogPath
+  9ce6a _PrlApi_SetMainServerVersion
+  9ce87 _PrlApi_SwitchConsoleLogging
+  9cea4 _PrlBootDev_GetIndex
+  9ceb9 _PrlBootDev_GetSequenceIndex
+  9ced6 _PrlBootDev_GetType
+  9ceea _PrlBootDev_IsInUse
+  9cefe _PrlBootDev_Remove
+  9cf11 _PrlBootDev_SetInUse
+  9cf26 _PrlBootDev_SetIndex
+  9cf3b _PrlBootDev_SetSequenceIndex
+  9cf58 _PrlBootDev_SetType
+  9cf6c _PrlDevDisplay_ConnectToVm
+  9cf87 _PrlDevDisplay_DisconnectFromVm
+  9cfa7 _PrlDevDisplay_SyncCaptureScreenRegionToFile
+  9cfd4 _PrlDevKeyboard_SendKeyEventEx
+  9cff3 _PrlDispCfg_CanChangeDefaultSettings
+  9d018 _PrlDispCfg_GetLicenseRequestFlags
+  9d03b _PrlDispCfg_GetMaxReservMemLimit
+  9d05c _PrlDispCfg_GetReservedMemLimit
+  9d07c _PrlDispCfg_GetUsbAutoConnectOption
+  9d0a0 _PrlDispCfg_GetUsbIdentity
+  9d0bb _PrlDispCfg_GetUsbIdentityCount
+  9d0db _PrlDispCfg_GetWebPortalDomain
+  9d0fa _PrlDispCfg_IsAddSerialPortOutputToReport
+  9d124 _PrlDispCfg_IsAdjustMemAuto
+  9d140 _PrlDispCfg_IsAllowAttachScreenshotsEnabled
+  9d16c _PrlDispCfg_IsDisableDeletingReportArchive
+  9d197 _PrlDispCfg_IsLogRotationEnabled
+  9d1b8 _PrlDispCfg_IsSendStatisticReport
+  9d1da _PrlDispCfg_IsVerboseLogEnabled
+  9d1fa _PrlDispCfg_IsWebPortalDomainAutoModeEnabled
+  9d227 _PrlDispCfg_SetAddSerialPortOutputToReport
+  9d252 _PrlDispCfg_SetAdjustMemAuto
+  9d26f _PrlDispCfg_SetAllowAttachScreenshotsEnabled
+  9d29c _PrlDispCfg_SetCanChangeDefaultSettings
+  9d2c4 _PrlDispCfg_SetDisableDeletingReportArchive
+  9d2f0 _PrlDispCfg_SetHeadlessModeEnabled
+  9d313 _PrlDispCfg_SetLicenseRequestFlags
+  9d336 _PrlDispCfg_SetLogRotationEnabled
+  9d358 _PrlDispCfg_SetReservedMemLimit
+  9d378 _PrlDispCfg_SetSendStatisticReport
+  9d39b _PrlDispCfg_SetUsbAutoConnectOption
+  9d3bf _PrlDispCfg_SetUsbIdentAssociationWithAction
+  9d3ec _PrlDispCfg_SetVerboseLogEnabled
+  9d40d _PrlDispCfg_SetWebPortalDomain
+  9d42c _PrlDispCfg_SetWebPortalDomainAutoModeEnabled
+  9d45a _PrlEvent_GetErrCode
+  9d46f _PrlEvent_GetErrString
+  9d486 _PrlEvent_GetIssuerId
+  9d49c _PrlEvent_GetParamByName
+  9d4b5 _PrlEvent_GetType
+  9d4c7 _PrlEvtPrm_ToBoolean
+  9d4dc _PrlEvtPrm_ToInt32
+  9d4ef _PrlEvtPrm_ToString
+  9d503 _PrlEvtPrm_ToUint32
+  9d517 _PrlHandle_AddRef
+  9d529 _PrlHandle_Free
+  9d539 _PrlHandle_GetType
+  9d54c _PrlHndlList_AddItem
+  9d561 _PrlHndlList_GetItem
+  9d576 _PrlHndlList_GetItemsCount
+  9d591 _PrlHndlList_RemoveItem
+  9d5a9 _PrlJob_GetError
+  9d5ba _PrlJob_GetEvent
+  9d5cb _PrlJob_GetResult
+  9d5dd _PrlJob_GetRetCode
+  9d5f0 _PrlJob_Wait
+  9d5fd _PrlLoginParams_Create
+  9d614 _PrlLoginParams_SetFlags
+  9d62d _PrlLoginParams_SetSocketPath
+  9d64b _PrlLoginParams_SetUserIdentity
+  9d66b _PrlPortFwd_Create
+  9d67e _PrlPortFwd_GetIncomingPort
+  9d69a _PrlPortFwd_GetRedirectIPAddress
+  9d6bb _PrlPortFwd_GetRedirectPort
+  9d6d7 _PrlPortFwd_GetRedirectVm
+  9d6f1 _PrlPortFwd_GetRuleName
+  9d709 _PrlPortFwd_SetIncomingPort
+  9d725 _PrlPortFwd_SetRedirectIPAddress
+  9d746 _PrlPortFwd_SetRedirectPort
+  9d762 _PrlPortFwd_SetRedirectVm
+  9d77c _PrlPortFwd_SetRuleName
+  9d794 _PrlReport_Assembly
+  9d7a8 _PrlReport_GetData
+  9d7bb _PrlReport_SetClientVersion
+  9d7d7 _PrlReport_SetDescription
+  9d7f1 _PrlReport_SetType
+  9d804 _PrlReport_SetUserEmail
+  9d81c _PrlReport_SetUserName
+  9d833 _PrlResult_GetParam
+  9d847 _PrlResult_GetParamAsString
+  9d863 _PrlResult_GetParamByIndex
+  9d87e _PrlResult_GetParamsCount
+  9d898 _PrlShare_GetName
+  9d8aa _PrlShare_GetPath
+  9d8bc _PrlShare_IsEnabled
+  9d8d0 _PrlShare_IsReadOnly
+  9d8e5 _PrlShare_Remove
+  9d8f6 _PrlShare_SetDescription
+  9d90f _PrlShare_SetEnabled
+  9d924 _PrlShare_SetName
+  9d936 _PrlShare_SetPath
+  9d948 _PrlShare_SetReadOnly
+  9d95e _PrlSrvCfgDev_CanBeCapturedByVirtualizationFramework
+  9d993 _PrlSrvCfgDev_GetId
+  9d9a7 _PrlSrvCfgDev_GetName
+  9d9bd _PrlSrvCfgDev_GetVmUuid
+  9d9d5 _PrlSrvCfgDev_GetVmUuidCount
+  9d9f2 _PrlSrvCfgDev_IsConnectedToVm
+  9da10 _PrlSrvCfgHddPart_GetName
+  9da2a _PrlSrvCfgHddPart_GetSysName
+  9da47 _PrlSrvCfgHddPart_GetType
+  9da61 _PrlSrvCfgHdd_GetDevId
+  9da78 _PrlSrvCfgHdd_GetDevName
+  9da91 _PrlSrvCfgHdd_GetDiskIndex
+  9daac _PrlSrvCfgHdd_GetPart
+  9dac2 _PrlSrvCfgHdd_GetPartsCount
+  9dade _PrlSrvCfgNet_GetMacAddress
+  9dafa _PrlSrvCfgNet_GetNetAddresses
+  9db18 _PrlSrvCfgNet_GetSysIndex
+  9db32 _PrlSrvCfgNet_GetVlanTag
+  9db4b _PrlSrvCfg_GetCpuCount
+  9db62 _PrlSrvCfg_GetCpuModel
+  9db79 _PrlSrvCfg_GetCpuType
+  9db8f _PrlSrvCfg_GetHardDisk
+  9dba6 _PrlSrvCfg_GetHardDisksCount
+  9dbc3 _PrlSrvCfg_GetNetAdapter
+  9dbdc _PrlSrvCfg_GetNetAdaptersCount
+  9dbfb _PrlSrvCfg_GetOpticalDisk
+  9dc15 _PrlSrvCfg_GetOpticalDisksCount
+  9dc35 _PrlSrvCfg_GetSerialPort
+  9dc4e _PrlSrvCfg_GetSerialPortsCount
+  9dc6d _PrlSrvCfg_GetSoundOutputDev
+  9dc8a _PrlSrvCfg_GetSoundOutputDevsCount
+  9dcad _PrlSrvCfg_GetUsbDev
+  9dcc2 _PrlSrvCfg_GetUsbDevsCount
+  9dcdd _PrlSrvInfo_GetHostName
+  9dcf5 _PrlSrvInfo_GetOsVersion
+  9dd0e _PrlSrvInfo_GetProductVersion
+  9dd2c _PrlSrvInfo_GetServerUuid
+  9dd46 _PrlSrv_AddVirtualNetwork
+  9dd60 _PrlSrv_CommonPrefsBeginEdit
+  9dd7d _PrlSrv_CommonPrefsCommit
+  9dd97 _PrlSrv_ConvertThirdPartyVm
+  9ddb3 _PrlSrv_Create
+  9ddc2 _PrlSrv_CreateVm
+  9ddd3 _PrlSrv_DeleteVirtualNetwork
+  9ddf0 _PrlSrv_GetCommonPrefs
+  9de07 _PrlSrv_GetLicenseInfo
+  9de1e _PrlSrv_GetPackedProblemReport
+  9de3d _PrlSrv_GetServerInfo
+  9de53 _PrlSrv_GetSrvConfig
+  9de68 _PrlSrv_GetUserInfoList
+  9de80 _PrlSrv_GetUserProfile
+  9de97 _PrlSrv_GetVirtualNetworkList
+  9deb5 _PrlSrv_GetVmConfig
+  9dec9 _PrlSrv_GetVmListEx
+  9dedd _PrlSrv_LoginLocalWithParams
+  9defa _PrlSrv_Logoff
+  9df09 _PrlSrv_RegEventHandler
+  9df21 _PrlSrv_RegisterVmWithParams
+  9df3e _PrlSrv_SendITAdminReport
+  9df58 _PrlSrv_SetNonInteractiveSession
+  9df79 _PrlSrv_ShutdownEx
+  9df8c _PrlSrv_StoreValueByKey
+  9dfa4 _PrlSrv_UnregEventHandler
+  9dfbe _PrlSrv_UpdateITAdminAllVmSettings
+  9dfe1 _PrlSrv_UpdateITAdminPoliciesSettings
+  9e007 _PrlSrv_UpdateLicenseEx
+  9e01f _PrlSrv_UpdateVirtualNetwork
+  9e03c _PrlSrv_UserProfileBeginEdit
+  9e059 _PrlSrv_UserProfileCommit
+  9e073 _PrlStatVmData_GetSegmentCapacity
+  9e095 _PrlStat_GetVmDataStat
+  9e0ac _PrlStrList_AddItem
+  9e0c0 _PrlStrList_GetItem
+  9e0d4 _PrlStrList_GetItemsCount
+  9e0ee _PrlThirdPartyVmConvertParams_Create
+  9e113 _PrlThirdPartyVmConvertParams_SetDestinationPath
+  9e144 _PrlThirdPartyVmConvertParams_SetFlags
+  9e16b _PrlThirdPartyVmConvertParams_SetSourcePath
+  9e197 _PrlUsbIdent_GetAutoconnectAction
+  9e1b9 _PrlUsbIdent_GetFriendlyName
+  9e1d6 _PrlUsbIdent_GetSystemName
+  9e1f1 _PrlUsbIdent_GetVmUuidAssociation
+  9e213 _PrlUsrCfg_GetDefaultVmFolder
+  9e231 _PrlUsrCfg_GetVmDirUuid
+  9e249 _PrlUsrCfg_SetDefaultVmFolder
+  9e267 _PrlUsrInfo_CanChangeSrvSets
+  9e284 _PrlUsrInfo_GetDefaultVmFolder
+  9e2a3 _PrlUsrInfo_GetName
+  9e2b7 _PrlUsrInfo_GetSessionCount
+  9e2d3 _PrlUsrInfo_GetUuid
+  9e2e7 _PrlVirtNet_Create
+  9e2fa _PrlVirtNet_GetAdapterIndex
+  9e316 _PrlVirtNet_GetBoundAdapterInfo
+  9e336 _PrlVirtNet_GetBoundCardMac
+  9e352 _PrlVirtNet_GetDhcpIP6Address
+  9e370 _PrlVirtNet_GetDhcpIPAddress
+  9e38d _PrlVirtNet_GetHostIP6Address
+  9e3ab _PrlVirtNet_GetHostIPAddress
+  9e3c8 _PrlVirtNet_GetIP6NetMask
+  9e3e2 _PrlVirtNet_GetIP6ScopeEnd
+  9e3fd _PrlVirtNet_GetIP6ScopeStart
+  9e41a _PrlVirtNet_GetIPNetMask
+  9e433 _PrlVirtNet_GetIPScopeEnd
+  9e44d _PrlVirtNet_GetIPScopeStart
+  9e469 _PrlVirtNet_GetNetworkId
+  9e482 _PrlVirtNet_GetNetworkType
+  9e49d _PrlVirtNet_GetPortForwardList
+  9e4bc _PrlVirtNet_GetVlanTag
+  9e4d3 _PrlVirtNet_IsAdapterEnabled
+  9e4f0 _PrlVirtNet_IsDHCP6ServerEnabled
+  9e511 _PrlVirtNet_IsDHCPServerEnabled
+  9e531 _PrlVirtNet_IsHostAssignIP6
+  9e54d _PrlVirtNet_IsNATServerEnabled
+  9e56c _PrlVirtNet_SetAdapterEnabled
+  9e58a _PrlVirtNet_SetAdapterName
+  9e5a5 _PrlVirtNet_SetBoundCardMac
+  9e5c1 _PrlVirtNet_SetDHCP6ServerEnabled
+  9e5e3 _PrlVirtNet_SetDHCPServerEnabled
+  9e604 _PrlVirtNet_SetDescription
+  9e61f _PrlVirtNet_SetDhcpIP6Address
+  9e63d _PrlVirtNet_SetDhcpIPAddress
+  9e65a _PrlVirtNet_SetHostAssignIP6
+  9e677 _PrlVirtNet_SetHostIP6Address
+  9e695 _PrlVirtNet_SetHostIPAddress
+  9e6b2 _PrlVirtNet_SetIP6NetMask
+  9e6cc _PrlVirtNet_SetIP6ScopeEnd
+  9e6e7 _PrlVirtNet_SetIP6ScopeStart
+  9e704 _PrlVirtNet_SetIPNetMask
+  9e71d _PrlVirtNet_SetIPScopeEnd
+  9e737 _PrlVirtNet_SetIPScopeStart
+  9e753 _PrlVirtNet_SetNATServerEnabled
+  9e773 _PrlVirtNet_SetNetworkId
+  9e78c _PrlVirtNet_SetNetworkType
+  9e7a7 _PrlVirtNet_SetPortForwardList
+  9e7c6 _PrlVirtNet_SetVlanTag
+  9e7dd _PrlVmCfg_AddDefaultDeviceEx
+  9e7fa _PrlVmCfg_AreNaptDependentFeaturesAvailable
+  9e826 _PrlVmCfg_CreateBootDev
+  9e83e _PrlVmCfg_CreateShare
+  9e854 _PrlVmCfg_Get3DAccelerationMode
+  9e874 _PrlVmCfg_GetActionOnStopMode
+  9e892 _PrlVmCfg_GetActionOnWindowClose
+  9e8b3 _PrlVmCfg_GetAssetId
+  9e8c8 _PrlVmCfg_GetAutoStart
+  9e8df _PrlVmCfg_GetAutoStartDelay
+  9e8fb _PrlVmCfg_GetAutoStop
+  9e911 _PrlVmCfg_GetBiosType
+  9e927 _PrlVmCfg_GetBootDev
+  9e93c _PrlVmCfg_GetBootDevCount
+  9e956 _PrlVmCfg_GetClipboardSyncMode
+  9e975 _PrlVmCfg_GetConfigValidity
+  9e991 _PrlVmCfg_GetCpuAccelLevel
+  9e9ac _PrlVmCfg_GetCpuCount
+  9e9c2 _PrlVmCfg_GetCpuType
+  9e9d7 _PrlVmCfg_GetDescription
+  9e9f0 _PrlVmCfg_GetDevsCount
+  9ea07 _PrlVmCfg_GetDevsList
+  9ea1d _PrlVmCfg_GetEncryptionKeySourceType
+  9ea42 _PrlVmCfg_GetExpirationDate
+  9ea5e _PrlVmCfg_GetExpirationNote
+  9ea7a _PrlVmCfg_GetExpirationOfflineTimeToLive
+  9eaa3 _PrlVmCfg_GetExpirationTimeCheckInterval
+  9eacc _PrlVmCfg_GetExpirationTrustedTimeServer
+  9eaf5 _PrlVmCfg_GetExternalBootDevice
+  9eb15 _PrlVmCfg_GetFullscreenScaleViewMode
+  9eb3a _PrlVmCfg_GetHomePath
+  9eb50 _PrlVmCfg_GetHostMemQuotaMax
+  9eb6d _PrlVmCfg_GetHostMemQuotaPriority
+  9eb8f _PrlVmCfg_GetHostname
+  9eba5 _PrlVmCfg_GetHypervisorType
+  9ebc1 _PrlVmCfg_GetLinkedVmSnapshotUuid
+  9ebe3 _PrlVmCfg_GetLinkedVmUuid
+  9ebfd _PrlVmCfg_GetLocation
+  9ec13 _PrlVmCfg_GetMaxBalloonSize
+  9ec2f _PrlVmCfg_GetModalityOpacity
+  9ec4c _PrlVmCfg_GetName
+  9ec5e _PrlVmCfg_GetOptimizeModifiersMode
+  9ec81 _PrlVmCfg_GetOsType
+  9ec95 _PrlVmCfg_GetOsVersion
+  9ecac _PrlVmCfg_GetRamSize
+  9ecc1 _PrlVmCfg_GetRestoreImage
+  9ecdb _PrlVmCfg_GetShare
+  9ecee _PrlVmCfg_GetSharesCount
+  9ed07 _PrlVmCfg_GetSmartGuardInterval
+  9ed27 _PrlVmCfg_GetSmartGuardMaxSnapshotsCount
+  9ed50 _PrlVmCfg_GetSmbiosBoardId
+  9ed6b _PrlVmCfg_GetSmbiosBuildVersion
+  9ed8b _PrlVmCfg_GetSmbiosSystemSerialNumber
+  9edb1 _PrlVmCfg_GetSystemFlags
+  9edca _PrlVmCfg_GetTimeSyncInterval
+  9ede8 _PrlVmCfg_GetTpmType
+  9edfd _PrlVmCfg_GetUndoDisksMode
+  9ee18 _PrlVmCfg_GetUptime
+  9ee2c _PrlVmCfg_GetUptimeStartDate
+  9ee49 _PrlVmCfg_GetUuid
+  9ee5b _PrlVmCfg_GetVideoAdapterType
+  9ee79 _PrlVmCfg_GetVideoRamSize
+  9ee93 _PrlVmCfg_GetVmInfo
+  9eea7 _PrlVmCfg_GetVmType
+  9eebb _PrlVmCfg_GetWindowMode
+  9eed3 _PrlVmCfg_IsAdaptiveHypervisorEnabled
+  9eef9 _PrlVmCfg_IsAllowSelectBootDevice
+  9ef1b _PrlVmCfg_IsApertureOnlyCapable
+  9ef3b _PrlVmCfg_IsArchived
+  9ef50 _PrlVmCfg_IsAutoCaptureReleaseMouse
+  9ef74 _PrlVmCfg_IsAutoCompressEnabled
+  9ef94 _PrlVmCfg_IsBatteryStatusEnabled
+  9efb5 _PrlVmCfg_IsBounceDockIconWhenAppFlashes
+  9efde _PrlVmCfg_IsConfigInvalid
+  9eff8 _PrlVmCfg_IsCpuAutoCountEnabled
+  9f018 _PrlVmCfg_IsCpuHotplugEnabled
+  9f036 _PrlVmCfg_IsCpuVtxEnabled
+  9f050 _PrlVmCfg_IsDiskCacheWriteBack
+  9f06f _PrlVmCfg_IsEfiSecureBootEnabled
+  9f090 _PrlVmCfg_IsEncrypted
+  9f0a6 _PrlVmCfg_IsExpirationDateEnabled
+  9f0c8 _PrlVmCfg_IsFullscreenActivateSpacesOnClick
+  9f0f4 _PrlVmCfg_IsFullscreenGammaControl
+  9f117 _PrlVmCfg_IsFullscreenOptimizeForGames
+  9f13e _PrlVmCfg_IsFullscreenUseAllDisplays
+  9f163 _PrlVmCfg_IsGestureSwipeFromEdgesEnabled
+  9f18c _PrlVmCfg_IsGuestSharingAutoMount
+  9f1ae _PrlVmCfg_IsGuestSharingEnabled
+  9f1ce _PrlVmCfg_IsHighResolutionEnabled
+  9f1f0 _PrlVmCfg_IsHighResolutionInGuestEnabled
+  9f219 _PrlVmCfg_IsHostMemAutoQuota
+  9f236 _PrlVmCfg_IsHostSharingEnabled
+  9f255 _PrlVmCfg_IsLongerBatteryLifeEnabled
+  9f27a _PrlVmCfg_IsModalityCaptureMouseClicks
+  9f2a1 _PrlVmCfg_IsModalityShowOnAllSpaces
+  9f2c5 _PrlVmCfg_IsModalityStayOnTop
+  9f2e3 _PrlVmCfg_IsNativeScalingInGuestEnabled
+  9f30b _PrlVmCfg_IsNestedVirtualizationEnabled
+  9f333 _PrlVmCfg_IsPMUVirtualizationEnabled
+  9f358 _PrlVmCfg_IsPacked
+  9f36b _PrlVmCfg_IsPauseWhenIdle
+  9f385 _PrlVmCfg_IsProtected
+  9f39b _PrlVmCfg_IsRamAutoSizeEnabled
+  9f3ba _PrlVmCfg_IsRosettaLinuxEnabled
+  9f3da _PrlVmCfg_IsShareAllHostDisks
+  9f3f8 _PrlVmCfg_IsShareHostLocationEnabled
+  9f41d _PrlVmCfg_IsShareUserHomeDir
+  9f43a _PrlVmCfg_IsSharedAppsGuestToHost
+  9f45c _PrlVmCfg_IsSharedAppsHostToGuest
+  9f47e _PrlVmCfg_IsSharedBluetoothEnabled
+  9f4a1 _PrlVmCfg_IsSharedCameraEnabled
+  9f4c1 _PrlVmCfg_IsSharedCloudEnabled
+  9f4e0 _PrlVmCfg_IsSharedGamepadEnabled
+  9f501 _PrlVmCfg_IsSharedProfileEnabled
+  9f522 _PrlVmCfg_IsSharedSmartCardEnabled
+  9f545 _PrlVmCfg_IsShowDevToolsEnabled
+  9f565 _PrlVmCfg_IsShowHostPrinterUI
+  9f583 _PrlVmCfg_IsShowWindowsAppInDock
+  9f5a4 _PrlVmCfg_IsSmartGuardEnabled
+  9f5c2 _PrlVmCfg_IsSmartGuardNotifyBeforeCreation
+  9f5ed _PrlVmCfg_IsSmartMountDVDsEnabled
+  9f60f _PrlVmCfg_IsSmartMountEnabled
+  9f62d _PrlVmCfg_IsSmartMountNetworkSharesEnabled
+  9f658 _PrlVmCfg_IsSmartMountRemovableDrivesEnabled
+  9f685 _PrlVmCfg_IsSmartMouseEnabled
+  9f6a3 _PrlVmCfg_IsSmoothScrollingEnabled
+  9f6c6 _PrlVmCfg_IsStickyMouseEnabled
+  9f6e5 _PrlVmCfg_IsSupportUsb30Enabled
+  9f705 _PrlVmCfg_IsSwitchOffWindowsLogoEnabled
+  9f72d _PrlVmCfg_IsSwitchToFullscreenOnDemandEnabled
+  9f75b _PrlVmCfg_IsSyncDefaultPrinter
+  9f77a _PrlVmCfg_IsSyncSshIdsEnabled
+  9f798 _PrlVmCfg_IsSyncTimezoneDisabled
+  9f7b9 _PrlVmCfg_IsSyncVmHostnameEnabled
+  9f7db _PrlVmCfg_IsTemplate
+  9f7f0 _PrlVmCfg_IsTimeSyncSmartModeEnabled
+  9f815 _PrlVmCfg_IsTimeSynchronizationEnabled
+  9f83c _PrlVmCfg_IsUseDesktop
+  9f853 _PrlVmCfg_IsUseDocuments
+  9f86c _PrlVmCfg_IsUseDownloads
+  9f885 _PrlVmCfg_IsUseHostPrinters
+  9f8a1 _PrlVmCfg_IsUseMovies
+  9f8b7 _PrlVmCfg_IsUseMusic
+  9f8cc _PrlVmCfg_IsUsePictures
+  9f8e4 _PrlVmCfg_IsVerticalSynchronizationEnabled
+  9f90f _PrlVmCfg_IsWinSystrayInMacMenuEnabled
+  9f936 _PrlVmCfg_Set3DAccelerationMode
+  9f956 _PrlVmCfg_SetActionOnStopMode
+  9f974 _PrlVmCfg_SetActionOnWindowClose
+  9f995 _PrlVmCfg_SetAdaptiveHypervisorEnabled
+  9f9bc _PrlVmCfg_SetAllowSelectBootDevice
+  9f9df _PrlVmCfg_SetAssetId
+  9f9f4 _PrlVmCfg_SetAutoApplyIpOnly
+  9fa11 _PrlVmCfg_SetAutoCaptureReleaseMouse
+  9fa36 _PrlVmCfg_SetAutoCompressEnabled
+  9fa57 _PrlVmCfg_SetAutoStart
+  9fa6e _PrlVmCfg_SetAutoStartDelay
+  9fa8a _PrlVmCfg_SetAutoStop
+  9faa0 _PrlVmCfg_SetBatteryStatusEnabled
+  9fac2 _PrlVmCfg_SetBiosType
+  9fad8 _PrlVmCfg_SetBounceDockIconWhenAppFlashes
+  9fb02 _PrlVmCfg_SetClipboardSyncMode
+  9fb21 _PrlVmCfg_SetCpuAutoCountEnabled
+  9fb42 _PrlVmCfg_SetCpuCount
+  9fb58 _PrlVmCfg_SetCpuType
+  9fb6d _PrlVmCfg_SetDefaultConfigEx
+  9fb8a _PrlVmCfg_SetDescription
+  9fba3 _PrlVmCfg_SetDiskCacheWriteBack
+  9fbc3 _PrlVmCfg_SetDnsServers
+  9fbdb _PrlVmCfg_SetEfiSecureBoot
+  9fbf6 _PrlVmCfg_SetExpirationDate
+  9fc12 _PrlVmCfg_SetExpirationDateEnabled
+  9fc35 _PrlVmCfg_SetExpirationNote
+  9fc51 _PrlVmCfg_SetExpirationOfflineTimeToLive
+  9fc7a _PrlVmCfg_SetExpirationTimeCheckInterval
+  9fca3 _PrlVmCfg_SetExpirationTrustedTimeServer
+  9fccc _PrlVmCfg_SetExternalBootDevice
+  9fcec _PrlVmCfg_SetFullscreenActivateSpacesOnClick
+  9fd19 _PrlVmCfg_SetFullscreenGammaControl
+  9fd3d _PrlVmCfg_SetFullscreenOptimizeForGames
+  9fd65 _PrlVmCfg_SetFullscreenScaleViewMode
+  9fd8a _PrlVmCfg_SetFullscreenUseAllDisplays
+  9fdb0 _PrlVmCfg_SetGestureSwipeFromEdgesEnabled
+  9fdda _PrlVmCfg_SetGuestSharingAutoMount
+  9fdfd _PrlVmCfg_SetGuestSharingEnabled
+  9fe1e _PrlVmCfg_SetHighResolutionEnabled
+  9fe41 _PrlVmCfg_SetHighResolutionInGuestEnabled
+  9fe6b _PrlVmCfg_SetHostMemAutoQuota
+  9fe89 _PrlVmCfg_SetHostMemQuotaMax
+  9fea6 _PrlVmCfg_SetHostMemQuotaPriority
+  9fec8 _PrlVmCfg_SetHostSharingEnabled
+  9fee8 _PrlVmCfg_SetHostname
+  9fefe _PrlVmCfg_SetHypervisorType
+  9ff1a _PrlVmCfg_SetIsolatedVmEnabled
+  9ff39 _PrlVmCfg_SetKeystrokeForwardingEnabled
+  9ff61 _PrlVmCfg_SetLockGuestOnSuspendEnabled
+  9ff88 _PrlVmCfg_SetLongerBatteryLifeEnabled
+  9ffae _PrlVmCfg_SetMapSharedFoldersOnLetters
+  9ffd5 _PrlVmCfg_SetMaxBalloonSize
+  9fff1 _PrlVmCfg_SetModalityCaptureMouseClicks
+  a0019 _PrlVmCfg_SetModalityOpacity
+  a0036 _PrlVmCfg_SetModalityShowOnAllSpaces
+  a005b _PrlVmCfg_SetModalityStayOnTop
+  a007a _PrlVmCfg_SetName
+  a008c _PrlVmCfg_SetNativeScalingInGuestEnabled
+  a00b5 _PrlVmCfg_SetNestedVirtualizationEnabled
+  a00de _PrlVmCfg_SetOptimizeModifiersMode
+  a0101 _PrlVmCfg_SetOsVersion
+  a0118 _PrlVmCfg_SetPMUVirtualizationEnabled
+  a013e _PrlVmCfg_SetPauseWhenIdle
+  a0159 _PrlVmCfg_SetRamAutoSizeEnabled
+  a0179 _PrlVmCfg_SetRamSize
+  a018e _PrlVmCfg_SetRestoreImage
+  a01a8 _PrlVmCfg_SetRosettaLinuxEnabled
+  a01c9 _PrlVmCfg_SetSearchDomains
+  a01e4 _PrlVmCfg_SetShareAllHostDisks
+  a0203 _PrlVmCfg_SetShareHostLocationEnabled
+  a0229 _PrlVmCfg_SetShareUserHomeDir
+  a0247 _PrlVmCfg_SetSharedAppsGuestToHost
+  a026a _PrlVmCfg_SetSharedAppsHostToGuest
+  a028d _PrlVmCfg_SetSharedCameraEnabled
+  a02ae _PrlVmCfg_SetSharedCloudEnabled
+  a02ce _PrlVmCfg_SetSharedGamepadEnabled
+  a02f0 _PrlVmCfg_SetSharedProfileEnabled
+  a0312 _PrlVmCfg_SetSharedSmartCardEnabled
+  a0336 _PrlVmCfg_SetShowDevToolsEnabled
+  a0357 _PrlVmCfg_SetShowHostPrinterUI
+  a0376 _PrlVmCfg_SetShowWindowsAppInDock
+  a0398 _PrlVmCfg_SetSmartGuardEnabled
+  a03b7 _PrlVmCfg_SetSmartGuardInterval
+  a03d7 _PrlVmCfg_SetSmartGuardMaxSnapshotsCount
+  a0400 _PrlVmCfg_SetSmartGuardNotifyBeforeCreation
+  a042c _PrlVmCfg_SetSmartMountDVDsEnabled
+  a044f _PrlVmCfg_SetSmartMountEnabled
+  a046e _PrlVmCfg_SetSmartMountNetworkSharesEnabled
+  a049a _PrlVmCfg_SetSmartMountRemovableDrivesEnabled
+  a04c8 _PrlVmCfg_SetSmartMouseEnabled
+  a04e7 _PrlVmCfg_SetSmbiosBoardId
+  a0502 _PrlVmCfg_SetSmbiosBuildVersion
+  a0522 _PrlVmCfg_SetSmbiosSystemSerialNumber
+  a0548 _PrlVmCfg_SetSmoothScrollingEnabled
+  a056c _PrlVmCfg_SetStartLoginMode
+  a0588 _PrlVmCfg_SetStartUserCreds
+  a05a4 _PrlVmCfg_SetStickyMouseEnabled
+  a05c4 _PrlVmCfg_SetSupportUsb30Enabled
+  a05e5 _PrlVmCfg_SetSwitchOffWindowsLogoEnabled
+  a060e _PrlVmCfg_SetSwitchToFullscreenOnDemandEnabled
+  a063d _PrlVmCfg_SetSyncDefaultPrinter
+  a065d _PrlVmCfg_SetSyncSshIdsEnabled
+  a067c _PrlVmCfg_SetSyncTimezoneDisabled
+  a069e _PrlVmCfg_SetSyncVmHostnameEnabled
+  a06c1 _PrlVmCfg_SetSystemFlags
+  a06da _PrlVmCfg_SetTemplateSign
+  a06f4 _PrlVmCfg_SetTimeSyncInterval
+  a0712 _PrlVmCfg_SetTimeSyncSmartModeEnabled
+  a0738 _PrlVmCfg_SetTimeSynchronizationEnabled
+  a0760 _PrlVmCfg_SetToolsAutoUpdateEnabled
+  a0784 _PrlVmCfg_SetTpmType
+  a0799 _PrlVmCfg_SetUndoDisksMode
+  a07b4 _PrlVmCfg_SetUseDefaultAnswers
+  a07d3 _PrlVmCfg_SetUseDesktop
+  a07eb _PrlVmCfg_SetUseDocuments
+  a0805 _PrlVmCfg_SetUseDownloads
+  a081f _PrlVmCfg_SetUseHostPrinters
+  a083c _PrlVmCfg_SetUseMovies
+  a0853 _PrlVmCfg_SetUseMusic
+  a0869 _PrlVmCfg_SetUsePictures
+  a0882 _PrlVmCfg_SetUserDefinedSharedFoldersEnabled
+  a08af _PrlVmCfg_SetUuid
+  a08c1 _PrlVmCfg_SetVerticalSynchronizationEnabled
+  a08ed _PrlVmCfg_SetVideoAdapterType
+  a090b _PrlVmCfg_SetVideoRamSize
+  a0925 _PrlVmCfg_SetWinSystrayInMacMenuEnabled
+  a094d _PrlVmCfg_SetWindowMode
+  a0965 _PrlVmDevHdPart_GetSysName
+  a0980 _PrlVmDevHdPart_SetSysName
+  a099b _PrlVmDevHd_AddPartition
+  a09b4 _PrlVmDevHd_GetDiskSize
+  a09cc _PrlVmDevHd_GetDiskType
+  a09e4 _PrlVmDevHd_GetOnlineCompactMode
+  a0a05 _PrlVmDevHd_GetPartition
+  a0a1e _PrlVmDevHd_GetPartitionsCount
+  a0a3d _PrlVmDevHd_IsEncrypted
+  a0a55 _PrlVmDevHd_SetBlockSize
+  a0a6e _PrlVmDevHd_SetDiskSize
+  a0a86 _PrlVmDevHd_SetDiskType
+  a0a9e _PrlVmDevHd_SetOnlineCompactMode
+  a0abf _PrlVmDevHd_SetOpenFlags
+  a0ad8 _PrlVmDevHd_SetPassword
+  a0af0 _PrlVmDevHd_SetSplitted
+  a0b08 _PrlVmDevNet_GenerateMacAddr
+  a0b25 _PrlVmDevNet_GetAdapterType
+  a0b41 _PrlVmDevNet_GetBoundAdapterIndex
+  a0b63 _PrlVmDevNet_GetBoundAdapterName
+  a0b84 _PrlVmDevNet_GetDefaultGateway
+  a0ba3 _PrlVmDevNet_GetDefaultGatewayIPv6
+  a0bc6 _PrlVmDevNet_GetDnsServers
+  a0be1 _PrlVmDevNet_GetInboundBandwidth
+  a0c02 _PrlVmDevNet_GetInboundDelay
+  a0c1f _PrlVmDevNet_GetInboundPacketLoss
+  a0c41 _PrlVmDevNet_GetMacAddress
+  a0c5c _PrlVmDevNet_GetNetAddresses
+  a0c79 _PrlVmDevNet_GetOutboundBandwidth
+  a0c9b _PrlVmDevNet_GetOutboundDelay
+  a0cb9 _PrlVmDevNet_GetOutboundPacketLoss
+  a0cdc _PrlVmDevNet_GetSearchDomains
+  a0cfa _PrlVmDevNet_IsAutoApply
+  a0d13 _PrlVmDevNet_IsConfigureWithDhcp
+  a0d34 _PrlVmDevNet_IsConfigureWithDhcpIPv6
+  a0d59 _PrlVmDevNet_IsNetworkConditionerEnabled
+  a0d82 _PrlVmDevNet_SetAdapterType
+  a0d9e _PrlVmDevNet_SetAutoApply
+  a0db8 _PrlVmDevNet_SetBoundAdapterIndex
+  a0dda _PrlVmDevNet_SetBoundAdapterName
+  a0dfb _PrlVmDevNet_SetConfigureWithDhcp
+  a0e1d _PrlVmDevNet_SetConfigureWithDhcpIPv6
+  a0e43 _PrlVmDevNet_SetDefaultGateway
+  a0e62 _PrlVmDevNet_SetDefaultGatewayIPv6
+  a0e85 _PrlVmDevNet_SetDnsServers
+  a0ea0 _PrlVmDevNet_SetMacAddress
+  a0ebb _PrlVmDevNet_SetNetAddresses
+  a0ed8 _PrlVmDevNet_SetNetworkConditionerEnabled
+  a0f02 _PrlVmDevNet_SetNetworkConditionerInboundBandwidth
+  a0f35 _PrlVmDevNet_SetNetworkConditionerInboundDelay
+  a0f64 _PrlVmDevNet_SetNetworkConditionerInboundPacket
+  a0f94 _PrlVmDevNet_SetNetworkConditionerOutboundBandwidth
+  a0fc8 _PrlVmDevNet_SetNetworkConditionerOutboundDelay
+  a0ff8 _PrlVmDevNet_SetNetworkConditionerOutboundPacket
+  a1029 _PrlVmDevNet_SetNetworkConditionerProfile
+  a1053 _PrlVmDevNet_SetSearchDomains
+  a1071 _PrlVmDevSerial_GetSocketMode
+  a108f _PrlVmDevSerial_SetSocketMode
+  a10ad _PrlVmDevSound_GetMixerDev
+  a10c8 _PrlVmDevSound_GetOutputDev
+  a10e4 _PrlVmDevSound_SetMixerDev
+  a10ff _PrlVmDevSound_SetOutputDev
+  a111b _PrlVmDev_Connect
+  a112d _PrlVmDev_CreateImage
+  a1143 _PrlVmDev_Disconnect
+  a1158 _PrlVmDev_GetEmulatedType
+  a1172 _PrlVmDev_GetFriendlyName
+  a118c _PrlVmDev_GetIfaceType
+  a11a3 _PrlVmDev_GetIndex
+  a11b6 _PrlVmDev_GetStackIndex
+  a11ce _PrlVmDev_GetSubType
+  a11e3 _PrlVmDev_GetSysName
+  a11f8 _PrlVmDev_IsConnected
+  a120e _PrlVmDev_IsEnabled
+  a1222 _PrlVmDev_Remove
+  a1233 _PrlVmDev_ResizeImage
+  a1249 _PrlVmDev_SetConnected
+  a1260 _PrlVmDev_SetEmulatedType
+  a127a _PrlVmDev_SetEnabled
+  a128f _PrlVmDev_SetFriendlyName
+  a12a9 _PrlVmDev_SetIfaceType
+  a12c0 _PrlVmDev_SetImagePath
+  a12d7 _PrlVmDev_SetPassthrough
+  a12f0 _PrlVmDev_SetStackIndex
+  a1308 _PrlVmDev_SetSubType
+  a131d _PrlVmDev_SetSysName
+  a1332 _PrlVmDev_UpdateInfo
+  a1347 _PrlVmGuestOsInfo_Create
+  a1360 _PrlVmGuestOsInfo_SetArch
+  a137a _PrlVmGuestOsInfo_SetOsVersion
+  a1399 _PrlVmGuest_Logout
+  a13ac _PrlVmGuest_RunProgram
+  a13c3 _PrlVmGuest_SetUserPasswd
+  a13dd _PrlVmInfo_GetAccessRights
+  a13f8 _PrlVmInfo_GetState
+  a140c _PrlVmRegisterParams_Create
+  a1428 _PrlVmRegisterParams_SetFlags
+  a1446 _PrlVmRegisterParams_SetVmDirPath
+  a1468 _PrlVmRegisterParams_SetVmName
+  a1487 _PrlVmRegisterParams_SetVmUuid
+  a14a6 _PrlVm_Archive
+  a14b5 _PrlVm_Authorise
+  a14c6 _PrlVm_BeginEdit
+  a14d7 _PrlVm_ChangePassword
+  a14ed _PrlVm_CloneEx
+  a14fc _PrlVm_CommitEx
+  a150c _PrlVm_Compact
+  a151b _PrlVm_CreateSnapshot
+  a1531 _PrlVm_Decrypt
+  a1540 _PrlVm_Delete
+  a154e _PrlVm_DeleteSnapshot
+  a1564 _PrlVm_DropSuspendedState
+  a157e _PrlVm_Encrypt
+  a158d _PrlVm_GetNetworkSettings
+  a15a7 _PrlVm_GetPackedProblemReport
+  a15c5 _PrlVm_GetSnapshotsTreeEx
+  a15df _PrlVm_GetStatisticsEx
+  a15f6 _PrlVm_GetToolsState
+  a160b _PrlVm_ITAdminAuthorize
+  a1623 _PrlVm_InstallTools
+  a1637 _PrlVm_InternalCommand
+  a164e _PrlVm_LinkedClone
+  a1661 _PrlVm_LoginInGuest
+  a1675 _PrlVm_Move
+  a1681 _PrlVm_Pack
+  a168d _PrlVm_Pause
+  a169a _PrlVm_RefreshConfig
+  a16af _PrlVm_RegEx
+  a16bc _PrlVm_RemoveProtection
+  a16d4 _PrlVm_Reset
+  a16e1 _PrlVm_ResetUptime
+  a16f4 _PrlVm_Restart
+  a1703 _PrlVm_Resume
+  a1711 _PrlVm_SetProtection
+  a1726 _PrlVm_StartEx
+  a1735 _PrlVm_StopEx
+  a1743 _PrlVm_StoreValueByKey
+  a175a _PrlVm_Suspend
+  a1769 _PrlVm_SwitchToSnapshotEx
+  a1783 _PrlVm_TerminalConnect
+  a179a _PrlVm_TerminalDisconnect
+  a17b4 _PrlVm_Unarchive
+  a17c5 _PrlVm_Unpack
+  a17d3 _PrlVm_UnregEx
+  a17e2 _PrlVm_ValidateConfig
+  a17f8 __DefaultRuneLocale
+  a180c __Unwind_Resume
+  a181c __ZNKSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEcm
+  a1866 __ZNKSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7compareEPKc
+  a18b4 __ZNKSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7compareEmmPKc
+  a1904 __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  a194f __ZNKSt3__16locale9use_facetERNS0_2idE
+  a1976 __ZNKSt3__18ios_base6getlocEv
+  a1994 __ZNKSt3__18numpunctIcE11do_groupingEv
+  a19bb __ZNKSt3__18numpunctIcE11do_truenameEv
+  a19e2 __ZNKSt3__18numpunctIcE12do_falsenameEv
+  a1a0a __ZNKSt3__18numpunctIcE16do_decimal_pointEv
+  a1a36 __ZNKSt3__18numpunctIcE16do_thousands_sepEv
+  a1a62 __ZNKSt3__18time_putIcNS_19ostreambuf_iteratorIcNS_11char_traitsIcEEEEE3putES4_RNS_8ios_baseEcPK2tmPKcSC_
+  a1acc __ZNSt11logic_errorC2EPKc
+  a1ae6 __ZNSt12length_errorD1Ev
+  a1aff __ZNSt12out_of_rangeD1Ev
+  a1b18 __ZNSt20bad_array_new_lengthC1Ev
+  a1b39 __ZNSt20bad_array_new_lengthD1Ev
+  a1b5a __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE5eraseEmm
+  a1ba4 __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6appendEPKc
+  a1bf0 __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6appendEPKcm
+  a1c3d __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6appendERKS5_mm
+  a1c8d __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6assignEPKc
+  a1cd9 __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6assignEPKcm
+  a1d26 __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6insertEmPKc
+  a1d73 __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6insertEmPKcm
+  a1dc1 __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6resizeEmc
+  a1e0c __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7replaceEmmPKcm
+  a1e5c __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7replaceEmmmc
+  a1eaa __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7reserveEm
+  a1ef5 __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9push_backEc
+  a1f42 __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEaSERKS5_
+  a1f8b __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEaSEc
+  a1fd0 __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEE4openEPKcj
+  a200b __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  a2040 __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEED1Ev
+  a2075 __ZNSt3__113basic_istreamIcNS_11char_traitsIcEEE3getEv
+  a20ac __ZNSt3__113basic_istreamIcNS_11char_traitsIcEEE4readEPcl
+  a20e6 __ZNSt3__113basic_istreamIcNS_11char_traitsIcEEE6sentryC1ERS3_b
+  a2126 __ZNSt3__113basic_istreamIcNS_11char_traitsIcEEED2Ev
+  a215b __ZNSt3__113basic_istreamIcNS_11char_traitsIcEEErsERd
+  a2191 __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEE3putEc
+  a21c8 __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEE5flushEv
+  a2201 __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEE5writeEPKcl
+  a223d __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEE6sentryC1ERS3_
+  a227c __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEE6sentryD1Ev
+  a22b8 __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEED2Ev
+  a22ed __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEPNS_15basic_streambufIcS2_EE
+  a233d __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEi
+  a2372 __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEj
+  a23a7 __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEy
+  a23dc __ZNSt3__114basic_iostreamIcNS_11char_traitsIcEEED2Ev
+  a2412 __ZNSt3__117__assoc_sub_state4waitEv
+  a2437 __ZNSt3__13cinE
+  a2447 __ZNSt3__14cerrE
+  a2458 __ZNSt3__15ctypeIcE2idE
+  a2470 __ZNSt3__16futureIvED1Ev
+  a2489 __ZNSt3__16locale5facet16__on_zero_sharedEv
+  a24b5 __ZNSt3__16localeC1Ev
+  a24cb __ZNSt3__16localeD1Ev
+  a24e1 __ZNSt3__17promiseIvE10get_futureEv
+  a2505 __ZNSt3__17promiseIvE9set_valueEv
+  a2527 __ZNSt3__17promiseIvEC1Ev
+  a2541 __ZNSt3__17promiseIvED1Ev
+  a255b __ZNSt3__18ios_base33__set_badbit_and_consider_rethrowEv
+  a2594 __ZNSt3__18ios_base4initEPv
+  a25b0 __ZNSt3__18ios_base5clearEj
+  a25cc __ZNSt3__18numpunctIcEC2Em
+  a25e7 __ZNSt3__18numpunctIcED2Ev
+  a2602 __ZNSt3__18time_putIcNS_19ostreambuf_iteratorIcNS_11char_traitsIcEEEEE2idE
+  a264d __ZNSt3__19basic_iosIcNS_11char_traitsIcEEED2Ev
+  a267d __ZNSt3__1plIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_12basic_stringIT_T0_T1_EEPKS6_RKS9_
+  a26d9 __ZSt9terminatev
+  a26ea __ZTINSt3__18numpunctIcEE
+  a2704 __ZTISt12length_error
+  a271a __ZTISt12out_of_range
+  a2730 __ZTISt20bad_array_new_length
+  a274e __ZTTNSt3__114basic_ifstreamIcNS_11char_traitsIcEEEE
+  a2783 __ZTTNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  a27cd __ZTTNSt3__119basic_istringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  a2818 __ZTTNSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  a2863 __ZTVN10__cxxabiv117__class_type_infoE
+  a288a __ZTVN10__cxxabiv120__si_class_type_infoE
+  a28b4 __ZTVNSt3__114basic_ifstreamIcNS_11char_traitsIcEEEE
+  a28e9 __ZTVNSt3__115basic_streambufIcNS_11char_traitsIcEEEE
+  a291f __ZTVNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  a2966 __ZTVNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  a29b0 __ZTVNSt3__119basic_istringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  a29fb __ZTVNSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+  a2a46 __ZTVSt12length_error
+  a2a5c __ZTVSt12out_of_range
+  a2a72 __ZdlPv
+  a2a7a __Znwm
+  a2a81 ___chkstk_darwin
+  a2a92 ___cxa_allocate_exception
+  a2aac ___cxa_atexit
+  a2aba ___cxa_begin_catch
+  a2acd ___cxa_end_catch
+  a2ade ___cxa_free_exception
+  a2af4 ___cxa_guard_abort
+  a2b07 ___cxa_guard_acquire
+  a2b1c ___cxa_guard_release
+  a2b31 ___cxa_pure_virtual
+  a2b45 ___cxa_rethrow
+  a2b54 ___cxa_throw
+  a2b61 ___dynamic_cast
+  a2b71 ___error
+  a2b7a ___gxx_personality_v0
+  a2b90 ___maskrune
+  a2b9c ___stack_chk_fail
+  a2bae ___stack_chk_guard
+  a2bc1 ___stderrp
+  a2bcc ___stdinp
+  a2bd6 ___stdoutp
+  a2be1 ___tolower
+  a2bec ___toupper
+  a2bf7 _abort
+  a2bfe _access
+  a2c06 _atoi
+  a2c0c _bzero
+  a2c13 _calloc
+  a2c1b _exit
+  a2c21 _fclose
+  a2c29 _fflush
+  a2c31 _fileno
+  a2c39 _fopen
+  a2c40 _fprintf
+  a2c49 _fputc
+  a2c50 _fputs
+  a2c57 _fread
+  a2c5e _free
+  a2c64 _fwrite
+  a2c6c _getenv
+  a2c74 _getpwuid
+  a2c7e _getuid
+  a2c86 _gmtime
+  a2c8e _ioctl
+  a2c95 _isatty
+  a2c9d _localtime
+  a2ca8 _malloc
+  a2cb0 _memchr
+  a2cb8 _memcmp
+  a2cc0 _memcpy
+  a2cc8 _memmove
+  a2cd1 _memset
+  a2cd9 _mktime
+  a2ce1 _printf
+  a2ce9 _putchar
+  a2cf2 _puts
+  a2cf8 _realpath$DARWIN_EXTSN
+  a2d0f _setenv
+  a2d17 _sigaction
+  a2d22 _snprintf
+  a2d2c _sprintf
+  a2d35 _sscanf
+  a2d3d _strchr
+  a2d45 _strcmp
+  a2d4d _strcpy
+  a2d55 _strdup
+  a2d5d _strlen
+  a2d65 _strncmp
+  a2d6e _strncpy
+  a2d77 _strrchr
+  a2d80 _strstr
+  a2d88 _strtok
+  a2d90 _strtol
+  a2d98 _strtoul
+  a2da1 _tcgetattr
+  a2dac _tcsetattr
+  a2db7 _time
+  a2dbd _tzset
+  a2dc4 _unsetenv
+  a2dce _usleep
+  a2dd6 _vfprintf
+  a2de0 _vsnprintf
+  a2deb dyld_stub_binder
+  a2dfc radr://5614542
+  a2e94 com.parallels.desktop.console.prlctl
+  a2eb9 4C6364ACXT
+  a2f59 6;%US
+  a2f6f  }$	]S
+  a2fcf [@7=/
+  a30be thxvt
+  a3116 -Vnbs1
+  a3154 wp/od
+  a3163 pzPLq
+  a31eb rlm+hp$.S
+  a3265 HMt'M
+  a3320 R<6-Ep
+  a332c lfkG1
+  a33dc sX~}_
+  a344f $com.parallels.desktop.console.prlctl
+  a34c8 subject.OU
+  a34dc 4C6364ACXT
+  a3568 Apple Inc.1&0$
+  a357d Apple Certification Authority1
+  a35a5 Apple Root CA0
+  a35b6 120201221215Z
+  a35c5 270201221215Z0y1-0+
+  a35de $Developer ID Certification Authority1&0$
+  a360e Apple Certification Authority1
+  a3636 Apple Inc.1
+  a36b8 )xEii`k_
+  a3744 1? v(m
+  a37d2 '0%0#
+  a37dd http://crl.apple.com/root.crl0
+  a3853 P9jDt
+  a38c4  "ror
+  a3969 Apple Inc.1&0$
+  a397e Apple Certification Authority1
+  a39a6 Apple Root CA0
+  a39b7 060425214036Z
+  a39c6 350209214036Z0b1
+  a39ed Apple Inc.1&0$
+  a3a02 Apple Certification Authority1
+  a3a2a Apple Root CA0
+  a3bf7 https://www.apple.com/appleca/0
+  a3c28 Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+  a3e15 0y1-0+
+  a3e21 $Developer ID Certification Authority1&0$
+  a3e51 Apple Certification Authority1
+  a3e79 Apple Inc.1
+  a3e94 220407115552Z
+  a3ea3 270201221215Z0
+  a3ec5 4C6364ACXT1L0J
+  a3ed9 CDeveloper ID Application: Parallels International GmbH (4C6364ACXT)1
+  a3f28 4C6364ACXT1%0#
+  a3f3d Parallels International GmbH1
+  a4080 +U,V2
+  a40d0 40200
+  a40e0 $http://ocsp.apple.com/ocsp03-devid080
+  a4135 )http://www.apple.com/certificateauthority0
+  a4172 Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+  a427e 20120229000000Z0
+  a4302 V{f7\
+  a43a1 ]fq	{zCd
+  a43d9 0y1-0+
+  a43e5 $Developer ID Certification Authority1&0$
+  a4415 Apple Certification Authority1
+  a443d Apple Inc.1
+  a449c 261005100838Z0/
+  a44b9  t0Re
+  a44f7  t0Re
+  a452f <?xml version="1.0" encoding="UTF-8"?>
+  a4556 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+  a45bd <plist version="1.0">
+  a45d3 <dict>
+  a45da 	<key>cdhashes</key>
+  a45ef 	<array>
+  a45f8 		<data>
+  a4601 		dDBSZZRgnNOaxHbFXfXYjp5Q+f8=
+  a4620 		</data>
+  a462a 	</array>
+  a4634 </dict>
+  a463c </plist>
+  a4675 ,3X	Kq
+  a47f6 20261005100838Z0
+  a483f 0|100.
+  a484b 'Apple Timestamp Certification Authority1&0$
+  a487e Apple Certification Authority1
+  a48a6 Apple Inc.1
+  a48c1 261002201838Z
+  a48d0 261113201837Z0B1
+  a48ea Timestamp Signer ST011
+  a490a Apple Inc.1
+  a4aae http://www.apple.com/appleca0
+  a4add Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+  a4bb0 ,0*0(
+  a4bba "http://crl.apple.com/timestamp.crl0
+  a4c37 =t+~gl
+  a4c5d b'v7b
+  a4c63 e"`(G
+  a4d60 Apple Inc.1&0$
+  a4d75 Apple Certification Authority1
+  a4d9d Apple Root CA0
+  a4dae 120405120244Z
+  a4dbd 270405120244Z0|100.
+  a4dd6 'Apple Timestamp Certification Authority1&0$
+  a4e09 Apple Certification Authority1
+  a4e31 Apple Inc.1
+  a4f0b (ny_~
+  a4f58 E~4u&
+  a4fcd '0%0#
+  a4fd8 http://crl.apple.com/root.crl0
+  a50af Bsu|QC
+  a5164 Apple Inc.1&0$
+  a5179 Apple Certification Authority1
+  a51a1 Apple Root CA0
+  a51b2 060425214036Z
+  a51c1 350209214036Z0b1
+  a51e8 Apple Inc.1&0$
+  a51fd Apple Certification Authority1
+  a5225 Apple Root CA0
+  a53f2 https://www.apple.com/appleca/0
+  a5423 Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0
+  a55f8 0|100.
+  a5604 'Apple Timestamp Certification Authority1&0$
+  a5637 Apple Certification Authority1
+  a565f Apple Inc.1
+  a56bb 261005100838Z0#

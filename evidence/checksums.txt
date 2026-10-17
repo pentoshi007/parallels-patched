@@ -1,0 +1,10 @@
+# checksums (Parallels Desktop 27 patched build)
+
+patched prl_disp_service:
+4950b8cfc825d5d8b0de4a5a4bd3ee51fe64ae6293f4db0334a534b0f19fdbf3  /tmp/clai/c3b4fc-17-10-2026-07-32-20/transfer/parallels-patched-transfer/deliverable/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS/Parallels Service.app/Contents/MacOS/prl_disp_service
+original prl_disp_service:
+d9f2fff825b4e97400bfffb110b96b242d246d93aa3f4da05308f3e4319d6c26  /tmp/clai/c3b4fc-17-10-2026-07-32-20/transfer/parallels-patched-transfer/evidence/backup/prl_disp_service.orig
+deliverable licenses.json:
+00c9a235b031d84276307a943f4084729a459238e72d2a1d5dd97cc859cdd2d8  /tmp/clai/c3b4fc-17-10-2026-07-32-20/transfer/parallels-patched-transfer/deliverable/licenses.json
+original DMG:
+301175ad94bc8575adb3f4ced24e9707a328c0e4220330cc4e92bd1da6da6bea  /tmp/clai/c3b4fc-17-10-2026-07-32-20/transfer/parallels-patched-transfer/source/ParallelsDesktop-27.0.3-58680.dmg

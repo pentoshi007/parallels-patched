@@ -1,0 +1,630 @@
+s1-prl_client_app.txt: 7fce65 2sigStubActivated(ProcessSerialNumber)
+s1-prl_client_app.txt: 7fd2fe 2windowActivated(unsigned int, unsigned int, bool)
+s1-prl_client_app.txt: 7fd331 1coherenceWindowActivated(unsigned int, unsigned int, bool)
+s1-prl_client_app.txt: 7fd508 need reactivate m_needReactivate=%d
+s1-prl_client_app.txt: 7fd6e5 Invalid PxAppStubCmdActivateWindow data size (%d, must be >=%ld
+s1-prl_client_app.txt: 7fd77f coherenceWindowActivated(wId=0x%x, pId=0x%x, interactive=%u)
+s1-prl_client_app.txt: 7fdb6a Interactive stub activated in coherence m_needReactivate=%d a=%d
+s1-prl_client_app.txt: 808a68 2exposeActivatedPrivate()
+s1-prl_client_app.txt: 808a82 2exposeActivated()
+s1-prl_client_app.txt: 80a9ef 1activate(const QString&)
+s1-prl_client_app.txt: 80ab57 2coherenceWndActivated(const QString&)
+s1-prl_client_app.txt: 80ab7e 1onCoherenceWindowActivated(const QString&)
+s1-prl_client_app.txt: 81235a Update license. Dry Run %d, Enterprise %d, Force activate UK %d
+s1-prl_client_app.txt: 816aac Activate on This Mac
+s1-prl_client_app.txt: 817d56 2vmActivated(const QString&)
+s1-prl_client_app.txt: 817d73 2stubActivated(const QString&)
+s1-prl_client_app.txt: 817d92 2coherenceStubActivated(const QString&)
+s1-prl_client_app.txt: 817dba 2vmDeactivated(const QString&)
+s1-prl_client_app.txt: 817dd9 2coherenceWndDeactivated(const QString&)
+s1-prl_client_app.txt: 817e02 2coherenceAppActivated()
+s1-prl_client_app.txt: 817e1b 1onCoherenceAppActivated()
+s1-prl_client_app.txt: 8186d3 1onCoherenceWndActivated()
+s1-prl_client_app.txt: 8186ee 1onCoherenceWndDeactivated()
+s1-prl_client_app.txt: 8198c8 Windows11.Activate
+s1-prl_client_app.txt: 81b230 2vmConsoleOrCoherenceWindowActivated( bool )
+s1-prl_client_app.txt: 81b619 1onExposeActivated()
+s1-prl_client_app.txt: 81c642 Process window activate
+s1-prl_client_app.txt: 81c65a Process window deactivate
+s1-prl_client_app.txt: 81c870 Window Activated: failed to grab keyboard into guest
+s1-prl_client_app.txt: 81e42a m_pbActivateProduct
+s1-prl_client_app.txt: 81eae3 1updateActivateProductButton()
+s1-prl_client_app.txt: 81f000 2linkActivated(const QString&)
+s1-prl_client_app.txt: 81f4ea 2activated()
+s1-prl_client_app.txt: 81f4f7 1onToolbarItemActivated()
+s1-prl_client_app.txt: 8245b4 m_ckbActivateOnClick
+s1-prl_client_app.txt: 8245c9 Settings.Runtime.FullScreen.ActivateSpacesOnClick
+s1-prl_client_app.txt: 824672 m_lblActivateSpacesDescription
+s1-prl_client_app.txt: 824ef1 m_ckbActivateByDockOnly
+s1-prl_client_app.txt: 824f15 Picture in Picture mode can be activated at View menu.
+s1-prl_client_app.txt: 824f9f Activate window by Dock icon only
+s1-prl_client_app.txt: 826850 1onSelectFileLinkActivated()
+s1-prl_client_app.txt: 8278aa 1onSystemMemoryLinkActivated(const QString&)
+s1-prl_client_app.txt: 8280cb 2activated(int)
+s1-prl_client_app.txt: 82b922 Activate virtual machine window by Dock icon only
+s1-prl_client_app.txt: 83349a <html><body><p>You need to install Windows 11 on your Mac to run Windows apps. If you want to use another operating system or install Windows 11 manually, skip this step.</p><p>Windows 11 works great in Parallels Desktop, but there are some <a href='%1'>limitations</a>.</p><p>Note that you need to activate this copy of Windows 11 after installation.</p></body></html>
+s1-prl_client_app.txt: 83498d Activate
+s1-prl_client_app.txt: 834c33 non_activated
+s1-prl_client_app.txt: 8357bd According to <a href="%1">EULA</a> you may use one copy of the Software activated by a license key on a single Authorized Device owned, leased, or otherwise controlled by you, at a single time.
+s1-prl_client_app.txt: 835933 According to EULA you may use one copy of the Software activated by a license key on a single Authorized Device owned, leased, or otherwise controlled by you, at a single time.
+s1-prl_client_app.txt: 835d8f Activate Business Edition
+s1-prl_client_app.txt: 83788e 2activateWithSSOFinished(PRL_RESULT)
+s1-prl_client_app.txt: 8378b3 1onActivateWithSSOFinished(PRL_RESULT)
+s1-prl_client_app.txt: 8380da Activate trial.
+s1-prl_client_app.txt: 838f92 2deactivated()
+s1-prl_client_app.txt: 839814 Can't get window instance to activate it.
+s1-prl_client_app.txt: 839ea2 actionActivateProduct
+s1-prl_client_app.txt: 83d263 1onActivateVmActionTriggered(const QString&)
+s1-prl_client_app.txt: 83de7e 1onNoticationActivated(PRL_RESULT)
+s1-prl_client_app.txt: 840aa9 1onTaskActivateTrialStarted()
+s1-prl_client_app.txt: 841414 Activate Now
+s1-prl_client_app.txt: 844761 1onTrayIconActivated()
+s1-prl_client_app.txt: 84478b Tray icon activated
+s1-prl_client_app.txt: 846d78 host is deactivated
+s1-prl_client_app.txt: 8470d3 can not activate within per user subscription through license key
+s1-prl_client_app.txt: 8491e2 [CMDFLT] Reset CMD filter. Coherence stub has activated
+s1-prl_client_app.txt: 8504d8 2WindowActivatedSignal(unsigned int, unsigned int, bool)
+s1-prl_client_app.txt: 850511 2CoherenceStubActivated()
+s1-prl_client_app.txt: 850589 2VmActivatedSignal(const QString&)
+s1-prl_client_app.txt: 8505ac 2VmDeactivatedSignal(const QString&)
+s1-prl_client_app.txt: 8505d1 2StubActivatedSignal(const QString&)
+s1-prl_client_app.txt: 85172f 2stubActivated(const ProcessSerialNumber)
+s1-prl_client_app.txt: 851759 1OnStubActivated(const ProcessSerialNumber)
+s1-prl_client_app.txt: 851785 2vmDeactivated()
+s1-prl_client_app.txt: 851796 1OnVmDeactivated()
+s1-prl_client_app.txt: 8517a9 2vmWndActivated()
+s1-prl_client_app.txt: 8517bb 1OnVmActivated()
+s1-prl_client_app.txt: 8517cc 2vmWndDeactivated()
+s1-prl_client_app.txt: 8593b4 PRL_ERR_DEACTIVATE_NO_INSTALLED_LICENSE
+s1-prl_client_app.txt: 85aaa1 GUI_INFO_PRODUCT_ACTIVATED_SUCCESSFULLY
+s1-prl_client_app.txt: 85b46a GUI_INFO_REGISTRATION_PRODUCT_ACTIVATED_OK
+s1-prl_client_app.txt: 85c821 GUI_INFO_PRODUCT_TRIAL_ACTIVATED_SUCCESSFULLY
+s1-prl_client_app.txt: 85c98c GUI_ERR_LICENSE_WAS_DEACTIVATED
+s1-prl_client_app.txt: 85c9ac GUI_ERR_LICENSE_WAS_DEACTIVATED_CONSUMER
+s1-prl_client_app.txt: 86199a PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED
+s1-prl_client_app.txt: 861caf PRL_ERR_WEB_PORTAL_LIC_PERM_KEY_IS_ALREADY_ACTIVATED
+s1-prl_client_app.txt: 861f0b PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED_CONSUMER
+s1-prl_client_app.txt: 86235c PRL_ERR_WEB_PORTAL_LIC_SSO_CANT_ACTIVATE_LIC_KEY
+s1-prl_client_app.txt: 863a6c PET_DSP_EVT_LICENSE_WAS_DEACTIVATED
+s1-prl_client_app.txt: 868d8a 21CTaskId_ActivateTrial
+s1-prl_client_app.txt:12793ed 			onLinkActivated: { Qt.openUrlExternally( link ); }
+s1-prl_client_app.txt:180850f 		onLinkActivated: root.helpRequested()
+s1-prl_client_app.txt:18090d1 		onLinkActivated: { Qt.openUrlExternally( link ); }
+s1-prl_client_app.txt:180a72a 					onLinkActivated: { Qt.openUrlExternally( link ); }
+s1-prl_client_app.txt:180ac60 		onLinkActivated: page.deletePartitionRequested()
+s1-prl_client_app.txt:180bac6 			onLinkActivated: { Qt.openUrlExternally( link ); }
+s1-prl_client_app.txt:180c593 		text: qsTr( "You should have received a license key when you purchased Windows.<br>Enter it now to simplify the installation and activate Windows automatically." )
+s1-prl_client_app.txt:180e1ee 		onLinkActivated: { Qt.openUrlExternally( link ); }
+s1-prl_client_app.txt:1810dd9 		onLinkActivated: { Qt.openUrlExternally( link ); }
+s1-prl_client_app.txt:1811d88 		onLinkActivated: { Qt.openUrlExternally( link ); }
+s1-prl_client_app.txt:1965936 				onLinkActivated: { Qt.openUrlExternally( link ); }
+s1-prl_client_app.txt:196f3f5 				onLinkActivated: { descriptionLinkClicked(); }
+s1-prl_client_app.txt:196f609 		onLinkActivated: { Qt.openUrlExternally( link ); }
+s1-prl_client_app.txt:1970407 					onLinkActivated: { Qt.openUrlExternally( link ); }
+s1-prl_client_app.txt:1970da1 				onLinkActivated: { Qt.openUrlExternally( link ); }
+s1-prl_client_app.txt:19e7bbb 		onLinkActivated: { Qt.openUrlExternally( link ); }
+s1-prl_client_app.txt:1a2601c 18CTaskActivateTrial
+s1-prl_client_app.txt:1a4320c 20ActivateSsoSessionId
+s1-prl_client_app.txt:1a5508c activateIgnoringOtherApps:
+s1-prl_client_app.txt:1a550a7 activateWithOptions:
+s1-prl_client_app.txt:1af4c3e onToolbarItemActivated
+s1-prl_client_app.txt:1afc2f8 onNoticationActivated
+s1-prl_client_app.txt:1afc954 onTaskActivateTrialStarted
+s1-prl_client_app.txt:1afc96f onTaskActivateTrialFinished
+s1-prl_client_app.txt:1afd071 onExposeActivated
+s1-prl_client_app.txt:1afe8f5 coherenceWindowActivated
+s1-prl_client_app.txt:1aff34c sigStubActivated
+s1-prl_client_app.txt:1aff859 sigStubActivated
+s1-prl_client_app.txt:1aff8df coherenceWindowActivated
+s1-prl_client_app.txt:1b04956 coherenceStubActivated
+s1-prl_client_app.txt:1b0496d coherenceWndActivated
+s1-prl_client_app.txt:1b04983 coherenceWndDeactivated
+s1-prl_client_app.txt:1b049b1 exposeActivated
+s1-prl_client_app.txt:1b04be8 exposeActivatedPrivate
+s1-prl_client_app.txt:1b05744 activate
+s1-prl_client_app.txt:1b05b2d onCoherenceWindowActivated
+s1-prl_client_app.txt:1b0dfc1 autoactivate
+s1-prl_client_app.txt:1b0e188 Autoactivate
+s1-prl_client_app.txt:1b10350 CTaskActivateTrial
+s1-prl_client_app.txt:1b1a954 bOnlyActivateCoherenceVm
+s1-prl_client_app.txt:1b1aedb activated
+s1-prl_client_app.txt:1b1afb3 activate
+s1-prl_client_app.txt:1b1b4a0 coherenceWndActivated
+s1-prl_client_app.txt:1b1b4b6 coherenceWndDeactivated
+s1-prl_client_app.txt:1b1c15a vmContextOrCoherenceWindowActivated
+s1-prl_client_app.txt:1b1c17f vmConsoleOrCoherenceWindowActivated
+s1-prl_client_app.txt:1b1c1a3 onCoherenceWndActivated
+s1-prl_client_app.txt:1b1c1bb onCoherenceWndDeactivated
+s1-prl_client_app.txt:1b1cb19 activated
+s1-prl_client_app.txt:1b1cb24 deactivated
+s1-prl_client_app.txt:1b1e2ce activated
+s1-prl_client_app.txt:1b1eb1f onExposeActivated
+s1-prl_client_app.txt:1b1f72f deactivateModality
+s1-prl_client_app.txt:1b1f9de deactivateModality
+s1-prl_client_app.txt:1b2091c updateActivateProductButton
+s1-prl_client_app.txt:1b20c0a linkActivated
+s1-prl_client_app.txt:1b20dca linkActivated
+s1-prl_client_app.txt:1b2260f linkActivated
+s1-prl_client_app.txt:1b23f20 onSelectFileLinkActivated
+s1-prl_client_app.txt:1b24250 onSystemMemoryLinkActivated
+s1-prl_client_app.txt:1b25e65 onToolbarItemActivated
+s1-prl_client_app.txt:1b2c32e onActivateWithSSOFinished
+s1-prl_client_app.txt:1b2cc83 activateWithSSOFinished
+s1-prl_client_app.txt:1b2e72a ActivateProduct
+s1-prl_client_app.txt:1b2f461 onActivateProduct
+s1-prl_client_app.txt:1b30e5c getActivateProductText
+s1-prl_client_app.txt:1b30ea6 isActivateProductVisible
+s1-prl_client_app.txt:1b35588 onActivateVmActionTriggered
+s1-prl_client_app.txt:1b35752 onTrayIconActivated
+s1-prl_client_app.txt:1b36b4c onCoherenceWindowActivated
+s1-prl_client_app.txt:1b39b58 optOutLinkActivated
+s1-prl_client_app.txt:1b39b78 onOptOutLinkActivated
+s1-prl_client_app.txt:1b39b8e onLinkActivated
+s1-prl_client_app.txt:1b39d37 onLinkActivated
+s1-prl_client_app.txt:1b3a0e7 onUsOptOutLinkActivated
+s1-prl_client_app.txt:1b3b303 Trial_activated
+s1-prl_client_app.txt:1b3b357 License_activated
+s1-prl_client_app.txt:1b3b4cf Grace_license_activated
+s1-prl_client_app.txt:1b3b5ad Restore_purchases_activated
+s1-prl_client_app.txt:1b3b5fd Have_subscription_activated
+s1-prl_client_app.txt:1b3b65e AppStore_Trial_activated
+s1-prl_client_app.txt:1b3b677 Subscription_activated
+s1-prl_client_app.txt:1b3bbc8 WritingTools_activated
+s1-prl_client_app.txt:1b404d0 ActivateSsoSessionId
+s1-prl_client_app.txt:1b40d79 activateWindow
+s1-prl_client_app.txt:1b41143 onCoherenceAppActivated
+s1-prl_client_app.txt:1b42b94 onStubActivated
+s1-prl_client_app.txt:1b43203 sigGuestActivate
+s1-prl_client_app.txt:1b43215 onGuestActivate
+s1-prl_client_app.txt:1b43710 windowActivated
+s1-prl_client_app.txt:1b43734 coherenceAppActivated
+s1-prl_client_app.txt:1b4374a vmActivated
+s1-prl_client_app.txt:1b4375b vmDeactivated
+s1-prl_client_app.txt:1b43769 stubActivated
+s1-prl_client_app.txt:1b43daf WindowActivatedSignal
+s1-prl_client_app.txt:1b43dd9 CoherenceStubActivated
+s1-prl_client_app.txt:1b43e12 VmActivatedSignal
+s1-prl_client_app.txt:1b43e29 VmDeactivatedSignal
+s1-prl_client_app.txt:1b43e3d StubActivatedSignal
+s1-prl_client_app.txt:1b43fcc OnVmActivated
+s1-prl_client_app.txt:1b43fda OnVmDeactivated
+s1-prl_client_app.txt:1b44257 vmDeactivated
+s1-prl_client_app.txt:1b44266 stubActivated
+s1-prl_client_app.txt:1b4428c vmWndActivated
+s1-prl_client_app.txt:1b4429b vmWndDeactivated
+s1-prl_client_app.txt:1b442ac onStubDeactivateTimeout
+s1-prl_client_app.txt:1b442c4 onWndDeactivateTimeout
+s1-prl_client_app.txt:1b44560 OnStubActivated
+s1-prl_client_app.txt:1b44584 OnVmDeactivated
+s1-prl_client_app.txt:1b52af6 @__ZN10QQuickItem21windowDeactivateEventEv
+s1-prl_client_app.txt:1b5673a @__ZN6QLabel13linkActivatedERK7QString
+s1-prl_client_app.txt:1b5953c @__ZN9QComboBox9activatedEi
+s1-prl_client_app.txt:1b6cb11 4 *@__ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s1-prl_client_app.txt:1b7beab @__ZN20CSystemStatusBarItem19setHideOnDeactivateEb
+s1-prl_client_app.txt:1b819db  #@__ZN7QAction8activateENS_11ActionEventE
+s1-prl_client_app.txt:1b81fe4  #@__ZN7QLayout8activateEv
+s1-prl_client_app.txt:1b839cb  #@__ZN7QWidget14activateWindowEv
+s1-prl_client_app.txt:1b841dd  %@__ZN7QWindow15requestActivateEv
+s1-prl_client_app.txt:1b887e8  #@__ZN9QComboBox9activatedEi
+s1-prl_client_app.txt:1b8d6e4 @__ZNK13CVmFullScreen23isActivateSpacesOnClickEv
+s1-prl_client_app.txt:1bcc778 __ZN10QQuickItem21windowDeactivateEventEv
+s1-prl_client_app.txt:1bce332 __ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s1-prl_client_app.txt:1bdf391 __ZN20CSystemStatusBarItem19setHideOnDeactivateEb
+s1-prl_client_app.txt:1be4bd3 __ZN6QLabel13linkActivatedERK7QString
+s1-prl_client_app.txt:1be5460 __ZN7QAction8activateENS_11ActionEventE
+s1-prl_client_app.txt:1be5a22 __ZN7QLayout8activateEv
+s1-prl_client_app.txt:1be713f __ZN7QWidget14activateWindowEv
+s1-prl_client_app.txt:1be795d __ZN7QWindow15requestActivateEv
+s1-prl_client_app.txt:1beba11 __ZN9QComboBox9activatedEi
+s1-prl_client_app.txt:1bf0bb4 __ZNK13CVmFullScreen23isActivateSpacesOnClickEv
+s10-prlctl.txt:  6ae10 Failed to deactivate the license: %s
+s10-prlctl.txt:  6ae35 The license has been successfully deactivated.
+s10-prlctl.txt:  6ae64 The license has been successfully deactivated on the local host. To complete the operation, you should manually deactivate the license on the server side.
+s10-prlctl.txt:  6dcfd PrlVmCfg_SetFullscreenActivateSpacesOnClick: %s
+s10-prlctl.txt:  6eae5 PrlVmCfg_IsFullscreenActivateSpacesOnClick
+s10-prlctl.txt:  6eb10 Activate spaces on click
+s10-prlctl.txt:  72129 An invalid value was specified for --fullscreen-activate-spaces-on-click: %s
+s10-prlctl.txt:  738c1 deactivate-license
+s10-prlctl.txt:  73fec fullscreen-activate-spaces-on-click
+s10-prlctl.txt:  74518 activate-online-immediately
+s10-prlctl.txt:  7476d   deactivate-license [--skip-network-errors]
+s10-prlctl.txt:  7ab59     --fullscreen-activate-spaces-on-click <on|off>                Enable/disable selecting VM to appear on all connected displays
+s10-prlctl.txt:  93547 @_PrlVmCfg_IsFullscreenActivateSpacesOnClick
+s10-prlctl.txt:  9440b @_PrlVmCfg_SetFullscreenActivateSpacesOnClick
+s10-prlctl.txt:  9f0c8 _PrlVmCfg_IsFullscreenActivateSpacesOnClick
+s10-prlctl.txt:  9fcec _PrlVmCfg_SetFullscreenActivateSpacesOnClick
+s2-prl_disp_service.txt: 5965b3 NSt3__120__shared_ptr_pointerIP22Task_DeactivateLicenseNS_10shared_ptrI14CDspTaskHelperE27__shared_ptr_default_deleteIS4_S1_EENS_9allocatorIS1_EEEE
+s2-prl_disp_service.txt: 596647 NSt3__110shared_ptrI14CDspTaskHelperE27__shared_ptr_default_deleteIS1_22Task_DeactivateLicenseEE
+s2-prl_disp_service.txt: 59f95c 22Task_DeactivateLicense
+s2-prl_disp_service.txt: 5a86c4 20ActivateSsoSessionId
+s2-prl_disp_service.txt: 6281d5 Unable to accept a command to activate online: rc = %s
+s2-prl_disp_service.txt: 62820c Will deactivate PDB license, if any..
+s2-prl_disp_service.txt: 628232 Unable to activate via SSO session ID, session ID is not provided.
+s2-prl_disp_service.txt: 628275 Unable to activate via SSO session ID, host ID is not provided.
+s2-prl_disp_service.txt: 6311f3 Log rotation timer activated, but task is already running
+s2-prl_disp_service.txt: 63226b Failed to deactivate current license. Another license operation is already running.
+s2-prl_disp_service.txt: 632459 deactivate_hw_id
+s2-prl_disp_service.txt: 632594 activated_hosts
+s2-prl_disp_service.txt: 6325d8 licensing/deactivate
+s2-prl_disp_service.txt: 632601 licensing/activate
+s2-prl_disp_service.txt: 632614 licensing/sso_activate
+s2-prl_disp_service.txt: 63270e License was successfully deactivated by server request.
+s2-prl_disp_service.txt: 63bac8 Start to deactivate license.
+s2-prl_disp_service.txt: 64237c activated_at
+s2-prl_disp_service.txt: 65c23a 2activated(int)
+s2-prl_disp_service.txt: 65cd7b HOST_IOCTL_VM_ACTIVATE_MONITOR
+s2-prl_disp_service.txt: 6625f8 host is deactivated
+s2-prl_disp_service.txt: 66295c can not activate within per user subscription through license key
+s2-prl_disp_service.txt: 68c778 PRL_ERR_DEACTIVATE_NO_INSTALLED_LICENSE
+s2-prl_disp_service.txt: 68de65 GUI_INFO_PRODUCT_ACTIVATED_SUCCESSFULLY
+s2-prl_disp_service.txt: 68e82e GUI_INFO_REGISTRATION_PRODUCT_ACTIVATED_OK
+s2-prl_disp_service.txt: 68fbe5 GUI_INFO_PRODUCT_TRIAL_ACTIVATED_SUCCESSFULLY
+s2-prl_disp_service.txt: 68fd50 GUI_ERR_LICENSE_WAS_DEACTIVATED
+s2-prl_disp_service.txt: 68fd70 GUI_ERR_LICENSE_WAS_DEACTIVATED_CONSUMER
+s2-prl_disp_service.txt: 694d5e PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED
+s2-prl_disp_service.txt: 695073 PRL_ERR_WEB_PORTAL_LIC_PERM_KEY_IS_ALREADY_ACTIVATED
+s2-prl_disp_service.txt: 6952cf PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED_CONSUMER
+s2-prl_disp_service.txt: 695720 PRL_ERR_WEB_PORTAL_LIC_SSO_CANT_ACTIVATE_LIC_KEY
+s2-prl_disp_service.txt: 696e30 PET_DSP_EVT_LICENSE_WAS_DEACTIVATED
+s2-prl_disp_service.txt: 6f56d0 Task_DeactivateLicense
+s2-prl_disp_service.txt: 6f6cf0 appActivated
+s2-prl_disp_service.txt: 6f6d04 appDeactivated
+s2-prl_disp_service.txt: 6f71d1 onAppActivated
+s2-prl_disp_service.txt: 6f71e0 onAppDeactivated
+s2-prl_disp_service.txt: 6f7c1a activateRetryTimer
+s2-prl_disp_service.txt: 71b11f activate
+s2-prl_disp_service.txt: 71b133 deactivate
+s2-prl_disp_service.txt: 71e978 ActivateSsoSessionId
+s2-prl_disp_service.txt: 73054f @__ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s2-prl_disp_service.txt: 76aeab __ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s3-libPrlXmlModel.txt: 7d8eea ActivateSpacesOnClick
+s3-libPrlXmlModel.txt: 7d8ff5 ActivateSpacesOnClick.patch_stamp
+s3-libPrlXmlModel.txt: 7d9091 .ActivateSpacesOnClick
+s3-libPrlXmlModel.txt: 7d92ee Warning in class 'CVmFullScreen': tag 'ActivateSpacesOnClick' is absent
+s3-libPrlXmlModel.txt: 84a045 4setActivateSpacesOnClickEb
+s3-libPrlXmlModel.txt: 84a0e3 2setActivateSpacesOnClickInternalEj
+s3-libPrlXmlModel.txt: 88af16 ActivateSpacesOnClick_idEv
+s3-libPrlXmlModel.txt: 88afa1 3isActivateSpacesOnClickEv
+s3-libPrlXmlModel.txt: 88b048 2getActivateSpacesOnClickInternalEv
+s3-libPrlXmlModel.txt: 908606 __ZN13CVmFullScreen24setActivateSpacesOnClickEb
+s3-libPrlXmlModel.txt: 908738 __ZN13CVmFullScreen32setActivateSpacesOnClickInternalEj
+s3-libPrlXmlModel.txt: 95f8da __ZNK13CVmFullScreen23isActivateSpacesOnClickEv
+s3-libPrlXmlModel.txt: 95f99f __ZNK13CVmFullScreen27getActivateSpacesOnClick_idEv
+s3-libPrlXmlModel.txt: 95faa8 __ZNK13CVmFullScreen32getActivateSpacesOnClickInternalEv
+s3-libPrlXmlModel.txt:11cbf0e ActivateSpacesOnClick
+s3-libPrlXmlModel.txt:11cc019 ActivateSpacesOnClick.patch_stamp
+s3-libPrlXmlModel.txt:11cc0b5 .ActivateSpacesOnClick
+s3-libPrlXmlModel.txt:11cc312 Warning in class 'CVmFullScreen': tag 'ActivateSpacesOnClick' is absent
+s3-libPrlXmlModel.txt:1242e62 4setActivateSpacesOnClickEb
+s3-libPrlXmlModel.txt:1242f02 2setActivateSpacesOnClickInternalEj
+s3-libPrlXmlModel.txt:1283d6e ActivateSpacesOnClick_idEv
+s3-libPrlXmlModel.txt:1283dfa 3isActivateSpacesOnClickEv
+s3-libPrlXmlModel.txt:1283ea3 2getActivateSpacesOnClickInternalEv
+s3-libPrlXmlModel.txt:13010ee __ZN13CVmFullScreen24setActivateSpacesOnClickEb
+s3-libPrlXmlModel.txt:1301220 __ZN13CVmFullScreen32setActivateSpacesOnClickInternalEj
+s3-libPrlXmlModel.txt:13583c2 __ZNK13CVmFullScreen23isActivateSpacesOnClickEv
+s3-libPrlXmlModel.txt:1358487 __ZNK13CVmFullScreen27getActivateSpacesOnClick_idEv
+s3-libPrlXmlModel.txt:1358590 __ZNK13CVmFullScreen32getActivateSpacesOnClickInternalEv
+s4-PrlVsdk.txt: 2c3597 The current copy of @PRL_PRODUCT_NAME%1 has been successfully activated.
+s4-PrlVsdk.txt: 2c35e3 The trial version of @PRL_PRODUCT_NAME%1 has been activated.
+s4-PrlVsdk.txt: 2c3c42 This product could not be activated because your activation key is invalid.
+s4-PrlVsdk.txt: 2c3cb5 This product could not be activated because your activation key is not valid for this version of @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 2c3d29 This product could not be activated because your activation key is designed for use with another Parallels product.
+s4-PrlVsdk.txt: 2c3d9d This product could not be activated because your activation key is designed for using @PRL_PRODUCT_NAME on another platform.
+s4-PrlVsdk.txt: 2c3e1a This product could not be activated because your activation key is designed for use with the Technical Preview version of @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 2c3ea7 This product could not be activated because your activation key is not designed for use with the Technical Preview version of @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 2c4003 Unable to deactivate the product.
+s4-PrlVsdk.txt: 2c4025 Your type of license cannot be deactivated.
+s4-PrlVsdk.txt: 2c4051 Parallels Desktop will be activated with the key provided by your administrator.
+s4-PrlVsdk.txt: 2c40a2 Your Parallels Desktop installation will be activated with a company key. Contact your IT administrator if you need further assistance.
+s4-PrlVsdk.txt: 2c412a Parallels Desktop can be activated using Single Sign-On only.
+s4-PrlVsdk.txt: 2c4356 The product is not activated.
+s4-PrlVsdk.txt: 2c610f The license on your @PRL_HOST_NAME has been deactivated.
+s4-PrlVsdk.txt: 2d1067 Your subscription has expired and cannot be used to activate the product.
+s4-PrlVsdk.txt: 2d11e0 This license was used to activate @PRL_PRODUCT_NAME on another @PRL_HOST_NAME. A new license is required to resume @PRL_PRODUCT_NAME on this @PRL_HOST_NAME.
+s4-PrlVsdk.txt: 2d1416 This license has reached its activation limit and can no longer be used to activate new product copies.
+s4-PrlVsdk.txt: 2d14eb This license is already activated on another @PRL_HOST_NAME. You must either deactivate the license and then activate it on this @PRL_HOST_NAME or purchase a new license.
+s4-PrlVsdk.txt: 2d1596 To activate @PRL_PRODUCT_NAME with this license, first you must register the license for the previous version of @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 2d168e Unable to activate @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 2d1b69 Unable to activate a trial version of @PRL_PRODUCT_NAME due to an internal error.
+s4-PrlVsdk.txt: 2d1c2b Unable to activate a trial version of @PRL_PRODUCT_NAME due to a server error.
+s4-PrlVsdk.txt: 2d1c7a To activate @PRL_PRODUCT_NAME @PRL_BUILD_NUMBER_RELEASE_MAJOR, this license key must be upgraded.
+s4-PrlVsdk.txt: 2d1cdc It cannot activate the current version because it was created for older versions of @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 2d2184 This product was activated for a limited period of time that has now expired.
+s4-PrlVsdk.txt: 2d4d1f Please try to reactivate @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 2d4d70 The license in this format cannot be used to activate @PRL_PRODUCT_NAME offline.
+s4-PrlVsdk.txt: 2daa5e This product could not be activated because your activation key is invalid for this version of Parallels Desktop.
+s4-PrlVsdk.txt: 2dcc11 t be able to use @PRL_PRODUCT_NAME until you sign in and activate the product again.
+s4-PrlVsdk.txt: 2dce1c This license is already used to activate @PRL_PRODUCT_NAME on another Mac. To activate @PRL_PRODUCT_NAME on this Mac, it is recommended that you purchase a new license.
+s4-PrlVsdk.txt: 2dcec5 If you choose to activate this license on this Mac, the other copy of @PRL_PRODUCT_NAME will be automatically deactivated.
+s4-PrlVsdk.txt: 2ddb65 If this is a key for Parallels Desktop <b>Business Edition</b>, please follow <a href="@PRL_KB_LINK">these instructions</a> or contact your system administrator.<br><br>If this is a key for <b>Standard</b> or <b>Pro Edition</b>, click Go Back, sign in or create a Parallels account and activate the key.
+s4-PrlVsdk.txt: 2ddc95 This key cannot be used to activate Parallels Desktop.
+s4-PrlVsdk.txt: 2ded13 To activate the product, please enter an active subscription key for @PRL_PRODUCT_NAME.<br><br><a href="%1">Learn more...</a>
+s4-PrlVsdk.txt: 2f9213 HOST_IOCTL_VM_ACTIVATE_MONITOR
+s4-PrlVsdk.txt: 3145f1 PRL_ERR_DEACTIVATE_NO_INSTALLED_LICENSE
+s4-PrlVsdk.txt: 315cde GUI_INFO_PRODUCT_ACTIVATED_SUCCESSFULLY
+s4-PrlVsdk.txt: 3166a7 GUI_INFO_REGISTRATION_PRODUCT_ACTIVATED_OK
+s4-PrlVsdk.txt: 317a5e GUI_INFO_PRODUCT_TRIAL_ACTIVATED_SUCCESSFULLY
+s4-PrlVsdk.txt: 317bc9 GUI_ERR_LICENSE_WAS_DEACTIVATED
+s4-PrlVsdk.txt: 317be9 GUI_ERR_LICENSE_WAS_DEACTIVATED_CONSUMER
+s4-PrlVsdk.txt: 31cbd7 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED
+s4-PrlVsdk.txt: 31ceec PRL_ERR_WEB_PORTAL_LIC_PERM_KEY_IS_ALREADY_ACTIVATED
+s4-PrlVsdk.txt: 31d148 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED_CONSUMER
+s4-PrlVsdk.txt: 31d599 PRL_ERR_WEB_PORTAL_LIC_SSO_CANT_ACTIVATE_LIC_KEY
+s4-PrlVsdk.txt: 31eca9 PET_DSP_EVT_LICENSE_WAS_DEACTIVATED
+s4-PrlVsdk.txt: 38a03d @__ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s4-PrlVsdk.txt: 38b158 @__ZN13CVmFullScreen24setActivateSpacesOnClickEb
+s4-PrlVsdk.txt: 39641b @__ZNK13CVmFullScreen23isActivateSpacesOnClickEv
+s4-PrlVsdk.txt: 3a32e0 ActivateSpacesOnClick
+s4-PrlVsdk.txt: 3a4111 ActivateSpacesOnClick
+s4-PrlVsdk.txt: 3c23d2 _PrlVmCfg_IsFullscreenActivateSpacesOnClick
+s4-PrlVsdk.txt: 3c34c3 _PrlVmCfg_SetFullscreenActivateSpacesOnClick
+s4-PrlVsdk.txt: 3c8906 __ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s4-PrlVsdk.txt: 3c98c6 __ZN13CVmFullScreen24setActivateSpacesOnClickEb
+s4-PrlVsdk.txt: 3d3881 __ZNK13CVmFullScreen23isActivateSpacesOnClickEv
+s4-PrlVsdk.txt: 6b4b68 The current copy of @PRL_PRODUCT_NAME%1 has been successfully activated.
+s4-PrlVsdk.txt: 6b4bb4 The trial version of @PRL_PRODUCT_NAME%1 has been activated.
+s4-PrlVsdk.txt: 6b5213 This product could not be activated because your activation key is invalid.
+s4-PrlVsdk.txt: 6b5286 This product could not be activated because your activation key is not valid for this version of @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 6b52fa This product could not be activated because your activation key is designed for use with another Parallels product.
+s4-PrlVsdk.txt: 6b536e This product could not be activated because your activation key is designed for using @PRL_PRODUCT_NAME on another platform.
+s4-PrlVsdk.txt: 6b53eb This product could not be activated because your activation key is designed for use with the Technical Preview version of @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 6b5478 This product could not be activated because your activation key is not designed for use with the Technical Preview version of @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 6b55d4 Unable to deactivate the product.
+s4-PrlVsdk.txt: 6b55f6 Your type of license cannot be deactivated.
+s4-PrlVsdk.txt: 6b5622 Parallels Desktop will be activated with the key provided by your administrator.
+s4-PrlVsdk.txt: 6b5673 Your Parallels Desktop installation will be activated with a company key. Contact your IT administrator if you need further assistance.
+s4-PrlVsdk.txt: 6b56fb Parallels Desktop can be activated using Single Sign-On only.
+s4-PrlVsdk.txt: 6b5927 The product is not activated.
+s4-PrlVsdk.txt: 6b76e0 The license on your @PRL_HOST_NAME has been deactivated.
+s4-PrlVsdk.txt: 6c2638 Your subscription has expired and cannot be used to activate the product.
+s4-PrlVsdk.txt: 6c27b1 This license was used to activate @PRL_PRODUCT_NAME on another @PRL_HOST_NAME. A new license is required to resume @PRL_PRODUCT_NAME on this @PRL_HOST_NAME.
+s4-PrlVsdk.txt: 6c29e7 This license has reached its activation limit and can no longer be used to activate new product copies.
+s4-PrlVsdk.txt: 6c2abc This license is already activated on another @PRL_HOST_NAME. You must either deactivate the license and then activate it on this @PRL_HOST_NAME or purchase a new license.
+s4-PrlVsdk.txt: 6c2b67 To activate @PRL_PRODUCT_NAME with this license, first you must register the license for the previous version of @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 6c2c5f Unable to activate @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 6c313a Unable to activate a trial version of @PRL_PRODUCT_NAME due to an internal error.
+s4-PrlVsdk.txt: 6c31fc Unable to activate a trial version of @PRL_PRODUCT_NAME due to a server error.
+s4-PrlVsdk.txt: 6c324b To activate @PRL_PRODUCT_NAME @PRL_BUILD_NUMBER_RELEASE_MAJOR, this license key must be upgraded.
+s4-PrlVsdk.txt: 6c32ad It cannot activate the current version because it was created for older versions of @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 6c3755 This product was activated for a limited period of time that has now expired.
+s4-PrlVsdk.txt: 6c62f0 Please try to reactivate @PRL_PRODUCT_NAME.
+s4-PrlVsdk.txt: 6c6341 The license in this format cannot be used to activate @PRL_PRODUCT_NAME offline.
+s4-PrlVsdk.txt: 6cc02f This product could not be activated because your activation key is invalid for this version of Parallels Desktop.
+s4-PrlVsdk.txt: 6ce1e2 t be able to use @PRL_PRODUCT_NAME until you sign in and activate the product again.
+s4-PrlVsdk.txt: 6ce3ed This license is already used to activate @PRL_PRODUCT_NAME on another Mac. To activate @PRL_PRODUCT_NAME on this Mac, it is recommended that you purchase a new license.
+s4-PrlVsdk.txt: 6ce496 If you choose to activate this license on this Mac, the other copy of @PRL_PRODUCT_NAME will be automatically deactivated.
+s4-PrlVsdk.txt: 6cf136 If this is a key for Parallels Desktop <b>Business Edition</b>, please follow <a href="@PRL_KB_LINK">these instructions</a> or contact your system administrator.<br><br>If this is a key for <b>Standard</b> or <b>Pro Edition</b>, click Go Back, sign in or create a Parallels account and activate the key.
+s4-PrlVsdk.txt: 6cf266 This key cannot be used to activate Parallels Desktop.
+s4-PrlVsdk.txt: 6d02e4 To activate the product, please enter an active subscription key for @PRL_PRODUCT_NAME.<br><br><a href="%1">Learn more...</a>
+s4-PrlVsdk.txt: 70592a PRL_ERR_DEACTIVATE_NO_INSTALLED_LICENSE
+s4-PrlVsdk.txt: 707017 GUI_INFO_PRODUCT_ACTIVATED_SUCCESSFULLY
+s4-PrlVsdk.txt: 7079e0 GUI_INFO_REGISTRATION_PRODUCT_ACTIVATED_OK
+s4-PrlVsdk.txt: 708d97 GUI_INFO_PRODUCT_TRIAL_ACTIVATED_SUCCESSFULLY
+s4-PrlVsdk.txt: 708f02 GUI_ERR_LICENSE_WAS_DEACTIVATED
+s4-PrlVsdk.txt: 708f22 GUI_ERR_LICENSE_WAS_DEACTIVATED_CONSUMER
+s4-PrlVsdk.txt: 70df10 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED
+s4-PrlVsdk.txt: 70e225 PRL_ERR_WEB_PORTAL_LIC_PERM_KEY_IS_ALREADY_ACTIVATED
+s4-PrlVsdk.txt: 70e481 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED_CONSUMER
+s4-PrlVsdk.txt: 70e8d2 PRL_ERR_WEB_PORTAL_LIC_SSO_CANT_ACTIVATE_LIC_KEY
+s4-PrlVsdk.txt: 70ffe2 PET_DSP_EVT_LICENSE_WAS_DEACTIVATED
+s4-PrlVsdk.txt: 76f423 @__ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s4-PrlVsdk.txt: 77053e @__ZN13CVmFullScreen24setActivateSpacesOnClickEb
+s4-PrlVsdk.txt: 77b8a6 @__ZNK13CVmFullScreen23isActivateSpacesOnClickEv
+s4-PrlVsdk.txt: 788790 ActivateSpacesOnClick
+s4-PrlVsdk.txt: 7895c1 ActivateSpacesOnClick
+s4-PrlVsdk.txt: 7a6efa _PrlVmCfg_IsFullscreenActivateSpacesOnClick
+s4-PrlVsdk.txt: 7a7feb _PrlVmCfg_SetFullscreenActivateSpacesOnClick
+s4-PrlVsdk.txt: 7ac969 __ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s4-PrlVsdk.txt: 7ad929 __ZN13CVmFullScreen24setActivateSpacesOnClickEb
+s4-PrlVsdk.txt: 7b7967 __ZNK13CVmFullScreen23isActivateSpacesOnClickEv
+s5-libPrlGui.txt: 228f02 activateWithOptions:
+s5-libPrlGui.txt: 22971a activateIgnoringOtherApps:
+s5-libPrlGui.txt: 22a985 foremostAppActivated:
+s5-libPrlGui.txt: 22aba5 hiliteAndActivateURLs:
+s5-libPrlGui.txt: 22ce76 setHidesOnDeactivate:
+s5-libPrlGui.txt: 22e9fb userNotificationCenter:didActivateNotification:
+s5-libPrlGui.txt: 2302c8 2activated()
+s5-libPrlGui.txt: 2302d5 1onMacToolbarItemActivated()
+s5-libPrlGui.txt: 232c5c GUI::GrabberDeactivatedReason
+s5-libPrlGui.txt: 232c7a GUI::GrabberActivatedReason
+s5-libPrlGui.txt: 2335ae Activated
+s5-libPrlGui.txt: 23b010 2linkActivated(QString)
+s5-libPrlGui.txt: 23f0cc If your administrator has set up Single Sign On, you can activate using your corporate email address.
+s5-libPrlGui.txt: 240c7a activate
+s5-libPrlGui.txt: 25aac6 HOST_IOCTL_VM_ACTIVATE_MONITOR
+s5-libPrlGui.txt: 25e9c0 host is deactivated
+s5-libPrlGui.txt: 25ed24 can not activate within per user subscription through license key
+s5-libPrlGui.txt: 262c1b PRL_ERR_DEACTIVATE_NO_INSTALLED_LICENSE
+s5-libPrlGui.txt: 264308 GUI_INFO_PRODUCT_ACTIVATED_SUCCESSFULLY
+s5-libPrlGui.txt: 264cd1 GUI_INFO_REGISTRATION_PRODUCT_ACTIVATED_OK
+s5-libPrlGui.txt: 266088 GUI_INFO_PRODUCT_TRIAL_ACTIVATED_SUCCESSFULLY
+s5-libPrlGui.txt: 2661f3 GUI_ERR_LICENSE_WAS_DEACTIVATED
+s5-libPrlGui.txt: 266213 GUI_ERR_LICENSE_WAS_DEACTIVATED_CONSUMER
+s5-libPrlGui.txt: 26b201 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED
+s5-libPrlGui.txt: 26b516 PRL_ERR_WEB_PORTAL_LIC_PERM_KEY_IS_ALREADY_ACTIVATED
+s5-libPrlGui.txt: 26b772 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED_CONSUMER
+s5-libPrlGui.txt: 26bbc3 PRL_ERR_WEB_PORTAL_LIC_SSO_CANT_ACTIVATE_LIC_KEY
+s5-libPrlGui.txt: 33338c 20ActivateSsoSessionId
+s5-libPrlGui.txt: 3682d6 TaskActivateTrial
+s5-libPrlGui.txt: 36a289 LICENSE_DLG_ACTIVATE
+s5-libPrlGui.txt: 36a29e LICENSE_DLG_ACTIVATE_OFFLINE
+s5-libPrlGui.txt: 36b44b onMacToolbarItemActivated
+s5-libPrlGui.txt: 36fc23 linkActivated
+s5-libPrlGui.txt: 3949a8 ActivateSsoSessionId
+s5-libPrlGui.txt: 39ad15 @__ZN10QQuickItem21windowDeactivateEventEv
+s5-libPrlGui.txt: 39d7cf @__ZN6QLabel13linkActivatedERK7QString
+s5-libPrlGui.txt: 39f34a @__ZN9QComboBox9activatedEi
+s5-libPrlGui.txt: 3a27ce @_NSWorkspaceDidActivateApplicationNotification
+s5-libPrlGui.txt: 3a98bb  %@__ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s5-libPrlGui.txt: 3b13f5 @__ZN7QAction8activateENS_11ActionEventE
+s5-libPrlGui.txt: 3b191a @__ZN7QLayout8activateEv
+s5-libPrlGui.txt: 3b2d45 @__ZN7QWidget14activateWindowEv
+s5-libPrlGui.txt: 3c6c15 tryReactivateMessageERK12CMessageInfo
+s5-libPrlGui.txt: 3c8520 3linkActivatedERK7QString
+s5-libPrlGui.txt: 3cbf38 9setHideOnDeactivateEb
+s5-libPrlGui.txt: 3d4c1b activateApplicationERK7QString
+s5-libPrlGui.txt: 3d5867 WindowHidesOnDeactivateERK7QWidgetb
+s5-libPrlGui.txt: 3da121 8isHideOnDeactivateEv
+s5-libPrlGui.txt: 410502 __ZN17CMessageProcessor20tryReactivateMessageERK12CMessageInfo
+s5-libPrlGui.txt: 41242a __ZN18CProgressIndicator13linkActivatedERK7QString
+s5-libPrlGui.txt: 417504 __ZN20CSystemStatusBarItem19setHideOnDeactivateEb
+s5-libPrlGui.txt: 423d54 __ZN8MacUtils19activateApplicationERK7QString
+s5-libPrlGui.txt: 424cfd __ZN8MacUtils26setWindowHidesOnDeactivateERK7QWidgetb
+s5-libPrlGui.txt: 42a397 __ZNK20CSystemStatusBarItem18isHideOnDeactivateEv
+s5-libPrlGui.txt: 43308a _NSWorkspaceDidActivateApplicationNotification
+s5-libPrlGui.txt: 4352a3 __ZN10QQuickItem21windowDeactivateEventEv
+s5-libPrlGui.txt: 435de1 __ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s5-libPrlGui.txt: 43e89b __ZN6QLabel13linkActivatedERK7QString
+s5-libPrlGui.txt: 43ee1b __ZN7QAction8activateENS_11ActionEventE
+s5-libPrlGui.txt: 43f37d __ZN7QLayout8activateEv
+s5-libPrlGui.txt: 4407ac __ZN7QWidget14activateWindowEv
+s5-libPrlGui.txt: 44212e __ZN9QComboBox9activatedEi
+s5-libPrlGui.txt: 691a49 2activated()
+s5-libPrlGui.txt: 691a56 1onMacToolbarItemActivated()
+s5-libPrlGui.txt: 6943dd GUI::GrabberDeactivatedReason
+s5-libPrlGui.txt: 6943fb GUI::GrabberActivatedReason
+s5-libPrlGui.txt: 694d2f Activated
+s5-libPrlGui.txt: 69c78f 2linkActivated(QString)
+s5-libPrlGui.txt: 6a084d If your administrator has set up Single Sign On, you can activate using your corporate email address.
+s5-libPrlGui.txt: 6a23fb activate
+s5-libPrlGui.txt: 6bfef0 host is deactivated
+s5-libPrlGui.txt: 6c0254 can not activate within per user subscription through license key
+s5-libPrlGui.txt: 6c414b PRL_ERR_DEACTIVATE_NO_INSTALLED_LICENSE
+s5-libPrlGui.txt: 6c5838 GUI_INFO_PRODUCT_ACTIVATED_SUCCESSFULLY
+s5-libPrlGui.txt: 6c6201 GUI_INFO_REGISTRATION_PRODUCT_ACTIVATED_OK
+s5-libPrlGui.txt: 6c75b8 GUI_INFO_PRODUCT_TRIAL_ACTIVATED_SUCCESSFULLY
+s5-libPrlGui.txt: 6c7723 GUI_ERR_LICENSE_WAS_DEACTIVATED
+s5-libPrlGui.txt: 6c7743 GUI_ERR_LICENSE_WAS_DEACTIVATED_CONSUMER
+s5-libPrlGui.txt: 6cc731 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED
+s5-libPrlGui.txt: 6cca46 PRL_ERR_WEB_PORTAL_LIC_PERM_KEY_IS_ALREADY_ACTIVATED
+s5-libPrlGui.txt: 6ccca2 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED_CONSUMER
+s5-libPrlGui.txt: 6cd0f3 PRL_ERR_WEB_PORTAL_LIC_SSO_CANT_ACTIVATE_LIC_KEY
+s5-libPrlGui.txt: 6cfd33 activateWithOptions:
+s5-libPrlGui.txt: 6d0555 activateIgnoringOtherApps:
+s5-libPrlGui.txt: 6d17c0 foremostAppActivated:
+s5-libPrlGui.txt: 6d19e0 hiliteAndActivateURLs:
+s5-libPrlGui.txt: 6d3cb1 setHidesOnDeactivate:
+s5-libPrlGui.txt: 6d5836 userNotificationCenter:didActivateNotification:
+s5-libPrlGui.txt: 79b5f4 20ActivateSsoSessionId
+s5-libPrlGui.txt: 7dc1c6 TaskActivateTrial
+s5-libPrlGui.txt: 7de179 LICENSE_DLG_ACTIVATE
+s5-libPrlGui.txt: 7de18e LICENSE_DLG_ACTIVATE_OFFLINE
+s5-libPrlGui.txt: 7df33b onMacToolbarItemActivated
+s5-libPrlGui.txt: 7e3b13 linkActivated
+s5-libPrlGui.txt: 8088a0 ActivateSsoSessionId
+s5-libPrlGui.txt: 810d29 @__ZN10QQuickItem21windowDeactivateEventEv
+s5-libPrlGui.txt: 8137e3 @__ZN6QLabel13linkActivatedERK7QString
+s5-libPrlGui.txt: 81535e @__ZN9QComboBox9activatedEi
+s5-libPrlGui.txt: 8187e2 @_NSWorkspaceDidActivateApplicationNotification
+s5-libPrlGui.txt: 81f1de  %@__ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s5-libPrlGui.txt: 826cbc @__ZN7QAction8activateENS_11ActionEventE
+s5-libPrlGui.txt: 8271e1 @__ZN7QLayout8activateEv
+s5-libPrlGui.txt: 82860c @__ZN7QWidget14activateWindowEv
+s5-libPrlGui.txt: 83c51d tryReactivateMessageERK12CMessageInfo
+s5-libPrlGui.txt: 83de28 3linkActivatedERK7QString
+s5-libPrlGui.txt: 841840 9setHideOnDeactivateEb
+s5-libPrlGui.txt: 84a523 activateApplicationERK7QString
+s5-libPrlGui.txt: 84b16f WindowHidesOnDeactivateERK7QWidgetb
+s5-libPrlGui.txt: 84fa29 8isHideOnDeactivateEv
+s5-libPrlGui.txt: 8855ea __ZN17CMessageProcessor20tryReactivateMessageERK12CMessageInfo
+s5-libPrlGui.txt: 887512 __ZN18CProgressIndicator13linkActivatedERK7QString
+s5-libPrlGui.txt: 88c5ec __ZN20CSystemStatusBarItem19setHideOnDeactivateEb
+s5-libPrlGui.txt: 898e3c __ZN8MacUtils19activateApplicationERK7QString
+s5-libPrlGui.txt: 899de5 __ZN8MacUtils26setWindowHidesOnDeactivateERK7QWidgetb
+s5-libPrlGui.txt: 89f47f __ZNK20CSystemStatusBarItem18isHideOnDeactivateEv
+s5-libPrlGui.txt: 8a7c21 _NSWorkspaceDidActivateApplicationNotification
+s5-libPrlGui.txt: 8a9e3a __ZN10QQuickItem21windowDeactivateEventEv
+s5-libPrlGui.txt: 8aa978 __ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s5-libPrlGui.txt: 8b33e4 __ZN6QLabel13linkActivatedERK7QString
+s5-libPrlGui.txt: 8b3964 __ZN7QAction8activateENS_11ActionEventE
+s5-libPrlGui.txt: 8b3ec6 __ZN7QLayout8activateEv
+s5-libPrlGui.txt: 8b52f5 __ZN7QWidget14activateWindowEv
+s5-libPrlGui.txt: 8b6c77 __ZN9QComboBox9activatedEi
+s6-ProxyAppCore.txt:  58f7f activateWindow:
+s6-ProxyAppCore.txt:  59639 wasDidActivated
+s6-ProxyAppCore.txt:  5a46b activateActionInMenu:
+s6-ProxyAppCore.txt:  5a481 activateApp:
+s6-ProxyAppCore.txt:  5a48e activateCustomActionInMenu:
+s6-ProxyAppCore.txt:  5a4aa activateIgnoringOtherApps:
+s6-ProxyAppCore.txt:  5a4c5 activateItemInMenu:
+s6-ProxyAppCore.txt:  5a4d9 activateWithOptions:
+s6-ProxyAppCore.txt:  5c05a helpContextModeActivated:
+s6-ProxyAppCore.txt:  5c0cd hiliteAndActivateURLs:
+s6-ProxyAppCore.txt:  5f7c9 wasWillActivated
+s6-ProxyAppCore.txt:  60e5e helpContextModeActivated
+s6-ProxyAppCore.txt:  7502d @_NSContextHelpModeDidActivateNotification
+s6-ProxyAppCore.txt:  76f73 @__ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s6-ProxyAppCore.txt:  7c6bd _NSContextHelpModeDidActivateNotification
+s6-ProxyAppCore.txt:  7d868 __ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s7-libPrlSdkCommunication.txt:  32941 PRL_ERR_DEACTIVATE_NO_INSTALLED_LICENSE
+s7-libPrlSdkCommunication.txt:  3402e GUI_INFO_PRODUCT_ACTIVATED_SUCCESSFULLY
+s7-libPrlSdkCommunication.txt:  349f7 GUI_INFO_REGISTRATION_PRODUCT_ACTIVATED_OK
+s7-libPrlSdkCommunication.txt:  35dae GUI_INFO_PRODUCT_TRIAL_ACTIVATED_SUCCESSFULLY
+s7-libPrlSdkCommunication.txt:  35f19 GUI_ERR_LICENSE_WAS_DEACTIVATED
+s7-libPrlSdkCommunication.txt:  35f39 GUI_ERR_LICENSE_WAS_DEACTIVATED_CONSUMER
+s7-libPrlSdkCommunication.txt:  3af27 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED
+s7-libPrlSdkCommunication.txt:  3b23c PRL_ERR_WEB_PORTAL_LIC_PERM_KEY_IS_ALREADY_ACTIVATED
+s7-libPrlSdkCommunication.txt:  3b498 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED_CONSUMER
+s7-libPrlSdkCommunication.txt:  3b8e9 PRL_ERR_WEB_PORTAL_LIC_SSO_CANT_ACTIVATE_LIC_KEY
+s7-libPrlSdkCommunication.txt:  3d003 PET_DSP_EVT_LICENSE_WAS_DEACTIVATED
+s7-libPrlSdkCommunication.txt:  44d52 @__ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s7-libPrlSdkCommunication.txt:  4be99 __ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s7-libPrlSdkCommunication.txt:  764a9 PRL_ERR_DEACTIVATE_NO_INSTALLED_LICENSE
+s7-libPrlSdkCommunication.txt:  77b96 GUI_INFO_PRODUCT_ACTIVATED_SUCCESSFULLY
+s7-libPrlSdkCommunication.txt:  7855f GUI_INFO_REGISTRATION_PRODUCT_ACTIVATED_OK
+s7-libPrlSdkCommunication.txt:  79916 GUI_INFO_PRODUCT_TRIAL_ACTIVATED_SUCCESSFULLY
+s7-libPrlSdkCommunication.txt:  79a81 GUI_ERR_LICENSE_WAS_DEACTIVATED
+s7-libPrlSdkCommunication.txt:  79aa1 GUI_ERR_LICENSE_WAS_DEACTIVATED_CONSUMER
+s7-libPrlSdkCommunication.txt:  7ea8f PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED
+s7-libPrlSdkCommunication.txt:  7eda4 PRL_ERR_WEB_PORTAL_LIC_PERM_KEY_IS_ALREADY_ACTIVATED
+s7-libPrlSdkCommunication.txt:  7f000 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED_CONSUMER
+s7-libPrlSdkCommunication.txt:  7f451 PRL_ERR_WEB_PORTAL_LIC_SSO_CANT_ACTIVATE_LIC_KEY
+s7-libPrlSdkCommunication.txt:  80b6b PET_DSP_EVT_LICENSE_WAS_DEACTIVATED
+s7-libPrlSdkCommunication.txt:  94d62 @__ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s7-libPrlSdkCommunication.txt:  9be89 __ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s8-prl_vm_app.txt: a0660c activate
+s8-prl_vm_app.txt: a10bea ActivateSpacesOnClick
+s8-prl_vm_app.txt: a23ced devices.sfilter.adev_activate
+s8-prl_vm_app.txt: a60348 devices.net.activate_iterations
+s8-prl_vm_app.txt: a60368 devices.net.activate_resched
+s8-prl_vm_app.txt: a60703 activate
+s8-prl_vm_app.txt: a6510a TPM_CMD_ActivateCredential
+s8-prl_vm_app.txt: aa4114 hdd: disk failure DFE_POWER_OFF_ON_WRITE activated!
+s8-prl_vm_app.txt: ae9417 app                          e1000[%d] Activate
+s8-prl_vm_app.txt: ae96c9 SFILTER_ACTIVATE
+s8-prl_vm_app.txt: aea117 APP_CMD_API_ACTIVATE3
+s8-prl_vm_app.txt: af6d44 PRL_ERR_DEACTIVATE_NO_INSTALLED_LICENSE
+s8-prl_vm_app.txt: af8431 GUI_INFO_PRODUCT_ACTIVATED_SUCCESSFULLY
+s8-prl_vm_app.txt: af8dfa GUI_INFO_REGISTRATION_PRODUCT_ACTIVATED_OK
+s8-prl_vm_app.txt: afa1b1 GUI_INFO_PRODUCT_TRIAL_ACTIVATED_SUCCESSFULLY
+s8-prl_vm_app.txt: afa31c GUI_ERR_LICENSE_WAS_DEACTIVATED
+s8-prl_vm_app.txt: afa33c GUI_ERR_LICENSE_WAS_DEACTIVATED_CONSUMER
+s8-prl_vm_app.txt: aff32a PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED
+s8-prl_vm_app.txt: aff63f PRL_ERR_WEB_PORTAL_LIC_PERM_KEY_IS_ALREADY_ACTIVATED
+s8-prl_vm_app.txt: aff89b PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED_CONSUMER
+s8-prl_vm_app.txt: affcec PRL_ERR_WEB_PORTAL_LIC_SSO_CANT_ACTIVATE_LIC_KEY
+s8-prl_vm_app.txt: b013fc PET_DSP_EVT_LICENSE_WAS_DEACTIVATED
+s8-prl_vm_app.txt: b156bb N14CUsbController15ActivateSyncReqE
+s8-prl_vm_app.txt: cbb337 activated
+s8-prl_vm_app.txt: cd80f6 activated
+s8-prl_vm_app.txt: ce6ae5 activated
+s8-prl_vm_app.txt: cfbbac @__ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s8-prl_vm_app.txt: d1e69d __ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s9-prl_macvm_app.txt: 2233f6 ActivateSpacesOnClick
+s9-prl_macvm_app.txt: 24506c PRL_ERR_DEACTIVATE_NO_INSTALLED_LICENSE
+s9-prl_macvm_app.txt: 246759 GUI_INFO_PRODUCT_ACTIVATED_SUCCESSFULLY
+s9-prl_macvm_app.txt: 247122 GUI_INFO_REGISTRATION_PRODUCT_ACTIVATED_OK
+s9-prl_macvm_app.txt: 2484d9 GUI_INFO_PRODUCT_TRIAL_ACTIVATED_SUCCESSFULLY
+s9-prl_macvm_app.txt: 248644 GUI_ERR_LICENSE_WAS_DEACTIVATED
+s9-prl_macvm_app.txt: 248664 GUI_ERR_LICENSE_WAS_DEACTIVATED_CONSUMER
+s9-prl_macvm_app.txt: 24d652 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED
+s9-prl_macvm_app.txt: 24d967 PRL_ERR_WEB_PORTAL_LIC_PERM_KEY_IS_ALREADY_ACTIVATED
+s9-prl_macvm_app.txt: 24dbc3 PRL_ERR_WEB_PORTAL_LIC_HOST_IS_DEACTIVATED_CONSUMER
+s9-prl_macvm_app.txt: 24e014 PRL_ERR_WEB_PORTAL_LIC_SSO_CANT_ACTIVATE_LIC_KEY
+s9-prl_macvm_app.txt: 24ff68 activateIgnoringOtherApps:
+s9-prl_macvm_app.txt: 27a973 onSocketActivated
+s9-prl_macvm_app.txt: 27db90 @__ZN15QSocketNotifier9activatedE17QSocketDescriptorNS_4TypeENS_14QPrivateSignalE
+s9-prl_macvm_app.txt: 2805e1 @__ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s9-prl_macvm_app.txt: 28ed38 __ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+s9-prl_macvm_app.txt: 28f3ac __ZN15QSocketNotifier9activatedE17QSocketDescriptorNS_4TypeENS_14QPrivateSignalE

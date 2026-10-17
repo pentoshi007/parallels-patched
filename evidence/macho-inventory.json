@@ -1,0 +1,1246 @@
+[
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/libmetalirconverter.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 86191488,
+  "hits": {
+   "account": 7,
+   "upgrade": 452,
+   "token": 653
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/libPrlXmlModel.1.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 20538864,
+  "hits": {
+   "licens": 84,
+   "activation": 40,
+   "trial": 40,
+   "subscription": 12,
+   "parallels.com": 8,
+   "account": 238,
+   "renew": 20,
+   "upgrade": 68,
+   "token": 44
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/libPrlSdkCommunication.1.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 662992,
+  "hits": {
+   "licens": 68,
+   "activation": 12,
+   "trial": 20,
+   "subscription": 2,
+   "expired": 26,
+   "receipt": 4,
+   "account": 14,
+   "renew": 4,
+   "purchase": 4,
+   "upgrade": 34,
+   "token": 4
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/libAbstractTask.1.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 535536,
+  "hits": {
+   "licens": 54,
+   "activation": 12,
+   "trial": 16,
+   "subscription": 2,
+   "expired": 22,
+   "receipt": 4,
+   "account": 14,
+   "renew": 4,
+   "purchase": 4,
+   "upgrade": 16,
+   "token": 4
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/libPrlGui.3.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 9206048,
+  "hits": {
+   "licens": 224,
+   "activation": 44,
+   "genuine": 1,
+   "trial": 88,
+   "subscription": 18,
+   "parallels.com": 24,
+   "expired": 28,
+   "receipt": 18,
+   "hardware id": 2,
+   "account": 348,
+   "renew": 14,
+   "purchase": 12,
+   "upgrade": 116,
+   "token": 124
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/libwimlib.1.dylib",
+  "archs": [
+   "arm64"
+  ],
+  "size": 309616,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/libprl_mspack.dylib",
+  "archs": [
+   "arm64"
+  ],
+  "size": 101920,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/libDaApiWrap.1.dylib",
+  "archs": [
+   "x86_64"
+  ],
+  "size": 3855680,
+  "hits": {
+   "token": 5
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/libOSMesa.8.dylib",
+  "archs": [
+   "arm64"
+  ],
+  "size": 14979504,
+  "hits": {
+   "licens": 8,
+   "expired": 1,
+   "token": 25
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQuickTemplates2.framework/QtQuickTemplates2",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 2625200,
+  "hits": {
+   "activation": 24
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQuickTemplates2.framework/Versions/5/QtQuickTemplates2",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 2625200,
+  "hits": {
+   "activation": 24
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtGui.framework/QtGui",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 11630640,
+  "hits": {
+   "activation": 56,
+   "token": 24
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtGui.framework/Versions/5/QtGui",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 11630640,
+  "hits": {
+   "activation": 56,
+   "token": 24
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQmlModels.framework/QtQmlModels",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 1026272,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQmlModels.framework/Versions/5/QtQmlModels",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 1026272,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/PDControlCenter.framework/PDControlCenter",
+  "archs": [
+   "arm64"
+  ],
+  "size": 195984,
+  "hits": {
+   "account": 4
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/PDControlCenter.framework/Versions/A/PDControlCenter",
+  "archs": [
+   "arm64"
+  ],
+  "size": 195984,
+  "hits": {
+   "account": 4
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtXml.framework/QtXml",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 599008,
+  "hits": {
+   "token": 8
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtXml.framework/Versions/5/QtXml",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 599008,
+  "hits": {
+   "token": 8
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQuick.framework/QtQuick",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 9014400,
+  "hits": {
+   "expired": 4,
+   "token": 6
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQuick.framework/Versions/5/QtQuick",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 9014400,
+  "hits": {
+   "expired": 4,
+   "token": 6
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPrintSupport.framework/QtPrintSupport",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 708768,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPrintSupport.framework/Versions/5/QtPrintSupport",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 708768,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/ProxyAppCore.framework/ProxyAppCore",
+  "archs": [
+   "arm64"
+  ],
+  "size": 539216,
+  "hits": {
+   "activation": 23,
+   "subscription": 6,
+   "parallels.com": 1,
+   "token": 1
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/ProxyAppCore.framework/Versions/1/ProxyAppCore",
+  "archs": [
+   "arm64"
+  ],
+  "size": 539216,
+  "hits": {
+   "activation": 23,
+   "subscription": 6,
+   "parallels.com": 1,
+   "token": 1
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtNetwork.framework/QtNetwork",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 2649280,
+  "hits": {
+   "expired": 18,
+   "upgrade": 8
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtNetwork.framework/Versions/5/QtNetwork",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 2649280,
+  "hits": {
+   "expired": 18,
+   "upgrade": 8
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQmlWorkerScript.framework/QtQmlWorkerScript",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 215936,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQmlWorkerScript.framework/Versions/5/QtQmlWorkerScript",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 215936,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtConcurrent.framework/QtConcurrent",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 156736,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtConcurrent.framework/Versions/5/QtConcurrent",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 156736,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtMacExtras.framework/QtMacExtras",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 212720,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtMacExtras.framework/Versions/5/QtMacExtras",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 212720,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtSql.framework/QtSql",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 523792,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtSql.framework/Versions/5/QtSql",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 523792,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtWidgets.framework/QtWidgets",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 11740560,
+  "hits": {
+   "licens": 12,
+   "activation": 22
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtWidgets.framework/Versions/5/QtWidgets",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 11740560,
+  "hits": {
+   "licens": 12,
+   "activation": 22
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtCore.framework/QtCore",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 12219008,
+  "hits": {
+   "licens": 6,
+   "activation": 4,
+   "expired": 8,
+   "account": 6,
+   "token": 20
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtCore.framework/Versions/5/QtCore",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 12219008,
+  "hits": {
+   "licens": 6,
+   "activation": 4,
+   "expired": 8,
+   "account": 6,
+   "token": 20
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/ParallelsVirtualizationSDK.framework/ParallelsVirtualizationSDK",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 8150576,
+  "hits": {
+   "licens": 240,
+   "activation": 66,
+   "genuine": 5,
+   "trial": 96,
+   "subscription": 24,
+   "parallels.com": 34,
+   "expired": 60,
+   "receipt": 12,
+   "hardware id": 2,
+   "account": 84,
+   "renew": 10,
+   "purchase": 48,
+   "upgrade": 82,
+   "token": 36
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/ParallelsVirtualizationSDK.framework/Versions/11/ParallelsVirtualizationSDK",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 8150576,
+  "hits": {
+   "licens": 240,
+   "activation": 66,
+   "genuine": 5,
+   "trial": 96,
+   "subscription": 24,
+   "parallels.com": 34,
+   "expired": 60,
+   "receipt": 12,
+   "hardware id": 2,
+   "account": 84,
+   "renew": 10,
+   "purchase": 48,
+   "upgrade": 82,
+   "token": 36
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/ParallelsVirtualizationSDK.framework/Versions/11/libprl_sdk.11.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 8150576,
+  "hits": {
+   "licens": 240,
+   "activation": 66,
+   "genuine": 5,
+   "trial": 96,
+   "subscription": 24,
+   "parallels.com": 34,
+   "expired": 60,
+   "receipt": 12,
+   "hardware id": 2,
+   "account": 84,
+   "renew": 10,
+   "purchase": 48,
+   "upgrade": 82,
+   "token": 36
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/PDCocoaKit.framework/PDCocoaKit",
+  "archs": [
+   "arm64"
+  ],
+  "size": 233056,
+  "hits": {
+   "parallels.com": 1,
+   "upgrade": 26
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/PDCocoaKit.framework/Versions/A/PDCocoaKit",
+  "archs": [
+   "arm64"
+  ],
+  "size": 233056,
+  "hits": {
+   "parallels.com": 1,
+   "upgrade": 26
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQuickControls2.framework/QtQuickControls2",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 492816,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQuickControls2.framework/Versions/5/QtQuickControls2",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 492816,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/styles/libqmacstyle.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 495808,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/quick/libqtquicktemplates2plugin.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 905440,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/quick/libqtquick2plugin.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 153072,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/quick/libqtquickcontrols2plugin.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 731680,
+  "hits": {
+   "licens": 1872
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/quick/libwindowplugin.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 201936,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/quick/libqquicklayoutsplugin.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 337248,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/quick/libqtgraphicaleffectsplugin.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 234768,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/quick/libwidgetsplugin.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 388704,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/quick/libqtgraphicaleffectsprivate.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 232560,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/platforms/libqcocoa.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 1967568,
+  "hits": {
+   "activation": 8,
+   "token": 2
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/sqldrivers/libqsqlite.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 2785072,
+  "hits": {
+   "token": 29
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/imageformats/libqgif.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 172224,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/imageformats/libqtiff.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 965152,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtPlugIns/imageformats/libqjpeg.dylib",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 803152,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQuickWidgets.framework/QtQuickWidgets",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 265360,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQuickWidgets.framework/Versions/5/QtQuickWidgets",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 265360,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQml.framework/QtQml",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 7851008,
+  "hits": {
+   "upgrade": 2,
+   "token": 26
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtQml.framework/Versions/5/QtQml",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 7851008,
+  "hits": {
+   "upgrade": 2,
+   "token": 26
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtScript.framework/QtScript",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 3199584,
+  "hits": {
+   "activation": 30
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Frameworks/QtScript.framework/Versions/5/QtScript",
+  "archs": [
+   "x86_64",
+   "arm64"
+  ],
+  "size": 3199584,
+  "hits": {
+   "activation": 30
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/PlugIns/com.parallels.desktop.console.OpenInIE.appex/Contents/MacOS/com.parallels.desktop.console.OpenInIE",
+  "archs": [
+   "arm64"
+  ],
+  "size": 70416,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/PlugIns/com.parallels.desktop.console.ParallelsMail.appex/Contents/MacOS/com.parallels.desktop.console.ParallelsMail",
+  "archs": [
+   "arm64"
+  ],
+  "size": 70848,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/PlugIns/com.parallels.desktop.console.ExeQLPlugin.appex/Contents/MacOS/com.parallels.desktop.console.ExeQLPlugin",
+  "archs": [
+   "arm64"
+  ],
+  "size": 71424,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Resources/libprl_shared_apps.dylib",
+  "archs": [
+   "arm64"
+  ],
+  "size": 35392,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/Resources/launchd_wrapper",
+  "archs": [
+   "arm64"
+  ],
+  "size": 70976,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_macvm_helper",
+  "archs": [
+   "arm64"
+  ],
+  "size": 89424,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_naptd",
+  "archs": [
+   "arm64"
+  ],
+  "size": 536736,
+  "hits": {
+   "licens": 1,
+   "parallels.com": 1,
+   "expired": 2,
+   "account": 2
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_bglaunch",
+  "archs": [
+   "arm64"
+  ],
+  "size": 69472,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_switchspaces",
+  "archs": [
+   "arm64"
+  ],
+  "size": 86608,
+  "hits": {
+   "activation": 1,
+   "token": 1
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_vmarchiver",
+  "archs": [
+   "arm64"
+  ],
+  "size": 69776,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_disk_tool",
+  "archs": [
+   "x86_64"
+  ],
+  "size": 505088,
+  "hits": {
+   "licens": 27,
+   "activation": 6,
+   "trial": 8,
+   "subscription": 1,
+   "expired": 11,
+   "receipt": 2,
+   "account": 7,
+   "renew": 2,
+   "purchase": 2,
+   "upgrade": 8,
+   "token": 2
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/libMonitorArm.dylib",
+  "archs": [
+   "arm64"
+  ],
+  "size": 1011216,
+  "hits": {
+   "activation": 1,
+   "token": 2
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_esd2iso",
+  "archs": [
+   "arm64"
+  ],
+  "size": 69600,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_convert",
+  "archs": [
+   "x86_64"
+  ],
+  "size": 1712880,
+  "hits": {
+   "licens": 27,
+   "activation": 6,
+   "trial": 8,
+   "subscription": 1,
+   "parallels.com": 1,
+   "expired": 11,
+   "receipt": 2,
+   "account": 7,
+   "renew": 2,
+   "purchase": 2,
+   "upgrade": 15,
+   "token": 2
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_update_helper",
+  "archs": [
+   "arm64"
+  ],
+  "size": 89808,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_ls_users",
+  "archs": [
+   "arm64"
+  ],
+  "size": 69824,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prllog",
+  "archs": [
+   "arm64"
+  ],
+  "size": 70160,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prlsrvctl",
+  "archs": [
+   "arm64"
+  ],
+  "size": 686912,
+  "hits": {
+   "licens": 35,
+   "activation": 1,
+   "trial": 1,
+   "parallels.com": 1,
+   "expired": 1,
+   "hardware id": 1,
+   "account": 2,
+   "token": 2
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prlctl",
+  "archs": [
+   "arm64"
+  ],
+  "size": 686912,
+  "hits": {
+   "licens": 35,
+   "activation": 1,
+   "trial": 1,
+   "parallels.com": 1,
+   "expired": 1,
+   "hardware id": 1,
+   "account": 2,
+   "token": 2
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_packer_inplace",
+  "archs": [
+   "arm64"
+  ],
+  "size": 196256,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/Parallels Service",
+  "archs": [
+   "arm64"
+  ],
+  "size": 87920,
+  "hits": {
+   "parallels.com": 1,
+   "expired": 2
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/inittool2",
+  "archs": [
+   "arm64"
+  ],
+  "size": 87792,
+  "hits": {
+   "licens": 1,
+   "parallels.com": 1,
+   "expired": 1,
+   "account": 1
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/7z",
+  "archs": [
+   "arm64"
+  ],
+  "size": 437616,
+  "hits": {
+   "licens": 1,
+   "account": 1
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_osimage_tool",
+  "archs": [
+   "arm64"
+  ],
+  "size": 531904,
+  "hits": {
+   "licens": 29,
+   "activation": 6,
+   "trial": 8,
+   "subscription": 1,
+   "expired": 11,
+   "receipt": 2,
+   "account": 11,
+   "renew": 2,
+   "purchase": 2,
+   "upgrade": 8,
+   "token": 3
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_net_start",
+  "archs": [
+   "arm64"
+  ],
+  "size": 234304,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_client_app",
+  "archs": [
+   "arm64"
+  ],
+  "size": 29434144,
+  "hits": {
+   "licens": 403,
+   "activation": 96,
+   "genuine": 1,
+   "trial": 142,
+   "subscription": 82,
+   "parallels.com": 13,
+   "expired": 54,
+   "receipt": 2,
+   "hardware id": 1,
+   "account": 171,
+   "renew": 105,
+   "purchase": 71,
+   "upgrade": 164,
+   "token": 30
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_ps2pdf",
+  "archs": [
+   "arm64"
+  ],
+  "size": 88384,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_updater_ctl",
+  "archs": [
+   "arm64"
+  ],
+  "size": 291520,
+  "hits": {
+   "parallels.com": 2,
+   "expired": 1
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/launchd_user_wrapper",
+  "archs": [
+   "arm64"
+  ],
+  "size": 70912,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/prl_perf_ctl",
+  "archs": [
+   "arm64"
+  ],
+  "size": 125456,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/7z.dylib",
+  "archs": [
+   "arm64"
+  ],
+  "size": 1627328,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/libMonitorX86Emu.dylib",
+  "archs": [
+   "arm64"
+  ],
+  "size": 3558704,
+  "hits": {
+   "activation": 2
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/Parallels VM.app/Contents/XPCServices/XPCMounter.xpc/Contents/MacOS/XPCMounter",
+  "archs": [
+   "arm64"
+  ],
+  "size": 70480,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/Parallels VM.app/Contents/MacOS/prl_vm_app",
+  "archs": [
+   "arm64"
+  ],
+  "size": 13837008,
+  "hits": {
+   "licens": 39,
+   "activation": 8,
+   "genuine": 1,
+   "trial": 11,
+   "subscription": 9,
+   "parallels.com": 2,
+   "expired": 22,
+   "receipt": 5,
+   "account": 13,
+   "renew": 9,
+   "purchase": 3,
+   "upgrade": 22,
+   "token": 47
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/Parallels Mounter.app/Contents/MacOS/PEFSUtil",
+  "archs": [
+   "arm64"
+  ],
+  "size": 263568,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/Parallels Mounter.app/Contents/MacOS/Parallels Explorer",
+  "archs": [
+   "x86_64"
+  ],
+  "size": 705056,
+  "hits": {}
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/Parallels Mounter.app/Contents/MacOS/Parallels Mounter",
+  "archs": [
+   "arm64"
+  ],
+  "size": 224464,
+  "hits": {
+   "parallels.com": 1,
+   "token": 1
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/Parallels Service.app/Contents/MacOS/prl_disp_service",
+  "archs": [
+   "arm64"
+  ],
+  "size": 7922560,
+  "hits": {
+   "licens": 172,
+   "activation": 29,
+   "genuine": 1,
+   "trial": 44,
+   "subscription": 27,
+   "parallels.com": 8,
+   "expired": 29,
+   "licenses.json": 1,
+   "receipt": 13,
+   "hardware id": 2,
+   "account": 102,
+   "renew": 15,
+   "purchase": 7,
+   "upgrade": 38,
+   "token": 113
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/Parallels Mac VM.app/Contents/MacOS/prl_macvm_app",
+  "archs": [
+   "arm64"
+  ],
+  "size": 2725904,
+  "hits": {
+   "licens": 32,
+   "activation": 10,
+   "trial": 9,
+   "subscription": 1,
+   "parallels.com": 3,
+   "expired": 16,
+   "receipt": 2,
+   "account": 10,
+   "renew": 2,
+   "purchase": 3,
+   "upgrade": 9,
+   "token": 5
+  }
+ },
+ {
+  "path": "Parallels Desktop.app/Contents/MacOS/Parallels Link.app/Contents/MacOS/prl_sharedapp_link",
+  "archs": [
+   "arm64"
+  ],
+  "size": 69536,
+  "hits": {
+   "token": 1
+  }
+ },
+ {
+  "path": "Install.app/Contents/MacOS/Install",
+  "archs": [
+   "arm64"
+  ],
+  "size": 87824,
+  "hits": {
+   "token": 1
+  }
+ }
+]

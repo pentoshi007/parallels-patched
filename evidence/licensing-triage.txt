@@ -1,0 +1,83 @@
+107 Mach-O files total
+universal=56 thin=51
+--- top licensing-relevant ---
+    731680 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtPlugIns/quick/libqtquickcontrols2plugin.dylib
+                            {'licens': 1872}
+  29434144        arm64  Parallels Desktop.app/Contents/MacOS/prl_client_app
+                            {'licens': 403, 'activation': 96, 'genuine': 1, 'trial': 142, 'subscription': 82, 'parallels.com': 13, 'expired': 54, 'receipt': 2, 'renew': 105, 'purchase': 71}
+   8150576 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/ParallelsVirtualizationSDK.framework/ParallelsVirtualizationSDK
+                            {'licens': 240, 'activation': 66, 'genuine': 5, 'trial': 96, 'subscription': 24, 'parallels.com': 34, 'expired': 60, 'receipt': 12, 'renew': 10, 'purchase': 48}
+   8150576 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/ParallelsVirtualizationSDK.framework/Versions/11/ParallelsVirtualizationSDK
+                            {'licens': 240, 'activation': 66, 'genuine': 5, 'trial': 96, 'subscription': 24, 'parallels.com': 34, 'expired': 60, 'receipt': 12, 'renew': 10, 'purchase': 48}
+   8150576 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/ParallelsVirtualizationSDK.framework/Versions/11/libprl_sdk.11.dylib
+                            {'licens': 240, 'activation': 66, 'genuine': 5, 'trial': 96, 'subscription': 24, 'parallels.com': 34, 'expired': 60, 'receipt': 12, 'renew': 10, 'purchase': 48}
+   9206048 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/libPrlGui.3.dylib
+                            {'licens': 224, 'activation': 44, 'genuine': 1, 'trial': 88, 'subscription': 18, 'parallels.com': 24, 'expired': 28, 'receipt': 18, 'renew': 14, 'purchase': 12}
+   7922560        arm64  Parallels Desktop.app/Contents/MacOS/Parallels Service.app/Contents/MacOS/prl_disp_service
+                            {'licens': 172, 'activation': 29, 'genuine': 1, 'trial': 44, 'subscription': 27, 'parallels.com': 8, 'expired': 29, 'licenses.json': 1, 'receipt': 13, 'renew': 15, 'purchase': 7}
+  20538864 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/libPrlXmlModel.1.dylib
+                            {'licens': 84, 'activation': 40, 'trial': 40, 'subscription': 12, 'parallels.com': 8, 'renew': 20}
+    662992 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/libPrlSdkCommunication.1.dylib
+                            {'licens': 68, 'activation': 12, 'trial': 20, 'subscription': 2, 'expired': 26, 'receipt': 4, 'renew': 4, 'purchase': 4}
+  11630640 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtGui.framework/QtGui
+                            {'activation': 56}
+  11630640 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtGui.framework/Versions/5/QtGui
+                            {'activation': 56}
+  13837008        arm64  Parallels Desktop.app/Contents/MacOS/Parallels VM.app/Contents/MacOS/prl_vm_app
+                            {'licens': 39, 'activation': 8, 'genuine': 1, 'trial': 11, 'subscription': 9, 'parallels.com': 2, 'expired': 22, 'receipt': 5, 'renew': 9, 'purchase': 3}
+    535536 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/libAbstractTask.1.dylib
+                            {'licens': 54, 'activation': 12, 'trial': 16, 'subscription': 2, 'expired': 22, 'receipt': 4, 'renew': 4, 'purchase': 4}
+   2725904        arm64  Parallels Desktop.app/Contents/MacOS/Parallels Mac VM.app/Contents/MacOS/prl_macvm_app
+                            {'licens': 32, 'activation': 10, 'trial': 9, 'subscription': 1, 'parallels.com': 3, 'expired': 16, 'receipt': 2, 'renew': 2, 'purchase': 3}
+    539216        arm64  Parallels Desktop.app/Contents/Frameworks/ProxyAppCore.framework/ProxyAppCore
+                            {'activation': 23, 'subscription': 6, 'parallels.com': 1}
+    539216        arm64  Parallels Desktop.app/Contents/Frameworks/ProxyAppCore.framework/Versions/1/ProxyAppCore
+                            {'activation': 23, 'subscription': 6, 'parallels.com': 1}
+   3199584 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtScript.framework/QtScript
+                            {'activation': 30}
+   3199584 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtScript.framework/Versions/5/QtScript
+                            {'activation': 30}
+   1712880       x86_64  Parallels Desktop.app/Contents/MacOS/prl_convert
+                            {'licens': 27, 'activation': 6, 'trial': 8, 'subscription': 1, 'parallels.com': 1, 'expired': 11, 'receipt': 2, 'renew': 2, 'purchase': 2}
+    531904        arm64  Parallels Desktop.app/Contents/MacOS/prl_osimage_tool
+                            {'licens': 29, 'activation': 6, 'trial': 8, 'subscription': 1, 'expired': 11, 'receipt': 2, 'renew': 2, 'purchase': 2}
+  11740560 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtWidgets.framework/QtWidgets
+                            {'licens': 12, 'activation': 22}
+  11740560 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtWidgets.framework/Versions/5/QtWidgets
+                            {'licens': 12, 'activation': 22}
+    505088       x86_64  Parallels Desktop.app/Contents/MacOS/prl_disk_tool
+                            {'licens': 27, 'activation': 6, 'trial': 8, 'subscription': 1, 'expired': 11, 'receipt': 2, 'renew': 2, 'purchase': 2}
+   2625200 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtQuickTemplates2.framework/QtQuickTemplates2
+                            {'activation': 24}
+   2625200 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtQuickTemplates2.framework/Versions/5/QtQuickTemplates2
+                            {'activation': 24}
+    686912        arm64  Parallels Desktop.app/Contents/MacOS/prlsrvctl
+                            {'licens': 35, 'activation': 1, 'trial': 1, 'parallels.com': 1, 'expired': 1}
+    686912        arm64  Parallels Desktop.app/Contents/MacOS/prlctl
+                            {'licens': 35, 'activation': 1, 'trial': 1, 'parallels.com': 1, 'expired': 1}
+  12219008 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtCore.framework/QtCore
+                            {'licens': 6, 'activation': 4, 'expired': 8}
+  12219008 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtCore.framework/Versions/5/QtCore
+                            {'licens': 6, 'activation': 4, 'expired': 8}
+   2649280 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtNetwork.framework/QtNetwork
+                            {'expired': 18}
+   2649280 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtNetwork.framework/Versions/5/QtNetwork
+                            {'expired': 18}
+   1967568 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtPlugIns/platforms/libqcocoa.dylib
+                            {'activation': 8}
+  14979504        arm64  Parallels Desktop.app/Contents/Frameworks/libOSMesa.8.dylib
+                            {'licens': 8, 'expired': 1}
+    291520        arm64  Parallels Desktop.app/Contents/MacOS/prl_updater_ctl
+                            {'parallels.com': 2, 'expired': 1}
+    536736        arm64  Parallels Desktop.app/Contents/MacOS/prl_naptd
+                            {'licens': 1, 'parallels.com': 1, 'expired': 2}
+   9014400 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtQuick.framework/QtQuick
+                            {'expired': 4}
+   9014400 x86_64,arm64  Parallels Desktop.app/Contents/Frameworks/QtQuick.framework/Versions/5/QtQuick
+                            {'expired': 4}
+     87920        arm64  Parallels Desktop.app/Contents/MacOS/Parallels Service
+                            {'parallels.com': 1, 'expired': 2}
+   3558704        arm64  Parallels Desktop.app/Contents/MacOS/libMonitorX86Emu.dylib
+                            {'activation': 2}
+     87792        arm64  Parallels Desktop.app/Contents/MacOS/inittool2
+                            {'licens': 1, 'parallels.com': 1, 'expired': 1}

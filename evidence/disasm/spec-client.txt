@@ -1,0 +1,5 @@
+801890 trial_period_for_this_copy
+801a0e trial_activation_key_has_expired
+8119fe ShowTrialWarningDlg
+816a4b Continue_Trial
+816bc6 Get_Genuine_Copy

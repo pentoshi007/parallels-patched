@@ -1,0 +1,6 @@
+632885 save_actual_binary
+63258a signature_field
+63286c cleanup_storage
+632594 activated_hosts
+633133 mainPeriodEndsAt
+6324de licenseChanged

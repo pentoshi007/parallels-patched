@@ -1,0 +1,4 @@
+{
+ "license": "{\"offline\":true,\"is_trial\":false,\"is_beta\":false,\"product_version\":\"27.0.3\",\"product\":\"Parallels Desktop for Mac\",\"product_name\":\"Parallels Desktop for Mac\",\"lic_product\":\"pdfm\",\"lic_platform\":\"mac\",\"lic_edition\":\"Professional Edition\",\"license_key\":\"PDFM27-PER-0000-0000-0000-0000\",\"created_date\":\"2026-01-01T00:00:00Z\",\"expiration_date\":\"2036-01-01T00:00:00Z\",\"main_period_ends_at\":\"2036-01-01T00:00:00Z\",\"grace_period_ends_at\":\"2036-02-01T00:00:00Z\",\"expires_at\":\"2036-01-01T00:00:00Z\",\"auto_renewable\":false,\"is_auto_renewable\":false,\"activated_at\":\"2026-01-01T00:00:00Z\",\"activation_type\":\"offline\",\"activated_hosts\":[],\"hw_id_list\":[],\"subscription\":false,\"pdfm_by_subscription\":false,\"pde_by_subscription\":false}",
+ "signature": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+}

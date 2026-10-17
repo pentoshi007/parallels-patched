@@ -1,0 +1,15 @@
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS/Parallels Service.app/Contents/Frameworks : ../../../../Contents/Frameworks
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS/Parallels Service.app/Contents/Resources/prl_boot_32 : ../../../../Resources/prl_boot_32
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS/Parallels Service.app/Contents/Resources/prl_boot_32_win10 : ../../../../Resources/prl_boot_32_win10
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS/Parallels Service.app/Contents/Resources/prl_boot_64 : ../../../../Resources/prl_boot_64
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS/Parallels Service.app/Contents/Resources/prl_boot_64_win10 : ../../../../Resources/prl_boot_64_win10
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS/Parallels Mounter.app/Contents/Frameworks : ../../../../Contents/Frameworks
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/Resources/qml/QtQuick.2/libqtquick2plugin.dylib : ../../../Frameworks/QtPlugIns/quick/libqtquick2plugin.dylib
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/Resources/qml/QtGraphicalEffects/libqtgraphicaleffectsplugin.dylib : ../../../Frameworks/QtPlugIns/quick/libqtgraphicaleffectsplugin.dylib
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/Resources/qml/QtGraphicalEffects/private/libqtgraphicaleffectsprivate.dylib : ../../../../Frameworks/QtPlugIns/quick/libqtgraphicaleffectsprivate.dylib
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/Resources/qml/QtQuick/PrivateWidgets/libwidgetsplugin.dylib : ../../../../Frameworks/QtPlugIns/quick/libwidgetsplugin.dylib
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/Resources/qml/QtQuick/Templates.2/libqtquicktemplates2plugin.dylib : ../../../../Frameworks/QtPlugIns/quick/libqtquicktemplates2plugin.dylib
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/Resources/qml/QtQuick/Controls.2/libqtquickcontrols2plugin.dylib : ../../../../Frameworks/QtPlugIns/quick/libqtquickcontrols2plugin.dylib
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/Resources/qml/QtQuick/Layouts/libqquicklayoutsplugin.dylib : ../../../../Frameworks/QtPlugIns/quick/libqquicklayoutsplugin.dylib
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/Resources/qml/QtQuick/Window.2/libwindowplugin.dylib : ../../../../Frameworks/QtPlugIns/quick/libwindowplugin.dylib
+ERROR: Dangerous link path was ignored : Parallels Desktop 27/Parallels Desktop.app/Contents/Frameworks/ParallelsVirtualizationSDK.framework/Versions/11/Frameworks/QtPlugIns : ../../../../../../Contents/Frameworks/QtPlugIns

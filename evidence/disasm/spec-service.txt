@@ -1,0 +1,12 @@
+6276ac loaded_license_state
+628115 UpdateLicense_executed
+63243e forced_hwid
+6325ed licensing/get_trial
+632601 licensing/activate
+632614 licensing/sso_activate
+6332f8 license_key
+63355e expiration_date
+638d32 Wrong_format_of_data_for_offline
+638d5e Offline_activation_finished
+641338 expires_at
+67d2fe /licenses.json

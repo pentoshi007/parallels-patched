@@ -1,0 +1,24 @@
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27': .DS_Store
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27': '.HFS+ Private Directory Data'$'\r'
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27': .Trash
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27': .VolumeIcon.icns
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27': .background
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27': .fseventsd
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27': .fseventsd:com.apple.system.Security
+Files '/home/ubuntu/reverse/parallels/work/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS/Parallels Service.app/Contents/MacOS/prl_disp_service' and '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS/Parallels Service.app/Contents/MacOS/prl_disp_service' differ
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': inittool:com.apple.cs.CodeDirectory
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': inittool:com.apple.cs.CodeRequirements
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': inittool:com.apple.cs.CodeSignature
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': parallels_wrapper:com.apple.cs.CodeDirectory
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': parallels_wrapper:com.apple.cs.CodeRequirements
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': parallels_wrapper:com.apple.cs.CodeSignature
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': prlcopy:com.apple.cs.CodeDirectory
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': prlcopy:com.apple.cs.CodeRequirements
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': prlcopy:com.apple.cs.CodeSignature
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': prlexec:com.apple.cs.CodeDirectory
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': prlexec:com.apple.cs.CodeRequirements
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': prlexec:com.apple.cs.CodeSignature
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': watchdog:com.apple.cs.CodeDirectory
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': watchdog:com.apple.cs.CodeRequirements
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27/Parallels Desktop.app/Contents/MacOS': watchdog:com.apple.cs.CodeSignature
+Only in '/home/ubuntu/reverse/parallels/work/verify/Parallels Desktop 27': '[HFS+ Private Data]'
