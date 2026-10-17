@@ -77,13 +77,20 @@ security add-trusted-cert -p codeSign -k "$KC" "$TMP/cert.pem" >/dev/null 2>&1 |
 security set-key-partition-list -S apple-tool:,apple:,codesign: \
   -s -k "$KC_PASS" "$KC" >/dev/null 2>&1 || true
 
-# Append to the user keychain search list (never replace it); bash 3.2-safe.
+# Append to the user keychain search list (never replace it). The listing is
+# space- and quote-formatted and may contain stale entries, so normalise
+# every line and keep only paths that exist. bash 3.2-safe.
 KCLIST=()
 while IFS= read -r line; do
-  line="${line#\"}"; line="${line%\"}"
-  [ -n "$line" ] && KCLIST+=("$line")
+  line="$(printf '%s' "$line" | sed -E 's/^[[:space:]]+"?//; s/"?[[:space:]]*$//')"
+  case "$line" in ""|"$KC") continue ;; esac
+  [ -e "$line" ] && KCLIST+=("$line")
 done < <(security list-keychains -d user 2>/dev/null)
-security list-keychains -d user -s "${KCLIST[@]}" "$KC" >/dev/null 2>&1 || true
+if [ "${#KCLIST[@]}" -gt 0 ]; then
+  security list-keychains -d user -s "${KCLIST[@]}" "$KC" >/dev/null 2>&1 || true
+else
+  security list-keychains -d user -s "$KC" >/dev/null 2>&1 || true
+fi
 
 H="$(security find-identity -v -p codesigning 2>/dev/null | awk -v n="$IDENTITY_NAME" 'index($0, "\"" n "\"") {print $2; exit}')"
 [ -n "$H" ] || fail "identity created but not visible to find-identity"
