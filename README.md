@@ -16,8 +16,8 @@ zero outbound Parallels connections.
 
     bash bootstrap.command
 
-That fetches the pristine DMG from the private release `v27.0.3-58680` (needs
-the `gh` CLI logged in with access to this repo), verifies its SHA-256,
+That fetches the pristine DMG from the `v27.0.3-58680` release on this repo
+(gh CLI; GitHub login needed when the repo is private), verifies its SHA-256,
 creates the local signing identity on first use, then runs the installer.
 If you already have the DMG at `source/`, skip straight to:
 
@@ -36,6 +36,6 @@ entitlements, service recovery).
     evidence/      patch spec + disassembly, networking-fix write-up, logs
 
 Not in this repo (intentionally): `source/*.dmg` (the 155 MB pristine
-installer - attached to the private `v27.0.3-58680` release; `bootstrap.command`
+installer - attached to the `v27.0.3-58680` release; `bootstrap.command`
 fetches it) and `archive/` (quarantined broken payload from the initial
 transfer).

@@ -9,7 +9,7 @@ set -uo pipefail
 DIR="$(cd -- "$(dirname -- "$0")" && pwd)"
 cd "$DIR" || exit 1
 
-REPO="pentoshi007/parallels-patched-transfer"
+REPO="pentoshi007/parallels-patched"
 TAG="v27.0.3-58680"
 DMG="$DIR/source/ParallelsDesktop-27.0.3-58680.dmg"
 SHA="301175ad94bc8575adb3f4ced24e9707a328c0e4220330cc4e92bd1da6da6bea"
@@ -24,7 +24,7 @@ if [ -f "$DMG" ] && [ "$(shasum -a 256 "$DMG" | awk '{print $1}')" = "$SHA" ]; t
   say "[1/3] pristine DMG present, checksum OK"
 else
   say "[1/3] fetching pristine DMG from private release $TAG ..."
-  command -v gh >/dev/null 2>&1 || die "gh CLI required (brew install gh) - the repo is private, so the download needs your GitHub login."
+  command -v gh >/dev/null 2>&1 || die "gh CLI required (brew install gh) - the release download needs your GitHub login if the repo is private."
   gh auth status >/dev/null 2>&1 || die "Not logged in to GitHub - run: gh auth login"
   rm -f "$DMG"
   gh release download "$TAG" -R "$REPO" -p '*.dmg' -D "$DIR/source" --clobber || die "release download failed"
