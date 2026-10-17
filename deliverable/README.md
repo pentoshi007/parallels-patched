@@ -50,11 +50,15 @@ What this build does:
         -k pdlocal /Library/Keychains/pdlocal.keychain-db
 
   (The installer finds identities in any keychain on the search list; a
-  dedicated keychain like the above works fine.)
+  dedicated keychain like the above works fine.) `setup-signing-identity.command`
+  in this folder automates this (user-domain keychain, no admin needed), and
+  `../bootstrap.command` runs it automatically when the identity is missing.
 
 ## Install
 
-1. Copy this folder (and the DMG) to the Mac.
+1. Clone the repo and run `bash bootstrap.command` from the repo root (fetches
+   the DMG and creates the signing identity for you), or copy this folder plus
+   the DMG manually.
 2. In Terminal:
 
        cd <folder>/deliverable
@@ -232,6 +236,7 @@ lease (stuck at “getting IP configuration”), restart the daemon —
       install.command      — rebuilds everything from the DMG (this file's name is the entry point)
       uninstall.command    — removes app, license, hosts block
       licenses.json        — the offline Business Edition license that gets installed
+      setup-signing-identity.command — creates the "PDLocal Code Sign" identity
       signatures/          — entitlement sets used for signing (see signatures/README.txt)
       README.md            — this file
 

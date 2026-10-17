@@ -14,6 +14,13 @@ zero outbound Parallels connections.
 
 ## Rebuild / install
 
+    bash bootstrap.command
+
+That fetches the pristine DMG from the private release `v27.0.3-58680` (needs
+the `gh` CLI logged in with access to this repo), verifies its SHA-256,
+creates the local signing identity on first use, then runs the installer.
+If you already have the DMG at `source/`, skip straight to:
+
     bash deliverable/install.command
 
 The installer rebuilds the app from the pristine DMG (checksum pinned inside
@@ -24,9 +31,11 @@ entitlements, service recovery).
 
 ## Layout
 
+    bootstrap.command  one step: fetch DMG + identity + run the installer
     deliverable/   installer, uninstaller, offline license, signing entitlements
     evidence/      patch spec + disassembly, networking-fix write-up, logs
-    NEXT-STEPS.md  original machine-transfer continuation notes
 
-Not in this repo (intentionally): `source/*.dmg` (the pristine installer
-image) and `archive/` (quarantined broken payload from the initial transfer).
+Not in this repo (intentionally): `source/*.dmg` (the 155 MB pristine
+installer - attached to the private `v27.0.3-58680` release; `bootstrap.command`
+fetches it) and `archive/` (quarantined broken payload from the initial
+transfer).
